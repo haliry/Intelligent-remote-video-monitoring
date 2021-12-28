@@ -1,0 +1,23 @@
+/*! night.css classes dark viewing conditions */
+
+body {
+    background-color: #202020;
+}
+
+.btn-default {
+    background-color: #404040;
+	color: #C0C0C0;
+}
+
+.panel-default>.panel-heading {
+    background-color: #404040;
+	color: #C0C0C0;
+}
+
+fieldset {
+   color:#808080;
+}
+
+#background {
+	background-color: #202020;
+}

@@ -1,0 +1,3409 @@
+{2021/05/08 22:13:50} RaspiMJPEG Version 5.9.5
+{2021/05/08 22:13:50} h264 search /var/www/picam/media/vi_0000_20210508_221350.mp4
+{2021/05/08 22:13:50} recommended video buffer size 65536
+{2021/05/08 22:13:50} h264 size set to 131072
+{2021/05/08 22:13:50} recommended video buffers 1
+{2021/05/08 22:13:50} h264 buffers set to recommended 1
+{2021/05/08 22:13:50} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/08 22:13:50} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/08 22:13:50} MJPEG streaming, ready to receive commands
+{2021/05/08 22:13:50} send smd 9
+[2021/05/08 22:13:51] RaspiCam support started
+[2021/05/08 22:13:51] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/08 22:13:51] Scheduler loop is started
+{2021/05/08 22:13:51} Starting command loop
+[2021/05/08 22:13:51] Reload parameters command requested
+[2021/05/08 22:13:51] Scheduler loop is started
+[2021/05/08 22:13:52] New period detected 0
+[2021/05/08 22:13:52] Scheduled management tasks. Next at 1620486832
+[2021/05/08 22:14:35] Logged in user:Air:
+[2021/05/08 22:14:35] UserLevel 6
+{2021/05/08 22:15:05} Change: video_width = 1920
+{2021/05/08 22:15:05} Change: video_height = 1080
+{2021/05/08 22:15:05} Change: video_fps = 25
+{2021/05/08 22:15:05} Change: MP4Box_fps = 25
+{2021/05/08 22:15:05} Change: image_width = 2592
+{2021/05/08 22:15:05} Change: image_height = 1944
+{2021/05/08 22:15:05} Change: fps_divider = 1
+{2021/05/08 22:15:05} h264 search /var/www/picam/media/vi_0000_20210508_221505.mp4
+{2021/05/08 22:15:05} recommended video buffer size 65536
+{2021/05/08 22:15:05} h264 size set to 131072
+{2021/05/08 22:15:05} recommended video buffers 1
+{2021/05/08 22:15:05} h264 buffers set to recommended 1
+{2021/05/08 22:15:12} Change: video_width = 1280
+{2021/05/08 22:15:12} Change: video_height = 0720
+{2021/05/08 22:15:12} Change: video_fps = 25
+{2021/05/08 22:15:12} Change: MP4Box_fps = 25
+{2021/05/08 22:15:12} Change: image_width = 2592
+{2021/05/08 22:15:12} Change: image_height = 1944
+{2021/05/08 22:15:12} Change: fps_divider = 1
+{2021/05/08 22:15:12} h264 search /var/www/picam/media/vi_0000_20210508_221512.mp4
+{2021/05/08 22:15:12} recommended video buffer size 65536
+{2021/05/08 22:15:12} h264 size set to 131072
+{2021/05/08 22:15:12} recommended video buffers 1
+{2021/05/08 22:15:12} h264 buffers set to recommended 1
+{2021/05/08 22:15:21} Change: video_width = 1920
+{2021/05/08 22:15:21} Change: video_height = 1080
+{2021/05/08 22:15:21} Change: video_fps = 25
+{2021/05/08 22:15:21} Change: MP4Box_fps = 25
+{2021/05/08 22:15:21} Change: image_width = 2592
+{2021/05/08 22:15:21} Change: image_height = 1944
+{2021/05/08 22:15:21} Change: fps_divider = 1
+{2021/05/08 22:15:21} h264 search /var/www/picam/media/vi_0000_20210508_221521.mp4
+{2021/05/08 22:15:21} recommended video buffer size 65536
+{2021/05/08 22:15:21} h264 size set to 131072
+{2021/05/08 22:15:21} recommended video buffers 1
+{2021/05/08 22:15:21} h264 buffers set to recommended 1
+{2021/05/08 22:15:33} Change: video_width = 1280
+{2021/05/08 22:15:33} Change: video_height = 0720
+{2021/05/08 22:15:33} Change: video_fps = 25
+{2021/05/08 22:15:33} Change: MP4Box_fps = 25
+{2021/05/08 22:15:33} Change: image_width = 2592
+{2021/05/08 22:15:33} Change: image_height = 1944
+{2021/05/08 22:15:33} Change: fps_divider = 1
+{2021/05/08 22:15:33} h264 search /var/www/picam/media/vi_0000_20210508_221533.mp4
+{2021/05/08 22:15:33} recommended video buffer size 65536
+{2021/05/08 22:15:33} h264 size set to 131072
+{2021/05/08 22:15:33} recommended video buffers 1
+{2021/05/08 22:15:33} h264 buffers set to recommended 1
+{2021/05/08 22:15:38} Change: video_width = 1920
+{2021/05/08 22:15:38} Change: video_height = 1080
+{2021/05/08 22:15:38} Change: video_fps = 25
+{2021/05/08 22:15:38} Change: MP4Box_fps = 25
+{2021/05/08 22:15:38} Change: image_width = 2592
+{2021/05/08 22:15:38} Change: image_height = 1944
+{2021/05/08 22:15:38} Change: fps_divider = 1
+{2021/05/08 22:15:38} h264 search /var/www/picam/media/vi_0000_20210508_221538.mp4
+{2021/05/08 22:15:38} recommended video buffer size 65536
+{2021/05/08 22:15:38} h264 size set to 131072
+{2021/05/08 22:15:38} recommended video buffers 1
+{2021/05/08 22:15:38} h264 buffers set to recommended 1
+{2021/05/08 22:15:42} Change: video_width = 1280
+{2021/05/08 22:15:42} Change: video_height = 0720
+{2021/05/08 22:15:42} Change: video_fps = 25
+{2021/05/08 22:15:42} Change: MP4Box_fps = 25
+{2021/05/08 22:15:42} Change: image_width = 2592
+{2021/05/08 22:15:42} Change: image_height = 1944
+{2021/05/08 22:15:42} Change: fps_divider = 1
+{2021/05/08 22:15:42} h264 search /var/www/picam/media/vi_0000_20210508_221542.mp4
+{2021/05/08 22:15:42} recommended video buffer size 65536
+{2021/05/08 22:15:42} h264 size set to 131072
+{2021/05/08 22:15:42} recommended video buffers 1
+{2021/05/08 22:15:42} h264 buffers set to recommended 1
+{2021/05/08 22:15:45} Change: video_width = 1920
+{2021/05/08 22:15:45} Change: video_height = 1080
+{2021/05/08 22:15:45} Change: video_fps = 25
+{2021/05/08 22:15:45} Change: MP4Box_fps = 25
+{2021/05/08 22:15:45} Change: image_width = 2592
+{2021/05/08 22:15:45} Change: image_height = 1944
+{2021/05/08 22:15:45} Change: fps_divider = 1
+{2021/05/08 22:15:45} h264 search /var/www/picam/media/vi_0000_20210508_221545.mp4
+{2021/05/08 22:15:45} recommended video buffer size 65536
+{2021/05/08 22:15:45} h264 size set to 131072
+{2021/05/08 22:15:45} recommended video buffers 1
+{2021/05/08 22:15:45} h264 buffers set to recommended 1
+{2021/05/08 22:15:58} Change: video_width = 1920
+{2021/05/08 22:15:58} Change: video_height = 1080
+{2021/05/08 22:15:58} Change: video_fps = 01
+{2021/05/08 22:15:58} Change: MP4Box_fps = 30
+{2021/05/08 22:15:58} Change: image_width = 2592
+{2021/05/08 22:15:58} Change: image_height = 1944
+{2021/05/08 22:15:58} Change: fps_divider = 1
+{2021/05/08 22:15:58} h264 search /var/www/picam/media/vi_0000_20210508_221558.mp4
+{2021/05/08 22:15:58} recommended video buffer size 65536
+{2021/05/08 22:15:58} h264 size set to 131072
+{2021/05/08 22:15:58} recommended video buffers 1
+{2021/05/08 22:15:58} h264 buffers set to recommended 1
+{2021/05/08 22:16:14} Change: video_width = 1280
+{2021/05/08 22:16:14} Change: video_height = 0720
+{2021/05/08 22:16:14} Change: video_fps = 25
+{2021/05/08 22:16:14} Change: MP4Box_fps = 25
+{2021/05/08 22:16:14} Change: image_width = 2592
+{2021/05/08 22:16:14} Change: image_height = 1944
+{2021/05/08 22:16:14} Change: fps_divider = 1
+{2021/05/08 22:16:14} h264 search /var/www/picam/media/vi_0000_20210508_221614.mp4
+{2021/05/08 22:16:14} recommended video buffer size 65536
+{2021/05/08 22:16:14} h264 size set to 131072
+{2021/05/08 22:16:14} recommended video buffers 1
+{2021/05/08 22:16:14} h264 buffers set to recommended 1
+{2021/05/08 22:16:21} Change: video_width = 1920
+{2021/05/08 22:16:21} Change: video_height = 1080
+{2021/05/08 22:16:21} Change: video_fps = 25
+{2021/05/08 22:16:21} Change: MP4Box_fps = 25
+{2021/05/08 22:16:21} Change: image_width = 2592
+{2021/05/08 22:16:21} Change: image_height = 1944
+{2021/05/08 22:16:21} Change: fps_divider = 1
+{2021/05/08 22:16:21} h264 search /var/www/picam/media/vi_0000_20210508_221621.mp4
+{2021/05/08 22:16:21} recommended video buffer size 65536
+{2021/05/08 22:16:21} h264 size set to 131072
+{2021/05/08 22:16:21} recommended video buffers 1
+{2021/05/08 22:16:21} h264 buffers set to recommended 1
+{2021/05/08 22:16:26} Change: video_width = 1280
+{2021/05/08 22:16:26} Change: video_height = 0720
+{2021/05/08 22:16:26} Change: video_fps = 25
+{2021/05/08 22:16:26} Change: MP4Box_fps = 25
+{2021/05/08 22:16:26} Change: image_width = 2592
+{2021/05/08 22:16:26} Change: image_height = 1944
+{2021/05/08 22:16:26} Change: fps_divider = 1
+{2021/05/08 22:16:26} h264 search /var/www/picam/media/vi_0000_20210508_221626.mp4
+{2021/05/08 22:16:26} recommended video buffer size 65536
+{2021/05/08 22:16:26} h264 size set to 131072
+{2021/05/08 22:16:26} recommended video buffers 1
+{2021/05/08 22:16:26} h264 buffers set to recommended 1
+{2021/05/08 22:17:21} Change: annotation = PiCam %Y.%M.%D %h:%m:%s
+{2021/05/08 22:17:38} Change: anno_background = 1
+{2021/05/08 22:17:44} Change: anno_background = 0
+{2021/05/08 22:18:23} Change: motion_external = 0
+[2021/05/08 22:18:24] Logged in user:Air:
+[2021/05/08 22:18:24] UserLevel 6
+[2021/05/08 22:19:06] Logged in user:Air:
+[2021/05/08 22:19:06] UserLevel 6
+[2021/05/08 22:19:14] Logged in user:Air:
+[2021/05/08 22:19:14] UserLevel 6
+[2021/05/08 22:19:34] Logged in user:Air:
+[2021/05/08 22:19:34] UserLevel 6
+[2021/05/08 22:19:37] Logged in user:Air:
+[2021/05/08 22:19:37] UserLevel 6
+[2021/05/08 22:19:41] Logged in user:Air:
+[2021/05/08 22:19:41] UserLevel 6
+[2021/05/08 22:19:44] Logged in user:Air:
+[2021/05/08 22:19:44] UserLevel 6
+[2021/05/08 22:19:46] Logged in user:Air:
+[2021/05/08 22:19:46] UserLevel 6
+[2021/05/08 22:20:02] Logged in user:Air:
+[2021/05/08 22:20:02] UserLevel 6
+{2021/05/08 22:20:18} Internal motion detection started
+{2021/05/08 22:20:18} h264 search /var/www/picam/media/vi_0000_20210508_222018.mp4
+{2021/05/08 22:20:18} recommended video buffer size 65536
+{2021/05/08 22:20:18} h264 size set to 131072
+{2021/05/08 22:20:18} recommended video buffers 1
+{2021/05/08 22:20:18} h264 buffers set to recommended 1
+{2021/05/08 22:20:18} Set up internal detect width=81 height=45
+{2021/05/08 22:20:22} send smd 1
+[2021/05/08 22:20:22] Start capture requested from Pipe
+[2021/05/08 22:20:22] Send ca 1
+{2021/05/08 22:20:22} Capturing started
+{2021/05/08 22:20:37} send smd 0
+[2021/05/08 22:20:37] Stop capture requested
+[2021/05/08 22:20:37] Send ca 0
+{2021/05/08 22:20:37} Capturing stopped
+{2021/05/08 22:20:37} Add /var/www/picam/media/vi_0000_20210508_222022.mp4 to Box Queue at pos 0
+{2021/05/08 22:20:38} Start boxing /var/www/picam/media/vi_0000_20210508_222022.h264 to /var/www/picam/media/vi_0000_20210508_222022.mp4 Queue pos 0
+{2021/05/08 22:20:39} Finished boxing /var/www/picam/media/vi_0000_20210508_222022.mp4 from Box Queue at pos 0
+{2021/05/08 22:20:39} Removed item from Box Queue
+{2021/05/08 22:20:40} Internal motion detection stopped
+{2021/05/08 22:20:40} h264 search /var/www/picam/media/vi_0001_20210508_222040.mp4
+{2021/05/08 22:20:40} recommended video buffer size 65536
+{2021/05/08 22:20:40} h264 size set to 131072
+{2021/05/08 22:20:40} recommended video buffers 1
+{2021/05/08 22:20:40} h264 buffers set to recommended 1
+{2021/05/08 22:20:40} Set up internal detect width=81 height=45
+[2021/05/08 22:21:35] Logged in user:Air:
+[2021/05/08 22:21:35] UserLevel 6
+{2021/05/08 22:22:23} Change: video_width = 1280
+{2021/05/08 22:22:23} Change: video_height = 0720
+{2021/05/08 22:22:23} Change: video_fps = 25
+{2021/05/08 22:22:23} Change: MP4Box_fps = 25
+{2021/05/08 22:22:23} Change: image_width = 2592
+{2021/05/08 22:22:23} Change: image_height = 1944
+{2021/05/08 22:22:23} Change: fps_divider = 1
+{2021/05/08 22:22:23} h264 search /var/www/picam/media/vi_0001_20210508_222223.mp4
+{2021/05/08 22:22:23} recommended video buffer size 65536
+{2021/05/08 22:22:23} h264 size set to 131072
+{2021/05/08 22:22:23} recommended video buffers 1
+{2021/05/08 22:22:23} h264 buffers set to recommended 1
+{2021/05/08 22:22:23} Set up internal detect width=81 height=45
+{2021/05/08 22:25:20} Change: video_width = 1920
+{2021/05/08 22:25:20} Change: video_height = 1080
+{2021/05/08 22:25:20} Change: video_fps = 25
+{2021/05/08 22:25:20} Change: MP4Box_fps = 25
+{2021/05/08 22:25:20} Change: image_width = 2592
+{2021/05/08 22:25:20} Change: image_height = 1944
+{2021/05/08 22:25:20} Change: fps_divider = 1
+{2021/05/08 22:25:20} h264 search /var/www/picam/media/vi_0001_20210508_222520.mp4
+{2021/05/08 22:25:20} recommended video buffer size 65536
+{2021/05/08 22:25:20} h264 size set to 131072
+{2021/05/08 22:25:20} recommended video buffers 1
+{2021/05/08 22:25:20} h264 buffers set to recommended 1
+{2021/05/08 22:25:20} Set up internal detect width=121 height=68
+{2021/05/08 22:25:58} Change: video_width = 1280
+{2021/05/08 22:25:58} Change: video_height = 0720
+{2021/05/08 22:25:58} Change: video_fps = 25
+{2021/05/08 22:25:58} Change: MP4Box_fps = 25
+{2021/05/08 22:25:58} Change: image_width = 2592
+{2021/05/08 22:25:58} Change: image_height = 1944
+{2021/05/08 22:25:58} Change: fps_divider = 1
+{2021/05/08 22:25:58} h264 search /var/www/picam/media/vi_0001_20210508_222558.mp4
+{2021/05/08 22:25:58} recommended video buffer size 65536
+{2021/05/08 22:25:58} h264 size set to 131072
+{2021/05/08 22:25:58} recommended video buffers 1
+{2021/05/08 22:25:58} h264 buffers set to recommended 1
+{2021/05/08 22:25:58} Set up internal detect width=81 height=45
+{2021/05/08 22:26:51} Change: anno_text_size = 10
+{2021/05/08 22:27:00} Change: anno_text_size = 40
+{2021/05/08 22:27:10} Change: video_width = 1296
+{2021/05/08 22:27:10} Change: video_height = 972
+{2021/05/08 22:27:10} Change: video_fps = 25
+{2021/05/08 22:27:10} Change: MP4Box_fps = 25
+{2021/05/08 22:27:10} Change: image_width = 2592
+{2021/05/08 22:27:10} Change: image_height = 1944
+{2021/05/08 22:27:10} Change: fps_divider = 1
+{2021/05/08 22:27:10} h264 search /var/www/picam/media/vi_0001_20210508_222710.mp4
+{2021/05/08 22:27:10} recommended video buffer size 65536
+{2021/05/08 22:27:10} h264 size set to 131072
+{2021/05/08 22:27:10} recommended video buffers 1
+{2021/05/08 22:27:10} h264 buffers set to recommended 1
+{2021/05/08 22:27:10} Set up internal detect width=82 height=61
+{2021/05/08 22:27:32} Change: video_width = 1920
+{2021/05/08 22:27:32} Change: video_height = 1080
+{2021/05/08 22:27:32} Change: video_fps = 25
+{2021/05/08 22:27:32} Change: MP4Box_fps = 25
+{2021/05/08 22:27:32} Change: image_width = 2592
+{2021/05/08 22:27:32} Change: image_height = 1944
+{2021/05/08 22:27:32} Change: fps_divider = 1
+{2021/05/08 22:27:32} h264 search /var/www/picam/media/vi_0001_20210508_222732.mp4
+{2021/05/08 22:27:32} recommended video buffer size 65536
+{2021/05/08 22:27:32} h264 size set to 131072
+{2021/05/08 22:27:32} recommended video buffers 1
+{2021/05/08 22:27:32} h264 buffers set to recommended 1
+{2021/05/08 22:27:32} Set up internal detect width=121 height=68
+{2021/05/08 22:27:36} Change: video_width = 1280
+{2021/05/08 22:27:36} Change: video_height = 0720
+{2021/05/08 22:27:36} Change: video_fps = 25
+{2021/05/08 22:27:36} Change: MP4Box_fps = 25
+{2021/05/08 22:27:36} Change: image_width = 2592
+{2021/05/08 22:27:36} Change: image_height = 1944
+{2021/05/08 22:27:36} Change: fps_divider = 1
+{2021/05/08 22:27:36} h264 search /var/www/picam/media/vi_0001_20210508_222736.mp4
+{2021/05/08 22:27:36} recommended video buffer size 65536
+{2021/05/08 22:27:36} h264 size set to 131072
+{2021/05/08 22:27:36} recommended video buffers 1
+{2021/05/08 22:27:36} h264 buffers set to recommended 1
+{2021/05/08 22:27:36} Set up internal detect width=81 height=45
+{2021/05/08 22:27:39} Change: video_width = 1296
+{2021/05/08 22:27:39} Change: video_height = 972
+{2021/05/08 22:27:39} Change: video_fps = 25
+{2021/05/08 22:27:39} Change: MP4Box_fps = 25
+{2021/05/08 22:27:39} Change: image_width = 2592
+{2021/05/08 22:27:39} Change: image_height = 1944
+{2021/05/08 22:27:39} Change: fps_divider = 1
+{2021/05/08 22:27:39} h264 search /var/www/picam/media/vi_0001_20210508_222739.mp4
+{2021/05/08 22:27:39} recommended video buffer size 65536
+{2021/05/08 22:27:39} h264 size set to 131072
+{2021/05/08 22:27:39} recommended video buffers 1
+{2021/05/08 22:27:39} h264 buffers set to recommended 1
+{2021/05/08 22:27:39} Set up internal detect width=82 height=61
+{2021/05/08 22:31:07} Change: video_width = 1920
+{2021/05/08 22:31:07} Change: video_height = 1080
+{2021/05/08 22:31:07} Change: video_fps = 25
+{2021/05/08 22:31:07} Change: MP4Box_fps = 25
+{2021/05/08 22:31:07} Change: image_width = 2592
+{2021/05/08 22:31:07} Change: image_height = 1944
+{2021/05/08 22:31:07} Change: fps_divider = 1
+{2021/05/08 22:31:07} h264 search /var/www/picam/media/vi_0001_20210508_223107.mp4
+{2021/05/08 22:31:07} recommended video buffer size 65536
+{2021/05/08 22:31:07} h264 size set to 131072
+{2021/05/08 22:31:07} recommended video buffers 1
+{2021/05/08 22:31:07} h264 buffers set to recommended 1
+{2021/05/08 22:31:07} Set up internal detect width=121 height=68
+{2021/05/08 22:31:14} Change: video_width = 1280
+{2021/05/08 22:31:14} Change: video_height = 0720
+{2021/05/08 22:31:14} Change: video_fps = 25
+{2021/05/08 22:31:14} Change: MP4Box_fps = 25
+{2021/05/08 22:31:14} Change: image_width = 2592
+{2021/05/08 22:31:14} Change: image_height = 1944
+{2021/05/08 22:31:14} Change: fps_divider = 1
+{2021/05/08 22:31:14} h264 search /var/www/picam/media/vi_0001_20210508_223114.mp4
+{2021/05/08 22:31:14} recommended video buffer size 65536
+{2021/05/08 22:31:14} h264 size set to 131072
+{2021/05/08 22:31:14} recommended video buffers 1
+{2021/05/08 22:31:14} h264 buffers set to recommended 1
+{2021/05/08 22:31:14} Set up internal detect width=81 height=45
+{2021/05/08 22:31:34} Change: video_width = 768
+{2021/05/08 22:31:34} Change: video_height = 576
+{2021/05/08 22:31:34} Change: video_fps = 25
+{2021/05/08 22:31:34} Change: MP4Box_fps = 25
+{2021/05/08 22:31:34} Change: image_width = 2592
+{2021/05/08 22:31:34} Change: image_height = 1944
+{2021/05/08 22:31:34} Change: fps_divider = 1
+{2021/05/08 22:31:34} h264 search /var/www/picam/media/vi_0001_20210508_223134.mp4
+{2021/05/08 22:31:34} recommended video buffer size 65536
+{2021/05/08 22:31:34} h264 size set to 131072
+{2021/05/08 22:31:34} recommended video buffers 1
+{2021/05/08 22:31:34} h264 buffers set to recommended 1
+{2021/05/08 22:31:34} Set up internal detect width=49 height=36
+{2021/05/08 22:31:51} Change: video_width = 1296
+{2021/05/08 22:31:51} Change: video_height = 972
+{2021/05/08 22:31:51} Change: video_fps = 25
+{2021/05/08 22:31:51} Change: MP4Box_fps = 25
+{2021/05/08 22:31:51} Change: image_width = 2592
+{2021/05/08 22:31:51} Change: image_height = 1944
+{2021/05/08 22:31:51} Change: fps_divider = 1
+{2021/05/08 22:31:51} h264 search /var/www/picam/media/vi_0001_20210508_223151.mp4
+{2021/05/08 22:31:51} recommended video buffer size 65536
+{2021/05/08 22:31:51} h264 size set to 131072
+{2021/05/08 22:31:51} recommended video buffers 1
+{2021/05/08 22:31:51} h264 buffers set to recommended 1
+{2021/05/08 22:31:51} Set up internal detect width=82 height=61
+{2021/05/08 22:31:55} Change: video_width = 768
+{2021/05/08 22:31:55} Change: video_height = 576
+{2021/05/08 22:31:55} Change: video_fps = 25
+{2021/05/08 22:31:55} Change: MP4Box_fps = 25
+{2021/05/08 22:31:55} Change: image_width = 2592
+{2021/05/08 22:31:55} Change: image_height = 1944
+{2021/05/08 22:31:55} Change: fps_divider = 1
+{2021/05/08 22:31:55} h264 search /var/www/picam/media/vi_0001_20210508_223155.mp4
+{2021/05/08 22:31:55} recommended video buffer size 65536
+{2021/05/08 22:31:55} h264 size set to 131072
+{2021/05/08 22:31:55} recommended video buffers 1
+{2021/05/08 22:31:55} h264 buffers set to recommended 1
+{2021/05/08 22:31:56} Set up internal detect width=49 height=36
+{2021/05/08 22:32:01} Change: video_width = 1296
+{2021/05/08 22:32:01} Change: video_height = 972
+{2021/05/08 22:32:01} Change: video_fps = 25
+{2021/05/08 22:32:01} Change: MP4Box_fps = 25
+{2021/05/08 22:32:01} Change: image_width = 2592
+{2021/05/08 22:32:01} Change: image_height = 1944
+{2021/05/08 22:32:01} Change: fps_divider = 1
+{2021/05/08 22:32:01} h264 search /var/www/picam/media/vi_0001_20210508_223201.mp4
+{2021/05/08 22:32:01} recommended video buffer size 65536
+{2021/05/08 22:32:01} h264 size set to 131072
+{2021/05/08 22:32:01} recommended video buffers 1
+{2021/05/08 22:32:01} h264 buffers set to recommended 1
+{2021/05/08 22:32:02} Set up internal detect width=82 height=61
+{2021/05/08 22:32:04} Change: video_width = 1280
+{2021/05/08 22:32:04} Change: video_height = 0720
+{2021/05/08 22:32:04} Change: video_fps = 25
+{2021/05/08 22:32:04} Change: MP4Box_fps = 25
+{2021/05/08 22:32:04} Change: image_width = 2592
+{2021/05/08 22:32:04} Change: image_height = 1944
+{2021/05/08 22:32:04} Change: fps_divider = 1
+{2021/05/08 22:32:04} h264 search /var/www/picam/media/vi_0001_20210508_223204.mp4
+{2021/05/08 22:32:04} recommended video buffer size 65536
+{2021/05/08 22:32:04} h264 size set to 131072
+{2021/05/08 22:32:04} recommended video buffers 1
+{2021/05/08 22:32:04} h264 buffers set to recommended 1
+{2021/05/08 22:32:04} Set up internal detect width=81 height=45
+{2021/05/08 22:32:08} Change: video_width = 768
+{2021/05/08 22:32:08} Change: video_height = 576
+{2021/05/08 22:32:08} Change: video_fps = 25
+{2021/05/08 22:32:08} Change: MP4Box_fps = 25
+{2021/05/08 22:32:08} Change: image_width = 2592
+{2021/05/08 22:32:08} Change: image_height = 1944
+{2021/05/08 22:32:08} Change: fps_divider = 1
+{2021/05/08 22:32:08} h264 search /var/www/picam/media/vi_0001_20210508_223208.mp4
+{2021/05/08 22:32:08} recommended video buffer size 65536
+{2021/05/08 22:32:08} h264 size set to 131072
+{2021/05/08 22:32:08} recommended video buffers 1
+{2021/05/08 22:32:08} h264 buffers set to recommended 1
+{2021/05/08 22:32:08} Set up internal detect width=49 height=36
+{2021/05/08 22:32:14} Change: video_width = 1296
+{2021/05/08 22:32:14} Change: video_height = 972
+{2021/05/08 22:32:14} Change: video_fps = 25
+{2021/05/08 22:32:14} Change: MP4Box_fps = 25
+{2021/05/08 22:32:14} Change: image_width = 2592
+{2021/05/08 22:32:14} Change: image_height = 1944
+{2021/05/08 22:32:14} Change: fps_divider = 1
+{2021/05/08 22:32:14} h264 search /var/www/picam/media/vi_0001_20210508_223214.mp4
+{2021/05/08 22:32:14} recommended video buffer size 65536
+{2021/05/08 22:32:14} h264 size set to 131072
+{2021/05/08 22:32:14} recommended video buffers 1
+{2021/05/08 22:32:14} h264 buffers set to recommended 1
+{2021/05/08 22:32:15} Set up internal detect width=82 height=61
+{2021/05/08 22:32:28} Change: video_width = 1280
+{2021/05/08 22:32:28} Change: video_height = 0720
+{2021/05/08 22:32:28} Change: video_fps = 25
+{2021/05/08 22:32:28} Change: MP4Box_fps = 25
+{2021/05/08 22:32:28} Change: image_width = 2592
+{2021/05/08 22:32:28} Change: image_height = 1944
+{2021/05/08 22:32:28} Change: fps_divider = 1
+{2021/05/08 22:32:28} h264 search /var/www/picam/media/vi_0001_20210508_223228.mp4
+{2021/05/08 22:32:28} recommended video buffer size 65536
+{2021/05/08 22:32:28} h264 size set to 131072
+{2021/05/08 22:32:28} recommended video buffers 1
+{2021/05/08 22:32:28} h264 buffers set to recommended 1
+{2021/05/08 22:32:28} Set up internal detect width=81 height=45
+{2021/05/08 22:33:47} Change: video_width = 1296
+{2021/05/08 22:33:47} Change: video_height = 972
+{2021/05/08 22:33:47} Change: video_fps = 25
+{2021/05/08 22:33:47} Change: MP4Box_fps = 25
+{2021/05/08 22:33:47} Change: image_width = 2592
+{2021/05/08 22:33:47} Change: image_height = 1944
+{2021/05/08 22:33:47} Change: fps_divider = 1
+{2021/05/08 22:33:47} h264 search /var/www/picam/media/vi_0001_20210508_223347.mp4
+{2021/05/08 22:33:48} recommended video buffer size 65536
+{2021/05/08 22:33:48} h264 size set to 131072
+{2021/05/08 22:33:48} recommended video buffers 1
+{2021/05/08 22:33:48} h264 buffers set to recommended 1
+{2021/05/08 22:33:48} Set up internal detect width=82 height=61
+{2021/05/08 22:35:07} Change: video_width = 768
+{2021/05/08 22:35:07} Change: video_height = 576
+{2021/05/08 22:35:07} Change: video_fps = 25
+{2021/05/08 22:35:07} Change: MP4Box_fps = 25
+{2021/05/08 22:35:07} Change: image_width = 2592
+{2021/05/08 22:35:07} Change: image_height = 1944
+{2021/05/08 22:35:07} Change: fps_divider = 1
+{2021/05/08 22:35:07} h264 search /var/www/picam/media/vi_0001_20210508_223507.mp4
+{2021/05/08 22:35:07} recommended video buffer size 65536
+{2021/05/08 22:35:07} h264 size set to 131072
+{2021/05/08 22:35:07} recommended video buffers 1
+{2021/05/08 22:35:07} h264 buffers set to recommended 1
+{2021/05/08 22:35:07} Set up internal detect width=49 height=36
+{2021/05/08 22:35:14} Change: video_width = 1280
+{2021/05/08 22:35:14} Change: video_height = 0720
+{2021/05/08 22:35:14} Change: video_fps = 25
+{2021/05/08 22:35:14} Change: MP4Box_fps = 25
+{2021/05/08 22:35:14} Change: image_width = 2592
+{2021/05/08 22:35:14} Change: image_height = 1944
+{2021/05/08 22:35:14} Change: fps_divider = 1
+{2021/05/08 22:35:14} h264 search /var/www/picam/media/vi_0001_20210508_223514.mp4
+{2021/05/08 22:35:14} recommended video buffer size 65536
+{2021/05/08 22:35:14} h264 size set to 131072
+{2021/05/08 22:35:14} recommended video buffers 1
+{2021/05/08 22:35:14} h264 buffers set to recommended 1
+{2021/05/08 22:35:14} Set up internal detect width=81 height=45
+{2021/05/08 22:35:17} Change: video_width = 1296
+{2021/05/08 22:35:17} Change: video_height = 972
+{2021/05/08 22:35:17} Change: video_fps = 25
+{2021/05/08 22:35:17} Change: MP4Box_fps = 25
+{2021/05/08 22:35:17} Change: image_width = 2592
+{2021/05/08 22:35:17} Change: image_height = 1944
+{2021/05/08 22:35:17} Change: fps_divider = 1
+{2021/05/08 22:35:17} h264 search /var/www/picam/media/vi_0001_20210508_223517.mp4
+{2021/05/08 22:35:17} recommended video buffer size 65536
+{2021/05/08 22:35:17} h264 size set to 131072
+{2021/05/08 22:35:17} recommended video buffers 1
+{2021/05/08 22:35:17} h264 buffers set to recommended 1
+{2021/05/08 22:35:18} Set up internal detect width=82 height=61
+{2021/05/08 22:35:42} Change: video_width = 768
+{2021/05/08 22:35:42} Change: video_height = 576
+{2021/05/08 22:35:42} Change: video_fps = 25
+{2021/05/08 22:35:42} Change: MP4Box_fps = 25
+{2021/05/08 22:35:42} Change: image_width = 2592
+{2021/05/08 22:35:42} Change: image_height = 1944
+{2021/05/08 22:35:42} Change: fps_divider = 1
+{2021/05/08 22:35:42} h264 search /var/www/picam/media/vi_0001_20210508_223542.mp4
+{2021/05/08 22:35:42} recommended video buffer size 65536
+{2021/05/08 22:35:42} h264 size set to 131072
+{2021/05/08 22:35:42} recommended video buffers 1
+{2021/05/08 22:35:42} h264 buffers set to recommended 1
+{2021/05/08 22:35:42} Set up internal detect width=49 height=36
+{2021/05/08 22:35:47} Change: video_width = 1280
+{2021/05/08 22:35:47} Change: video_height = 0720
+{2021/05/08 22:35:47} Change: video_fps = 25
+{2021/05/08 22:35:47} Change: MP4Box_fps = 25
+{2021/05/08 22:35:47} Change: image_width = 2592
+{2021/05/08 22:35:47} Change: image_height = 1944
+{2021/05/08 22:35:47} Change: fps_divider = 1
+{2021/05/08 22:35:47} h264 search /var/www/picam/media/vi_0001_20210508_223547.mp4
+{2021/05/08 22:35:47} recommended video buffer size 65536
+{2021/05/08 22:35:47} h264 size set to 131072
+{2021/05/08 22:35:47} recommended video buffers 1
+{2021/05/08 22:35:47} h264 buffers set to recommended 1
+{2021/05/08 22:35:47} Set up internal detect width=81 height=45
+{2021/05/08 22:36:11} Change: video_width = 1920
+{2021/05/08 22:36:11} Change: video_height = 1080
+{2021/05/08 22:36:11} Change: video_fps = 25
+{2021/05/08 22:36:11} Change: MP4Box_fps = 25
+{2021/05/08 22:36:11} Change: image_width = 2592
+{2021/05/08 22:36:11} Change: image_height = 1944
+{2021/05/08 22:36:11} Change: fps_divider = 1
+{2021/05/08 22:36:11} h264 search /var/www/picam/media/vi_0001_20210508_223611.mp4
+{2021/05/08 22:36:12} recommended video buffer size 65536
+{2021/05/08 22:36:12} h264 size set to 131072
+{2021/05/08 22:36:12} recommended video buffers 1
+{2021/05/08 22:36:12} h264 buffers set to recommended 1
+{2021/05/08 22:36:12} Set up internal detect width=121 height=68
+{2021/05/08 22:36:21} Change: video_width = 1280
+{2021/05/08 22:36:21} Change: video_height = 0720
+{2021/05/08 22:36:21} Change: video_fps = 25
+{2021/05/08 22:36:21} Change: MP4Box_fps = 25
+{2021/05/08 22:36:21} Change: image_width = 2592
+{2021/05/08 22:36:21} Change: image_height = 1944
+{2021/05/08 22:36:21} Change: fps_divider = 1
+{2021/05/08 22:36:21} h264 search /var/www/picam/media/vi_0001_20210508_223621.mp4
+{2021/05/08 22:36:21} recommended video buffer size 65536
+{2021/05/08 22:36:21} h264 size set to 131072
+{2021/05/08 22:36:21} recommended video buffers 1
+{2021/05/08 22:36:21} h264 buffers set to recommended 1
+{2021/05/08 22:36:21} Set up internal detect width=81 height=45
+{2021/05/08 22:36:30} Change: video_width = 1296
+{2021/05/08 22:36:30} Change: video_height = 972
+{2021/05/08 22:36:30} Change: video_fps = 25
+{2021/05/08 22:36:30} Change: MP4Box_fps = 25
+{2021/05/08 22:36:30} Change: image_width = 2592
+{2021/05/08 22:36:30} Change: image_height = 1944
+{2021/05/08 22:36:30} Change: fps_divider = 1
+{2021/05/08 22:36:30} h264 search /var/www/picam/media/vi_0001_20210508_223630.mp4
+{2021/05/08 22:36:30} recommended video buffer size 65536
+{2021/05/08 22:36:30} h264 size set to 131072
+{2021/05/08 22:36:30} recommended video buffers 1
+{2021/05/08 22:36:30} h264 buffers set to recommended 1
+{2021/05/08 22:36:30} Set up internal detect width=82 height=61
+{2021/05/08 22:36:36} Change: video_width = 768
+{2021/05/08 22:36:36} Change: video_height = 576
+{2021/05/08 22:36:36} Change: video_fps = 25
+{2021/05/08 22:36:36} Change: MP4Box_fps = 25
+{2021/05/08 22:36:36} Change: image_width = 2592
+{2021/05/08 22:36:36} Change: image_height = 1944
+{2021/05/08 22:36:36} Change: fps_divider = 1
+{2021/05/08 22:36:36} h264 search /var/www/picam/media/vi_0001_20210508_223636.mp4
+{2021/05/08 22:36:36} recommended video buffer size 65536
+{2021/05/08 22:36:36} h264 size set to 131072
+{2021/05/08 22:36:36} recommended video buffers 1
+{2021/05/08 22:36:36} h264 buffers set to recommended 1
+{2021/05/08 22:36:36} Set up internal detect width=49 height=36
+{2021/05/08 22:36:50} Change: video_width = 1296
+{2021/05/08 22:36:50} Change: video_height = 972
+{2021/05/08 22:36:50} Change: video_fps = 25
+{2021/05/08 22:36:50} Change: MP4Box_fps = 25
+{2021/05/08 22:36:50} Change: image_width = 2592
+{2021/05/08 22:36:50} Change: image_height = 1944
+{2021/05/08 22:36:50} Change: fps_divider = 1
+{2021/05/08 22:36:50} h264 search /var/www/picam/media/vi_0001_20210508_223650.mp4
+{2021/05/08 22:36:50} recommended video buffer size 65536
+{2021/05/08 22:36:50} h264 size set to 131072
+{2021/05/08 22:36:50} recommended video buffers 1
+{2021/05/08 22:36:50} h264 buffers set to recommended 1
+{2021/05/08 22:36:50} Set up internal detect width=82 height=61
+{2021/05/08 22:36:53} Change: video_width = 768
+{2021/05/08 22:36:53} Change: video_height = 576
+{2021/05/08 22:36:53} Change: video_fps = 25
+{2021/05/08 22:36:53} Change: MP4Box_fps = 25
+{2021/05/08 22:36:53} Change: image_width = 2592
+{2021/05/08 22:36:53} Change: image_height = 1944
+{2021/05/08 22:36:53} Change: fps_divider = 1
+{2021/05/08 22:36:53} h264 search /var/www/picam/media/vi_0001_20210508_223653.mp4
+{2021/05/08 22:36:53} recommended video buffer size 65536
+{2021/05/08 22:36:53} h264 size set to 131072
+{2021/05/08 22:36:53} recommended video buffers 1
+{2021/05/08 22:36:53} h264 buffers set to recommended 1
+{2021/05/08 22:36:53} Set up internal detect width=49 height=36
+{2021/05/08 22:36:56} Change: video_width = 1296
+{2021/05/08 22:36:56} Change: video_height = 972
+{2021/05/08 22:36:56} Change: video_fps = 25
+{2021/05/08 22:36:56} Change: MP4Box_fps = 25
+{2021/05/08 22:36:56} Change: image_width = 2592
+{2021/05/08 22:36:56} Change: image_height = 1944
+{2021/05/08 22:36:56} Change: fps_divider = 1
+{2021/05/08 22:36:56} h264 search /var/www/picam/media/vi_0001_20210508_223656.mp4
+{2021/05/08 22:36:56} recommended video buffer size 65536
+{2021/05/08 22:36:56} h264 size set to 131072
+{2021/05/08 22:36:56} recommended video buffers 1
+{2021/05/08 22:36:56} h264 buffers set to recommended 1
+{2021/05/08 22:36:56} Set up internal detect width=82 height=61
+{2021/05/08 22:37:00} Change: video_width = 1280
+{2021/05/08 22:37:00} Change: video_height = 0720
+{2021/05/08 22:37:00} Change: video_fps = 25
+{2021/05/08 22:37:00} Change: MP4Box_fps = 25
+{2021/05/08 22:37:00} Change: image_width = 2592
+{2021/05/08 22:37:00} Change: image_height = 1944
+{2021/05/08 22:37:00} Change: fps_divider = 1
+{2021/05/08 22:37:00} h264 search /var/www/picam/media/vi_0001_20210508_223700.mp4
+{2021/05/08 22:37:00} recommended video buffer size 65536
+{2021/05/08 22:37:00} h264 size set to 131072
+{2021/05/08 22:37:00} recommended video buffers 1
+{2021/05/08 22:37:00} h264 buffers set to recommended 1
+{2021/05/08 22:37:00} Set up internal detect width=81 height=45
+{2021/05/08 22:37:02} Change: video_width = 1296
+{2021/05/08 22:37:02} Change: video_height = 972
+{2021/05/08 22:37:02} Change: video_fps = 25
+{2021/05/08 22:37:02} Change: MP4Box_fps = 25
+{2021/05/08 22:37:02} Change: image_width = 2592
+{2021/05/08 22:37:02} Change: image_height = 1944
+{2021/05/08 22:37:02} Change: fps_divider = 1
+{2021/05/08 22:37:02} h264 search /var/www/picam/media/vi_0001_20210508_223702.mp4
+{2021/05/08 22:37:02} recommended video buffer size 65536
+{2021/05/08 22:37:02} h264 size set to 131072
+{2021/05/08 22:37:02} recommended video buffers 1
+{2021/05/08 22:37:02} h264 buffers set to recommended 1
+{2021/05/08 22:37:02} Set up internal detect width=82 height=61
+{2021/05/08 22:43:11} Change: video_width = 1296
+{2021/05/08 22:43:11} Change: video_height = 972
+{2021/05/08 22:43:11} Change: video_fps = 5
+{2021/05/08 22:43:11} Change: MP4Box_fps = 25
+{2021/05/08 22:43:11} Change: image_width = 2592
+{2021/05/08 22:43:11} Change: image_height = 1944
+{2021/05/08 22:43:11} Change: fps_divider = 1
+{2021/05/08 22:43:11} h264 search /var/www/picam/media/vi_0001_20210508_224311.mp4
+{2021/05/08 22:43:11} recommended video buffer size 65536
+{2021/05/08 22:43:11} h264 size set to 131072
+{2021/05/08 22:43:11} recommended video buffers 1
+{2021/05/08 22:43:11} h264 buffers set to recommended 1
+{2021/05/08 22:43:11} Set up internal detect width=82 height=61
+{2021/05/08 22:43:15} Change: video_width = 1296
+{2021/05/08 22:43:15} Change: video_height = 972
+{2021/05/08 22:43:15} Change: video_fps = 5
+{2021/05/08 22:43:15} Change: MP4Box_fps = 25
+{2021/05/08 22:43:15} Change: image_width = 2592
+{2021/05/08 22:43:15} Change: image_height = 1944
+{2021/05/08 22:43:15} Change: fps_divider = 1
+{2021/05/08 22:43:15} h264 search /var/www/picam/media/vi_0001_20210508_224315.mp4
+{2021/05/08 22:43:15} recommended video buffer size 65536
+{2021/05/08 22:43:15} h264 size set to 131072
+{2021/05/08 22:43:15} recommended video buffers 1
+{2021/05/08 22:43:15} h264 buffers set to recommended 1
+{2021/05/08 22:43:15} Set up internal detect width=82 height=61
+{2021/05/08 22:43:37} Change: video_width = 1296
+{2021/05/08 22:43:37} Change: video_height = 972
+{2021/05/08 22:43:37} Change: video_fps = 30
+{2021/05/08 22:43:37} Change: MP4Box_fps = 25
+{2021/05/08 22:43:37} Change: image_width = 2592
+{2021/05/08 22:43:37} Change: image_height = 1944
+{2021/05/08 22:43:37} Change: fps_divider = 1
+{2021/05/08 22:43:37} h264 search /var/www/picam/media/vi_0001_20210508_224337.mp4
+{2021/05/08 22:43:37} recommended video buffer size 65536
+{2021/05/08 22:43:37} h264 size set to 131072
+{2021/05/08 22:43:37} recommended video buffers 1
+{2021/05/08 22:43:37} h264 buffers set to recommended 1
+{2021/05/08 22:43:37} Set up internal detect width=82 height=61
+{2021/05/08 22:47:25} Change: video_width = 1280
+{2021/05/08 22:47:25} Change: video_height = 0720
+{2021/05/08 22:47:25} Change: video_fps = 25
+{2021/05/08 22:47:25} Change: MP4Box_fps = 25
+{2021/05/08 22:47:25} Change: image_width = 2592
+{2021/05/08 22:47:25} Change: image_height = 1944
+{2021/05/08 22:47:25} Change: fps_divider = 1
+{2021/05/08 22:47:25} h264 search /var/www/picam/media/vi_0001_20210508_224725.mp4
+{2021/05/08 22:47:25} recommended video buffer size 65536
+{2021/05/08 22:47:25} h264 size set to 131072
+{2021/05/08 22:47:25} recommended video buffers 1
+{2021/05/08 22:47:25} h264 buffers set to recommended 1
+{2021/05/08 22:47:25} Set up internal detect width=81 height=45
+{2021/05/08 22:47:41} Change: video_width = 1920
+{2021/05/08 22:47:41} Change: video_height = 1080
+{2021/05/08 22:47:41} Change: video_fps = 25
+{2021/05/08 22:47:41} Change: MP4Box_fps = 25
+{2021/05/08 22:47:41} Change: image_width = 2592
+{2021/05/08 22:47:41} Change: image_height = 1944
+{2021/05/08 22:47:41} Change: fps_divider = 1
+{2021/05/08 22:47:41} h264 search /var/www/picam/media/vi_0001_20210508_224741.mp4
+{2021/05/08 22:47:41} recommended video buffer size 65536
+{2021/05/08 22:47:41} h264 size set to 131072
+{2021/05/08 22:47:41} recommended video buffers 1
+{2021/05/08 22:47:41} h264 buffers set to recommended 1
+{2021/05/08 22:47:41} Set up internal detect width=121 height=68
+{2021/05/08 22:47:47} Change: video_width = 1280
+{2021/05/08 22:47:47} Change: video_height = 0720
+{2021/05/08 22:47:47} Change: video_fps = 25
+{2021/05/08 22:47:47} Change: MP4Box_fps = 25
+{2021/05/08 22:47:47} Change: image_width = 2592
+{2021/05/08 22:47:47} Change: image_height = 1944
+{2021/05/08 22:47:47} Change: fps_divider = 1
+{2021/05/08 22:47:47} h264 search /var/www/picam/media/vi_0001_20210508_224747.mp4
+{2021/05/08 22:47:47} recommended video buffer size 65536
+{2021/05/08 22:47:47} h264 size set to 131072
+{2021/05/08 22:47:47} recommended video buffers 1
+{2021/05/08 22:47:47} h264 buffers set to recommended 1
+{2021/05/08 22:47:47} Set up internal detect width=81 height=45
+{2021/05/08 22:47:51} Change: video_width = 1296
+{2021/05/08 22:47:51} Change: video_height = 972
+{2021/05/08 22:47:51} Change: video_fps = 25
+{2021/05/08 22:47:51} Change: MP4Box_fps = 25
+{2021/05/08 22:47:51} Change: image_width = 2592
+{2021/05/08 22:47:51} Change: image_height = 1944
+{2021/05/08 22:47:51} Change: fps_divider = 1
+{2021/05/08 22:47:51} h264 search /var/www/picam/media/vi_0001_20210508_224751.mp4
+{2021/05/08 22:47:51} recommended video buffer size 65536
+{2021/05/08 22:47:51} h264 size set to 131072
+{2021/05/08 22:47:51} recommended video buffers 1
+{2021/05/08 22:47:51} h264 buffers set to recommended 1
+{2021/05/08 22:47:52} Set up internal detect width=82 height=61
+{2021/05/08 22:47:57} Change: video_width = 768
+{2021/05/08 22:47:57} Change: video_height = 576
+{2021/05/08 22:47:57} Change: video_fps = 25
+{2021/05/08 22:47:57} Change: MP4Box_fps = 25
+{2021/05/08 22:47:57} Change: image_width = 2592
+{2021/05/08 22:47:57} Change: image_height = 1944
+{2021/05/08 22:47:57} Change: fps_divider = 1
+{2021/05/08 22:47:57} h264 search /var/www/picam/media/vi_0001_20210508_224757.mp4
+{2021/05/08 22:47:57} recommended video buffer size 65536
+{2021/05/08 22:47:57} h264 size set to 131072
+{2021/05/08 22:47:57} recommended video buffers 1
+{2021/05/08 22:47:57} h264 buffers set to recommended 1
+{2021/05/08 22:47:57} Set up internal detect width=49 height=36
+{2021/05/08 22:48:00} Change: video_width = 1920
+{2021/05/08 22:48:00} Change: video_height = 1080
+{2021/05/08 22:48:00} Change: video_fps = 25
+{2021/05/08 22:48:00} Change: MP4Box_fps = 25
+{2021/05/08 22:48:00} Change: image_width = 2592
+{2021/05/08 22:48:00} Change: image_height = 1944
+{2021/05/08 22:48:00} Change: fps_divider = 1
+{2021/05/08 22:48:00} h264 search /var/www/picam/media/vi_0001_20210508_224800.mp4
+{2021/05/08 22:48:00} recommended video buffer size 65536
+{2021/05/08 22:48:00} h264 size set to 131072
+{2021/05/08 22:48:00} recommended video buffers 1
+{2021/05/08 22:48:00} h264 buffers set to recommended 1
+{2021/05/08 22:48:00} Set up internal detect width=121 height=68
+{2021/05/08 22:48:05} Change: video_width = 1296
+{2021/05/08 22:48:05} Change: video_height = 972
+{2021/05/08 22:48:05} Change: video_fps = 25
+{2021/05/08 22:48:05} Change: MP4Box_fps = 25
+{2021/05/08 22:48:05} Change: image_width = 2592
+{2021/05/08 22:48:05} Change: image_height = 1944
+{2021/05/08 22:48:05} Change: fps_divider = 1
+{2021/05/08 22:48:05} h264 search /var/www/picam/media/vi_0001_20210508_224805.mp4
+{2021/05/08 22:48:05} recommended video buffer size 65536
+{2021/05/08 22:48:05} h264 size set to 131072
+{2021/05/08 22:48:05} recommended video buffers 1
+{2021/05/08 22:48:05} h264 buffers set to recommended 1
+{2021/05/08 22:48:05} Set up internal detect width=82 height=61
+{2021/05/08 22:48:08} Change: video_width = 1920
+{2021/05/08 22:48:08} Change: video_height = 1080
+{2021/05/08 22:48:08} Change: video_fps = 25
+{2021/05/08 22:48:08} Change: MP4Box_fps = 25
+{2021/05/08 22:48:08} Change: image_width = 2592
+{2021/05/08 22:48:08} Change: image_height = 1944
+{2021/05/08 22:48:08} Change: fps_divider = 1
+{2021/05/08 22:48:08} h264 search /var/www/picam/media/vi_0001_20210508_224808.mp4
+{2021/05/08 22:48:08} recommended video buffer size 65536
+{2021/05/08 22:48:08} h264 size set to 131072
+{2021/05/08 22:48:08} recommended video buffers 1
+{2021/05/08 22:48:08} h264 buffers set to recommended 1
+{2021/05/08 22:48:08} Set up internal detect width=121 height=68
+{2021/05/08 22:48:59} Change: video_width = 1296
+{2021/05/08 22:48:59} Change: video_height = 972
+{2021/05/08 22:48:59} Change: video_fps = 25
+{2021/05/08 22:48:59} Change: MP4Box_fps = 25
+{2021/05/08 22:48:59} Change: image_width = 2592
+{2021/05/08 22:48:59} Change: image_height = 1944
+{2021/05/08 22:48:59} Change: fps_divider = 1
+{2021/05/08 22:48:59} h264 search /var/www/picam/media/vi_0001_20210508_224859.mp4
+{2021/05/08 22:48:59} recommended video buffer size 65536
+{2021/05/08 22:48:59} h264 size set to 131072
+{2021/05/08 22:48:59} recommended video buffers 1
+{2021/05/08 22:48:59} h264 buffers set to recommended 1
+{2021/05/08 22:48:59} Set up internal detect width=82 height=61
+{2021/05/08 22:49:07} Change: video_width = 1920
+{2021/05/08 22:49:07} Change: video_height = 1080
+{2021/05/08 22:49:07} Change: video_fps = 25
+{2021/05/08 22:49:07} Change: MP4Box_fps = 25
+{2021/05/08 22:49:07} Change: image_width = 2592
+{2021/05/08 22:49:07} Change: image_height = 1944
+{2021/05/08 22:49:07} Change: fps_divider = 1
+{2021/05/08 22:49:07} h264 search /var/www/picam/media/vi_0001_20210508_224907.mp4
+{2021/05/08 22:49:07} recommended video buffer size 65536
+{2021/05/08 22:49:07} h264 size set to 131072
+{2021/05/08 22:49:07} recommended video buffers 1
+{2021/05/08 22:49:07} h264 buffers set to recommended 1
+{2021/05/08 22:49:07} Set up internal detect width=121 height=68
+{2021/05/08 22:49:21} Change: video_width = 1296
+{2021/05/08 22:49:21} Change: video_height = 972
+{2021/05/08 22:49:21} Change: video_fps = 25
+{2021/05/08 22:49:21} Change: MP4Box_fps = 25
+{2021/05/08 22:49:21} Change: image_width = 2592
+{2021/05/08 22:49:21} Change: image_height = 1944
+{2021/05/08 22:49:21} Change: fps_divider = 1
+{2021/05/08 22:49:21} h264 search /var/www/picam/media/vi_0001_20210508_224921.mp4
+{2021/05/08 22:49:21} recommended video buffer size 65536
+{2021/05/08 22:49:21} h264 size set to 131072
+{2021/05/08 22:49:21} recommended video buffers 1
+{2021/05/08 22:49:21} h264 buffers set to recommended 1
+{2021/05/08 22:49:21} Set up internal detect width=82 height=61
+{2021/05/08 22:49:44} Change: video_width = 1296
+{2021/05/08 22:49:44} Change: video_height = 972
+{2021/05/08 22:49:44} Change: video_fps = 25
+{2021/05/08 22:49:44} Change: MP4Box_fps = 25
+{2021/05/08 22:49:44} Change: image_width = 2592
+{2021/05/08 22:49:44} Change: image_height = 1944
+{2021/05/08 22:49:44} Change: fps_divider = 1
+{2021/05/08 22:49:44} h264 search /var/www/picam/media/vi_0001_20210508_224944.mp4
+{2021/05/08 22:49:44} recommended video buffer size 65536
+{2021/05/08 22:49:44} h264 size set to 131072
+{2021/05/08 22:49:44} recommended video buffers 1
+{2021/05/08 22:49:44} h264 buffers set to recommended 1
+{2021/05/08 22:49:45} Set up internal detect width=82 height=61
+{2021/05/08 22:50:07} Change: video_width = 1920
+{2021/05/08 22:50:07} Change: video_height = 1080
+{2021/05/08 22:50:07} Change: video_fps = 25
+{2021/05/08 22:50:07} Change: MP4Box_fps = 25
+{2021/05/08 22:50:07} Change: image_width = 2592
+{2021/05/08 22:50:07} Change: image_height = 1944
+{2021/05/08 22:50:07} Change: fps_divider = 1
+{2021/05/08 22:50:07} h264 search /var/www/picam/media/vi_0001_20210508_225007.mp4
+{2021/05/08 22:50:07} recommended video buffer size 65536
+{2021/05/08 22:50:07} h264 size set to 131072
+{2021/05/08 22:50:07} recommended video buffers 1
+{2021/05/08 22:50:07} h264 buffers set to recommended 1
+{2021/05/08 22:50:07} Set up internal detect width=121 height=68
+{2021/05/08 22:50:09} Change: video_width = 1920
+{2021/05/08 22:50:09} Change: video_height = 1080
+{2021/05/08 22:50:09} Change: video_fps = 25
+{2021/05/08 22:50:09} Change: MP4Box_fps = 25
+{2021/05/08 22:50:09} Change: image_width = 2592
+{2021/05/08 22:50:09} Change: image_height = 1944
+{2021/05/08 22:50:09} Change: fps_divider = 1
+{2021/05/08 22:50:09} h264 search /var/www/picam/media/vi_0001_20210508_225009.mp4
+{2021/05/08 22:50:09} recommended video buffer size 65536
+{2021/05/08 22:50:09} h264 size set to 131072
+{2021/05/08 22:50:09} recommended video buffers 1
+{2021/05/08 22:50:09} h264 buffers set to recommended 1
+{2021/05/08 22:50:09} Set up internal detect width=121 height=68
+{2021/05/08 22:50:31} Change: video_width = 1296
+{2021/05/08 22:50:31} Change: video_height = 972
+{2021/05/08 22:50:31} Change: video_fps = 25
+{2021/05/08 22:50:31} Change: MP4Box_fps = 25
+{2021/05/08 22:50:31} Change: image_width = 2592
+{2021/05/08 22:50:31} Change: image_height = 1944
+{2021/05/08 22:50:31} Change: fps_divider = 1
+{2021/05/08 22:50:31} h264 search /var/www/picam/media/vi_0001_20210508_225031.mp4
+{2021/05/08 22:50:31} recommended video buffer size 65536
+{2021/05/08 22:50:31} h264 size set to 131072
+{2021/05/08 22:50:31} recommended video buffers 1
+{2021/05/08 22:50:31} h264 buffers set to recommended 1
+{2021/05/08 22:50:31} Set up internal detect width=82 height=61
+{2021/05/08 22:50:49} Change: video_width = 1920
+{2021/05/08 22:50:49} Change: video_height = 1080
+{2021/05/08 22:50:49} Change: video_fps = 25
+{2021/05/08 22:50:49} Change: MP4Box_fps = 25
+{2021/05/08 22:50:49} Change: image_width = 2592
+{2021/05/08 22:50:49} Change: image_height = 1944
+{2021/05/08 22:50:49} Change: fps_divider = 1
+{2021/05/08 22:50:49} h264 search /var/www/picam/media/vi_0001_20210508_225049.mp4
+{2021/05/08 22:50:49} recommended video buffer size 65536
+{2021/05/08 22:50:49} h264 size set to 131072
+{2021/05/08 22:50:49} recommended video buffers 1
+{2021/05/08 22:50:49} h264 buffers set to recommended 1
+{2021/05/08 22:50:49} Set up internal detect width=121 height=68
+{2021/05/08 22:50:58} Change: video_width = 1296
+{2021/05/08 22:50:58} Change: video_height = 972
+{2021/05/08 22:50:58} Change: video_fps = 25
+{2021/05/08 22:50:58} Change: MP4Box_fps = 25
+{2021/05/08 22:50:58} Change: image_width = 2592
+{2021/05/08 22:50:58} Change: image_height = 1944
+{2021/05/08 22:50:58} Change: fps_divider = 1
+{2021/05/08 22:50:58} h264 search /var/www/picam/media/vi_0001_20210508_225058.mp4
+{2021/05/08 22:50:58} recommended video buffer size 65536
+{2021/05/08 22:50:58} h264 size set to 131072
+{2021/05/08 22:50:58} recommended video buffers 1
+{2021/05/08 22:50:58} h264 buffers set to recommended 1
+{2021/05/08 22:50:58} Set up internal detect width=82 height=61
+{2021/05/08 22:51:04} Change: video_width = 1920
+{2021/05/08 22:51:04} Change: video_height = 1080
+{2021/05/08 22:51:04} Change: video_fps = 25
+{2021/05/08 22:51:04} Change: MP4Box_fps = 25
+{2021/05/08 22:51:04} Change: image_width = 2592
+{2021/05/08 22:51:04} Change: image_height = 1944
+{2021/05/08 22:51:04} Change: fps_divider = 1
+{2021/05/08 22:51:04} h264 search /var/www/picam/media/vi_0001_20210508_225104.mp4
+{2021/05/08 22:51:04} recommended video buffer size 65536
+{2021/05/08 22:51:04} h264 size set to 131072
+{2021/05/08 22:51:04} recommended video buffers 1
+{2021/05/08 22:51:04} h264 buffers set to recommended 1
+{2021/05/08 22:51:04} Set up internal detect width=121 height=68
+{2021/05/08 22:51:09} Change: video_width = 1296
+{2021/05/08 22:51:09} Change: video_height = 972
+{2021/05/08 22:51:09} Change: video_fps = 25
+{2021/05/08 22:51:09} Change: MP4Box_fps = 25
+{2021/05/08 22:51:09} Change: image_width = 2592
+{2021/05/08 22:51:09} Change: image_height = 1944
+{2021/05/08 22:51:09} Change: fps_divider = 1
+{2021/05/08 22:51:09} h264 search /var/www/picam/media/vi_0001_20210508_225109.mp4
+{2021/05/08 22:51:09} recommended video buffer size 65536
+{2021/05/08 22:51:09} h264 size set to 131072
+{2021/05/08 22:51:09} recommended video buffers 1
+{2021/05/08 22:51:09} h264 buffers set to recommended 1
+{2021/05/08 22:51:09} Set up internal detect width=82 height=61
+{2021/05/08 22:51:20} Change: video_width = 1920
+{2021/05/08 22:51:20} Change: video_height = 1080
+{2021/05/08 22:51:20} Change: video_fps = 25
+{2021/05/08 22:51:20} Change: MP4Box_fps = 25
+{2021/05/08 22:51:20} Change: image_width = 2592
+{2021/05/08 22:51:20} Change: image_height = 1944
+{2021/05/08 22:51:20} Change: fps_divider = 1
+{2021/05/08 22:51:20} h264 search /var/www/picam/media/vi_0001_20210508_225120.mp4
+{2021/05/08 22:51:20} recommended video buffer size 65536
+{2021/05/08 22:51:20} h264 size set to 131072
+{2021/05/08 22:51:20} recommended video buffers 1
+{2021/05/08 22:51:20} h264 buffers set to recommended 1
+{2021/05/08 22:51:20} Set up internal detect width=121 height=68
+{2021/05/08 22:51:26} Change: video_width = 1296
+{2021/05/08 22:51:26} Change: video_height = 972
+{2021/05/08 22:51:26} Change: video_fps = 25
+{2021/05/08 22:51:26} Change: MP4Box_fps = 25
+{2021/05/08 22:51:26} Change: image_width = 2592
+{2021/05/08 22:51:26} Change: image_height = 1944
+{2021/05/08 22:51:26} Change: fps_divider = 1
+{2021/05/08 22:51:26} h264 search /var/www/picam/media/vi_0001_20210508_225126.mp4
+{2021/05/08 22:51:26} recommended video buffer size 65536
+{2021/05/08 22:51:26} h264 size set to 131072
+{2021/05/08 22:51:26} recommended video buffers 1
+{2021/05/08 22:51:26} h264 buffers set to recommended 1
+{2021/05/08 22:51:26} Set up internal detect width=82 height=61
+{2021/05/08 22:51:33} Change: video_width = 1920
+{2021/05/08 22:51:33} Change: video_height = 1080
+{2021/05/08 22:51:33} Change: video_fps = 25
+{2021/05/08 22:51:33} Change: MP4Box_fps = 25
+{2021/05/08 22:51:33} Change: image_width = 2592
+{2021/05/08 22:51:33} Change: image_height = 1944
+{2021/05/08 22:51:33} Change: fps_divider = 1
+{2021/05/08 22:51:33} h264 search /var/www/picam/media/vi_0001_20210508_225133.mp4
+{2021/05/08 22:51:33} recommended video buffer size 65536
+{2021/05/08 22:51:33} h264 size set to 131072
+{2021/05/08 22:51:33} recommended video buffers 1
+{2021/05/08 22:51:33} h264 buffers set to recommended 1
+{2021/05/08 22:51:33} Set up internal detect width=121 height=68
+{2021/05/08 22:51:37} Change: video_width = 1296
+{2021/05/08 22:51:37} Change: video_height = 972
+{2021/05/08 22:51:37} Change: video_fps = 25
+{2021/05/08 22:51:37} Change: MP4Box_fps = 25
+{2021/05/08 22:51:37} Change: image_width = 2592
+{2021/05/08 22:51:37} Change: image_height = 1944
+{2021/05/08 22:51:37} Change: fps_divider = 1
+{2021/05/08 22:51:37} h264 search /var/www/picam/media/vi_0001_20210508_225137.mp4
+{2021/05/08 22:51:37} recommended video buffer size 65536
+{2021/05/08 22:51:37} h264 size set to 131072
+{2021/05/08 22:51:37} recommended video buffers 1
+{2021/05/08 22:51:37} h264 buffers set to recommended 1
+{2021/05/08 22:51:37} Set up internal detect width=82 height=61
+{2021/05/08 22:51:40} Change: video_width = 1296
+{2021/05/08 22:51:40} Change: video_height = 972
+{2021/05/08 22:51:40} Change: video_fps = 25
+{2021/05/08 22:51:40} Change: MP4Box_fps = 25
+{2021/05/08 22:51:40} Change: image_width = 2592
+{2021/05/08 22:51:40} Change: image_height = 1944
+{2021/05/08 22:51:40} Change: fps_divider = 1
+{2021/05/08 22:51:40} h264 search /var/www/picam/media/vi_0001_20210508_225140.mp4
+{2021/05/08 22:51:40} recommended video buffer size 65536
+{2021/05/08 22:51:40} h264 size set to 131072
+{2021/05/08 22:51:40} recommended video buffers 1
+{2021/05/08 22:51:40} h264 buffers set to recommended 1
+{2021/05/08 22:51:40} Set up internal detect width=82 height=61
+{2021/05/08 22:51:52} Change: video_width = 1296
+{2021/05/08 22:51:52} Change: video_height = 972
+{2021/05/08 22:51:52} Change: video_fps = 30
+{2021/05/08 22:51:52} Change: MP4Box_fps = 25
+{2021/05/08 22:51:52} Change: image_width = 2592
+{2021/05/08 22:51:52} Change: image_height = 1944
+{2021/05/08 22:51:52} Change: fps_divider = 1
+{2021/05/08 22:51:52} h264 search /var/www/picam/media/vi_0001_20210508_225152.mp4
+{2021/05/08 22:51:52} recommended video buffer size 65536
+{2021/05/08 22:51:52} h264 size set to 131072
+{2021/05/08 22:51:52} recommended video buffers 1
+{2021/05/08 22:51:52} h264 buffers set to recommended 1
+{2021/05/08 22:51:52} Set up internal detect width=82 height=61
+{2021/05/08 22:51:55} Change: video_width = 1296
+{2021/05/08 22:51:55} Change: video_height = 972
+{2021/05/08 22:51:55} Change: video_fps = 30
+{2021/05/08 22:51:55} Change: MP4Box_fps = 25
+{2021/05/08 22:51:55} Change: image_width = 2592
+{2021/05/08 22:51:55} Change: image_height = 1944
+{2021/05/08 22:51:55} Change: fps_divider = 1
+{2021/05/08 22:51:55} h264 search /var/www/picam/media/vi_0001_20210508_225155.mp4
+{2021/05/08 22:51:55} recommended video buffer size 65536
+{2021/05/08 22:51:55} h264 size set to 131072
+{2021/05/08 22:51:55} recommended video buffers 1
+{2021/05/08 22:51:55} h264 buffers set to recommended 1
+{2021/05/08 22:51:55} Set up internal detect width=82 height=61
+{2021/05/08 22:52:35} Change: video_width = 1296
+{2021/05/08 22:52:35} Change: video_height = 972
+{2021/05/08 22:52:35} Change: video_fps = 30
+{2021/05/08 22:52:35} Change: MP4Box_fps = 25
+{2021/05/08 22:52:35} Change: image_width = 2592
+{2021/05/08 22:52:35} Change: image_height = 1944
+{2021/05/08 22:52:35} Change: fps_divider = 1
+{2021/05/08 22:52:35} h264 search /var/www/picam/media/vi_0001_20210508_225235.mp4
+{2021/05/08 22:52:35} recommended video buffer size 65536
+{2021/05/08 22:52:35} h264 size set to 131072
+{2021/05/08 22:52:35} recommended video buffers 1
+{2021/05/08 22:52:35} h264 buffers set to recommended 1
+{2021/05/08 22:52:35} Set up internal detect width=82 height=61
+{2021/05/08 22:52:59} Stream halted
+{2021/05/08 22:56:28} h264 search /var/www/picam/media/vi_0001_20210508_225259.mp4
+{2021/05/08 22:56:28} recommended video buffer size 65536
+{2021/05/08 22:56:28} h264 size set to 131072
+{2021/05/08 22:56:28} recommended video buffers 1
+{2021/05/08 22:56:28} h264 buffers set to recommended 1
+{2021/05/08 22:56:28} Set up internal detect width=82 height=61
+{2021/05/08 22:56:28} Stream continued
+{2021/05/08 22:56:44} SIGINT/SIGTERM received, stopping
+{2021/05/08 23:03:56} RaspiMJPEG Version 5.9.5
+{2021/05/08 23:03:56} h264 search /var/www/picam/media/vi_0001_20210508_230356.mp4
+{2021/05/08 23:03:56} recommended video buffer size 65536
+{2021/05/08 23:03:56} h264 size set to 131072
+{2021/05/08 23:03:56} recommended video buffers 1
+{2021/05/08 23:03:56} h264 buffers set to recommended 1
+{2021/05/08 23:03:57} Set up internal detect width=82 height=61
+{2021/05/08 23:03:57} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/08 23:03:57} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/08 23:03:57} MJPEG streaming, ready to receive commands
+{2021/05/08 23:03:57} send smd 9
+[2021/05/08 23:03:58] RaspiCam support started
+[2021/05/08 23:03:58] Capture Pipe already exists /var/www/picam/FIFO1
+{2021/05/08 23:03:58} Starting command loop
+[2021/05/08 23:03:58] Scheduler loop is started
+[2021/05/08 23:03:58] Reload parameters command requested
+[2021/05/08 23:03:58] Scheduler loop is started
+[2021/05/08 23:03:59] New period detected 0
+[2021/05/08 23:03:59] Scheduled management tasks. Next at 1620489839
+[2021/05/08 23:04:02] Logged in user:Air:
+[2021/05/08 23:04:02] UserLevel 6
+{2021/05/08 23:07:20} Stream halted
+{2021/05/08 23:07:54} h264 search /var/www/picam/media/vi_0001_20210508_230720.mp4
+{2021/05/08 23:07:54} recommended video buffer size 65536
+{2021/05/08 23:07:54} h264 size set to 131072
+{2021/05/08 23:07:54} recommended video buffers 1
+{2021/05/08 23:07:54} h264 buffers set to recommended 1
+{2021/05/08 23:07:54} Set up internal detect width=82 height=61
+{2021/05/08 23:07:54} Stream continued
+{2021/05/08 23:15:46} SIGINT/SIGTERM received, stopping
+[2021/05/08 23:15:49] Logged in user:Air:
+[2021/05/08 23:15:49] UserLevel 6
+[2021/05/08 23:15:58] Logged in user:Air:
+[2021/05/08 23:15:58] UserLevel 6
+[2021/05/08 23:15:58] Logged in user:Air:
+[2021/05/08 23:15:58] UserLevel 6
+[2021/05/08 23:15:58] Logged in user:Air:
+[2021/05/08 23:15:58] UserLevel 6
+[2021/05/08 23:15:58] Logged in user:Air:
+[2021/05/08 23:15:58] UserLevel 6
+[2021/05/08 23:15:59] Logged in user:Air:
+[2021/05/08 23:15:59] UserLevel 6
+[2021/05/08 23:15:59] Logged in user:Air:
+[2021/05/08 23:15:59] UserLevel 6
+[2021/05/08 23:15:59] Logged in user:Air:
+[2021/05/08 23:15:59] UserLevel 6
+[2021/05/08 23:16:01] Logged in user:Air:
+[2021/05/08 23:16:01] UserLevel 6
+[2021/05/08 23:16:04] Logged in user:Air:
+[2021/05/08 23:16:04] UserLevel 6
+[2021/05/09 09:34:48] Logged in user:Air:
+[2021/05/09 09:34:48] UserLevel 6
+[2021/05/09 10:12:05] Logged in user:Air:
+[2021/05/09 10:12:05] UserLevel 6
+[2021/05/09 10:12:06] Logged in user:Air:
+[2021/05/09 10:12:06] UserLevel 6
+[2021/05/09 10:14:05] Logged in user:Air:
+[2021/05/09 10:14:05] UserLevel 6
+[2021/05/09 10:14:05] Logged in user:Air:
+[2021/05/09 10:14:05] UserLevel 6
+[2021/05/09 10:20:21] Logged in user:Air:
+[2021/05/09 10:20:21] UserLevel 6
+[2021/05/09 10:24:31] Logged in user:Air:
+[2021/05/09 10:24:31] UserLevel 6
+[2021/05/09 10:30:19] Logged in user:Air:
+[2021/05/09 10:30:19] UserLevel 6
+[2021/05/09 10:30:20] Logged in user:Air:
+[2021/05/09 10:30:20] UserLevel 6
+[2021/05/09 10:32:52] Logged in user:Air:
+[2021/05/09 10:32:52] UserLevel 6
+[2021/05/09 10:32:53] Logged in user:Air:
+[2021/05/09 10:32:53] UserLevel 6
+[2021/05/09 10:41:49] Logged in user:Air:
+[2021/05/09 10:41:49] UserLevel 6
+[2021/05/09 10:41:49] Logged in user:Air:
+[2021/05/09 10:41:49] UserLevel 6
+[2021/05/09 11:08:15] Logged in user:Air:
+[2021/05/09 11:08:15] UserLevel 6
+[2021/05/09 11:08:16] Logged in user:Air:
+[2021/05/09 11:08:16] UserLevel 6
+[2021/05/09 11:11:52] Logged in user:Air:
+[2021/05/09 11:11:52] UserLevel 6
+[2021/05/09 11:17:12] Logged in user:Air:
+[2021/05/09 11:17:12] UserLevel 6
+[2021/05/09 11:20:03] Logged in user:Air:
+[2021/05/09 11:20:03] UserLevel 6
+[2021/05/09 11:24:29] Logged in user:Air:
+[2021/05/09 11:24:29] UserLevel 6
+[2021/05/09 11:29:57] Logged in user:Air:
+[2021/05/09 11:29:57] UserLevel 6
+[2021/05/09 11:38:53] Logged in user:Air:
+[2021/05/09 11:38:53] UserLevel 6
+[2021/05/09 11:46:11] Logged in user:Air:
+[2021/05/09 11:46:11] UserLevel 6
+[2021/05/09 11:47:02] Logged in user:Air:
+[2021/05/09 11:47:02] UserLevel 6
+[2021/05/09 11:47:41] Logged in user:Air:
+[2021/05/09 11:47:41] UserLevel 6
+[2021/05/09 11:48:26] Logged in user:Air:
+[2021/05/09 11:48:26] UserLevel 6
+[2021/05/09 11:48:27] Logged in user:Air:
+[2021/05/09 11:48:27] UserLevel 6
+[2021/05/09 11:48:57] Logged in user:Air:
+[2021/05/09 11:48:57] UserLevel 6
+[2021/05/09 11:52:09] Logged in user:Air:
+[2021/05/09 11:52:09] UserLevel 6
+[2021/05/09 11:52:18] Logged in user:Air:
+[2021/05/09 11:52:18] UserLevel 6
+[2021/05/09 11:56:02] Logged in user:Air:
+[2021/05/09 11:56:02] UserLevel 6
+[2021/05/09 11:56:03] Logged in user:Air:
+[2021/05/09 11:56:03] UserLevel 6
+[2021/05/09 11:56:04] Logged in user:Air:
+[2021/05/09 11:56:04] UserLevel 6
+[2021/05/09 11:56:05] Logged in user:Air:
+[2021/05/09 11:56:05] UserLevel 6
+[2021/05/09 11:57:50] Logged in user:Air:
+[2021/05/09 11:57:50] UserLevel 6
+[2021/05/09 12:00:16] Logged in user:Air:
+[2021/05/09 12:00:16] UserLevel 6
+[2021/05/09 12:02:42] Logged in user:Air:
+[2021/05/09 12:02:42] UserLevel 6
+[2021/05/09 12:02:57] Logged in user:Air:
+[2021/05/09 12:02:57] UserLevel 6
+[2021/05/09 12:03:27] Logged in user:Air:
+[2021/05/09 12:03:27] UserLevel 6
+[2021/05/09 12:03:37] Logged in user:Air:
+[2021/05/09 12:03:37] UserLevel 6
+[2021/05/09 12:03:45] Logged in user:Air:
+[2021/05/09 12:03:45] UserLevel 6
+[2021/05/09 12:03:46] Logged in user:Air:
+[2021/05/09 12:03:46] UserLevel 6
+[2021/05/09 12:03:47] Logged in user:Air:
+[2021/05/09 12:03:47] UserLevel 6
+[2021/05/09 12:05:02] Logged in user:Air:
+[2021/05/09 12:05:02] UserLevel 6
+[2021/05/09 12:05:13] Logged in user:Air:
+[2021/05/09 12:05:13] UserLevel 6
+[2021/05/09 12:06:57] Logged in user:Air:
+[2021/05/09 12:06:57] UserLevel 6
+[2021/05/09 12:08:13] Logged in user:Air:
+[2021/05/09 12:08:13] UserLevel 6
+[2021/05/09 14:58:56] Logged in user:Air:
+[2021/05/09 14:58:56] UserLevel 6
+[2021/05/09 15:04:20] Logged in user:Air:
+[2021/05/09 15:04:20] UserLevel 6
+[2021/05/09 15:06:36] Logged in user:Air:
+[2021/05/09 15:06:37] UserLevel 6
+[2021/05/09 15:12:20] Logged in user:Air:
+[2021/05/09 15:12:20] UserLevel 6
+[2021/05/09 15:14:54] Logged in user:Air:
+[2021/05/09 15:14:54] UserLevel 6
+[2021/05/09 15:17:22] Logged in user:Air:
+[2021/05/09 15:17:22] UserLevel 6
+[2021/05/09 15:17:23] Logged in user:Air:
+[2021/05/09 15:17:23] UserLevel 6
+[2021/05/09 15:17:24] Logged in user:Air:
+[2021/05/09 15:17:24] UserLevel 6
+[2021/05/09 15:17:25] Logged in user:Air:
+[2021/05/09 15:17:25] UserLevel 6
+[2021/05/09 15:17:39] Logged in user:Air:
+[2021/05/09 15:17:39] UserLevel 6
+[2021/05/09 15:20:12] Logged in user:Air:
+[2021/05/09 15:20:12] UserLevel 6
+[2021/05/09 15:22:23] Logged in user:Air:
+[2021/05/09 15:22:23] UserLevel 6
+[2021/05/09 15:24:43] Logged in user:Air:
+[2021/05/09 15:24:43] UserLevel 6
+[2021/05/09 15:30:43] Logged in user:Air:
+[2021/05/09 15:30:43] UserLevel 6
+[2021/05/09 15:33:36] Logged in user:Air:
+[2021/05/09 15:33:36] UserLevel 6
+[2021/05/09 15:35:26] Logged in user:Air:
+[2021/05/09 15:35:26] UserLevel 6
+[2021/05/09 15:37:19] Logged in user:Air:
+[2021/05/09 15:37:19] UserLevel 6
+[2021/05/09 15:39:13] Logged in user:Air:
+[2021/05/09 15:39:13] UserLevel 6
+[2021/05/09 15:41:02] Logged in user:Air:
+[2021/05/09 15:41:02] UserLevel 6
+[2021/05/09 15:43:27] Logged in user:Air:
+[2021/05/09 15:43:27] UserLevel 6
+[2021/05/09 15:47:13] Logged in user:Air:
+[2021/05/09 15:47:13] UserLevel 6
+[2021/05/09 15:53:48] Logged in user:Air:
+[2021/05/09 15:53:48] UserLevel 6
+[2021/05/09 16:05:52] Logged in user:Air:
+[2021/05/09 16:05:52] UserLevel 6
+[2021/05/09 16:06:18] Logged in user:Air:
+[2021/05/09 16:06:18] UserLevel 6
+[2021/05/09 16:08:25] Logged in user:Air:
+[2021/05/09 16:08:25] UserLevel 6
+[2021/05/09 16:09:00] Logged in user:Air:
+[2021/05/09 16:09:00] UserLevel 6
+                                                                            [2021/05/09 16:16:59] Logged in user:Air:
+[2021/05/09 16:16:59] UserLevel 6
+[2021/05/09 16:18:40] Logged in user:Air:
+[2021/05/09 16:18:40] UserLevel 6
+[2021/05/09 16:22:27] Logged in user:Air:
+[2021/05/09 16:22:27] UserLevel 6
+[2021/05/09 16:22:37] Logged in user:Air:
+[2021/05/09 16:22:37] UserLevel 6
+[2021/05/09 16:30:24] Logged in user:Air:
+[2021/05/09 16:30:24] UserLevel 6
+[2021/05/09 16:32:02] Logged in user:Air:
+[2021/05/09 16:32:02] UserLevel 6
+{2021/05/09 22:58:03} RaspiMJPEG Version 5.9.5
+{2021/05/09 22:58:03} h264 search /var/www/picam/media/vi_0001_20210509_225803.mp4
+{2021/05/09 22:58:03} recommended video buffer size 65536
+{2021/05/09 22:58:03} h264 size set to 131072
+{2021/05/09 22:58:03} recommended video buffers 1
+{2021/05/09 22:58:03} h264 buffers set to recommended 1
+{2021/05/09 22:58:03} Set up internal detect width=82 height=61
+{2021/05/09 22:58:03} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/09 22:58:03} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/09 22:58:03} MJPEG streaming, ready to receive commands
+{2021/05/09 22:58:03} send smd 9
+[2021/05/09 22:58:05] RaspiCam support started
+[2021/05/09 22:58:05] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/09 22:58:05] Scheduler loop is started
+{2021/05/09 22:58:05} Starting command loop
+[2021/05/09 22:58:05] Reload parameters command requested
+[2021/05/09 22:58:05] Scheduler loop is started
+[2021/05/09 22:58:06] New period detected 0
+[2021/05/09 22:58:06] Scheduled management tasks. Next at 1620575886
+[2021/05/09 23:01:05] Logged in user:Air:
+[2021/05/09 23:01:05] UserLevel 6
+[2021/05/09 23:03:42] Logged in user:Air:
+[2021/05/09 23:03:42] UserLevel 6
+{2021/05/09 23:24:59} Internal motion detection started
+{2021/05/09 23:24:59} h264 search /var/www/picam/media/vi_0001_20210509_232459.mp4
+{2021/05/09 23:24:59} recommended video buffer size 65536
+{2021/05/09 23:24:59} h264 size set to 131072
+{2021/05/09 23:24:59} recommended video buffers 1
+{2021/05/09 23:24:59} h264 buffers set to recommended 1
+{2021/05/09 23:25:00} Set up internal detect width=82 height=61
+{2021/05/09 23:25:06} send smd 1
+[2021/05/09 23:25:06] Start capture requested from Pipe
+[2021/05/09 23:25:06] Send ca 1
+{2021/05/09 23:25:07} Capturing started
+[2021/05/09 23:25:59] Logged in user:Air:
+[2021/05/09 23:25:59] UserLevel 6
+[2021/05/09 23:26:17] Logged in user:Air:
+[2021/05/09 23:26:17] UserLevel 6
+[2021/05/09 23:26:38] Logged in user:Air:
+[2021/05/09 23:26:38] UserLevel 6
+[2021/05/09 23:26:51] Logged in user:Air:
+[2021/05/09 23:26:51] UserLevel 6
+[2021/05/09 23:26:53] Logged in user:Air:
+[2021/05/09 23:26:53] UserLevel 6
+[2021/05/09 23:26:54] Logged in user:Air:
+[2021/05/09 23:26:54] UserLevel 6
+[2021/05/09 23:26:58] Logged in user:Air:
+[2021/05/09 23:26:58] UserLevel 6
+{2021/05/09 23:28:12} Change: motion_threshold = 2500
+{2021/05/09 23:28:15} Change: motion_threshold = 2500
+[2021/05/09 23:28:24] Logged in user:Air:
+[2021/05/09 23:28:24] UserLevel 6
+[2021/05/09 23:28:25] Logged in user:Air:
+[2021/05/09 23:28:25] UserLevel 6
+[2021/05/09 23:28:26] Logged in user:Air:
+[2021/05/09 23:28:26] UserLevel 6
+[2021/05/09 23:28:27] Logged in user:Air:
+[2021/05/09 23:28:27] UserLevel 6
+[2021/05/09 23:28:39] Logged in user:Air:
+[2021/05/09 23:28:39] UserLevel 6
+[2021/05/09 23:29:01] Logged in user:Air:
+[2021/05/09 23:29:01] UserLevel 6
+{2021/05/09 23:29:17} Change: motion_external = 1
+[2021/05/09 23:29:18] Logged in user:Air:
+[2021/05/09 23:29:18] UserLevel 6
+[2021/05/09 23:29:38] Logged in user:Air:
+[2021/05/09 23:29:38] UserLevel 6
+[2021/05/09 23:29:40] Logged in user:Air:
+[2021/05/09 23:29:40] UserLevel 6
+[2021/05/09 23:29:41] Logged in user:Air:
+[2021/05/09 23:29:41] UserLevel 6
+[2021/05/09 23:29:50] Logged in user:Air:
+[2021/05/09 23:29:50] UserLevel 6
+{2021/05/09 23:30:06} SIGINT/SIGTERM received, stopping
+{2021/05/09 23:30:07} Capturing stopped
+{2021/05/09 23:30:07} Add /var/www/picam/media/vi_0001_20210509_232507.mp4 to Box Queue at pos 0
+{2021/05/09 23:30:17} RaspiMJPEG Version 5.9.5
+{2021/05/09 23:30:17} h264 search /var/www/picam/media/vi_0002_20210509_233017.mp4
+{2021/05/09 23:30:17} h264 found /var/www/picam/media/vi_0001_20210509_232507.mp4
+{2021/05/09 23:30:17} Add /var/www/picam/media/vi_0001_20210509_232507.mp4 to Box Queue at pos 0
+{2021/05/09 23:30:18} recommended video buffer size 65536
+{2021/05/09 23:30:18} h264 size set to 131072
+{2021/05/09 23:30:18} recommended video buffers 1
+{2021/05/09 23:30:18} h264 buffers set to recommended 1
+{2021/05/09 23:30:18} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/09 23:30:18} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/09 23:30:18} MJPEG streaming, ready to receive commands
+{2021/05/09 23:30:18} send smd 9
+[2021/05/09 23:30:19] RaspiCam support started
+[2021/05/09 23:30:19] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/09 23:30:19] Scheduler loop is started
+{2021/05/09 23:30:19} Starting command loop
+[2021/05/09 23:30:19] Reload parameters command requested
+[2021/05/09 23:30:19] Scheduler loop is started
+[2021/05/09 23:30:20] New period detected 0
+[2021/05/09 23:30:20] Scheduled management tasks. Next at 1620577820
+{2021/05/09 23:30:20} Start boxing /var/www/picam/media/vi_0001_20210509_232507.h264 to /var/www/picam/media/vi_0001_20210509_232507.mp4 Queue pos 0
+[2021/05/09 23:30:24] Logged in user:Air:
+[2021/05/09 23:30:24] UserLevel 6
+[2021/05/09 23:30:31] Logged in user:Air:
+[2021/05/09 23:30:37] UserLevel 6
+{2021/05/09 23:30:39} Finished boxing /var/www/picam/media/vi_0001_20210509_232507.mp4 from Box Queue at pos 0
+{2021/05/09 23:30:39} Removed item from Box Queue
+[2021/05/09 23:30:57] Logged in user:Air:
+[2021/05/09 23:30:57] UserLevel 6
+{2021/05/09 23:31:00} External motion detection started
+{2021/05/09 23:31:00} h264 search /var/www/picam/media/vi_0002_20210509_233100.mp4
+{2021/05/09 23:31:00} recommended video buffer size 65536
+{2021/05/09 23:31:00} h264 size set to 131072
+{2021/05/09 23:31:00} recommended video buffers 1
+{2021/05/09 23:31:00} h264 buffers set to recommended 1
+[2021/05/09 23:31:04] Start capture requested from Pipe
+[2021/05/09 23:31:04] Send ca 1
+{2021/05/09 23:31:04} Capturing started
+[2021/05/09 23:31:09] Stop capture requested
+[2021/05/09 23:31:09] Send ca 0
+{2021/05/09 23:31:09} Capturing stopped
+{2021/05/09 23:31:09} Add /var/www/picam/media/vi_0002_20210509_233104.mp4 to Box Queue at pos 1
+{2021/05/09 23:31:09} Start boxing /var/www/picam/media/vi_0002_20210509_233104.h264 to /var/www/picam/media/vi_0002_20210509_233104.mp4 Queue pos 1
+{2021/05/09 23:31:10} Finished boxing /var/www/picam/media/vi_0002_20210509_233104.mp4 from Box Queue at pos 1
+{2021/05/09 23:31:10} Removed item from Box Queue
+[2021/05/09 23:31:32] Logged in user:Air:
+[2021/05/09 23:31:32] UserLevel 6
+[2021/05/09 23:31:37] Logged in user:Air:
+[2021/05/09 23:31:37] UserLevel 6
+[2021/05/09 23:31:51] Logged in user:Air:
+[2021/05/09 23:31:51] UserLevel 6
+[2021/05/09 23:32:08] Logged in user:Air:
+[2021/05/09 23:32:08] UserLevel 6
+[2021/05/09 23:32:14] Start capture requested from Pipe
+[2021/05/09 23:32:14] Send ca 1
+{2021/05/09 23:32:15} Capturing started
+[2021/05/09 23:32:23] Stop capture requested
+[2021/05/09 23:32:23] Send ca 0
+{2021/05/09 23:32:23} Capturing stopped
+{2021/05/09 23:32:23} Add /var/www/picam/media/vi_0003_20210509_233215.mp4 to Box Queue at pos 2
+{2021/05/09 23:32:24} Start boxing /var/www/picam/media/vi_0003_20210509_233215.h264 to /var/www/picam/media/vi_0003_20210509_233215.mp4 Queue pos 2
+{2021/05/09 23:32:25} Finished boxing /var/www/picam/media/vi_0003_20210509_233215.mp4 from Box Queue at pos 2
+{2021/05/09 23:32:25} Removed item from Box Queue
+[2021/05/09 23:33:17] Logged in user:Air:
+[2021/05/09 23:33:17] UserLevel 6
+{2021/05/09 23:33:20} External motion detection stopped
+{2021/05/09 23:33:20} h264 search /var/www/picam/media/vi_0000_20210509_233320.mp4
+[2021/05/09 23:33:20] Stop capture request ignored, already stopped
+{2021/05/09 23:33:20} recommended video buffer size 65536
+{2021/05/09 23:33:20} h264 size set to 131072
+{2021/05/09 23:33:20} recommended video buffers 1
+{2021/05/09 23:33:20} h264 buffers set to recommended 1
+[2021/05/09 23:33:20] Stop capture request ignored, already stopped
+{2021/05/09 23:33:32} Change: motion_external = 0
+[2021/05/09 23:33:33] Logged in user:Air:
+[2021/05/09 23:33:33] UserLevel 6
+{2021/05/09 23:33:41} Internal motion detection started
+{2021/05/09 23:33:41} h264 search /var/www/picam/media/vi_0000_20210509_233341.mp4
+{2021/05/09 23:33:41} recommended video buffer size 65536
+{2021/05/09 23:33:41} h264 size set to 131072
+{2021/05/09 23:33:41} recommended video buffers 1
+{2021/05/09 23:33:41} h264 buffers set to recommended 1
+{2021/05/09 23:33:42} Set up internal detect width=82 height=61
+{2021/05/09 23:33:42} send smd 1
+[2021/05/09 23:33:42] Start capture requested from Pipe
+[2021/05/09 23:33:42] Send ca 1
+{2021/05/09 23:33:42} Capturing started
+{2021/05/09 23:34:37} SIGINT/SIGTERM received, stopping
+{2021/05/09 23:34:37} Capturing stopped
+{2021/05/09 23:34:37} Add /var/www/picam/media/vi_0000_20210509_233342.mp4 to Box Queue at pos 3
+{2021/05/09 23:34:52} RaspiMJPEG Version 5.9.5
+{2021/05/09 23:34:52} h264 search /var/www/picam/media/vi_0001_20210509_233452.mp4
+{2021/05/09 23:34:52} h264 found /var/www/picam/media/vi_0000_20210509_233342.mp4
+{2021/05/09 23:34:52} Add /var/www/picam/media/vi_0000_20210509_233342.mp4 to Box Queue at pos 0
+{2021/05/09 23:34:52} recommended video buffer size 65536
+{2021/05/09 23:34:52} h264 size set to 131072
+{2021/05/09 23:34:52} recommended video buffers 1
+{2021/05/09 23:34:52} h264 buffers set to recommended 1
+{2021/05/09 23:34:53} Set up internal detect width=82 height=61
+{2021/05/09 23:34:53} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/09 23:34:53} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/09 23:34:53} MJPEG streaming, ready to receive commands
+{2021/05/09 23:34:53} send smd 9
+[2021/05/09 23:34:54] RaspiCam support started
+[2021/05/09 23:34:54] Capture Pipe already exists /var/www/picam/FIFO1
+{2021/05/09 23:34:54} Starting command loop
+[2021/05/09 23:34:54] Scheduler loop is started
+[2021/05/09 23:34:54] Reload parameters command requested
+[2021/05/09 23:34:54] Scheduler loop is started
+{2021/05/09 23:34:54} Start boxing /var/www/picam/media/vi_0000_20210509_233342.h264 to /var/www/picam/media/vi_0000_20210509_233342.mp4 Queue pos 0
+[2021/05/09 23:34:55] New period detected 0
+[2021/05/09 23:34:55] Scheduled management tasks. Next at 1620578095
+{2021/05/09 23:34:56} Finished boxing /var/www/picam/media/vi_0000_20210509_233342.mp4 from Box Queue at pos 0
+{2021/05/09 23:34:56} Removed item from Box Queue
+[2021/05/09 23:34:58] Logged in user:Air:
+[2021/05/09 23:34:58] UserLevel 6
+[2021/05/09 23:35:14] Logged in user:Air:
+[2021/05/09 23:35:14] UserLevel 6
+{2021/05/09 23:35:20} Change: motion_external = 2
+[2021/05/09 23:35:21] Logged in user:Air:
+[2021/05/09 23:35:21] UserLevel 6
+{2021/05/09 23:35:34} Internal motion detection started
+{2021/05/09 23:35:34} h264 search /var/www/picam/media/vi_0000_20210509_233534.mp4
+{2021/05/09 23:35:34} recommended video buffer size 65536
+{2021/05/09 23:35:34} h264 size set to 131072
+{2021/05/09 23:35:34} recommended video buffers 1
+{2021/05/09 23:35:34} h264 buffers set to recommended 1
+{2021/05/09 23:35:34} Set up internal detect width=82 height=61
+[2021/05/09 23:35:57] Logged in user:Air:
+[2021/05/09 23:35:57] UserLevel 6
+{2021/05/09 23:36:22} Internal motion detection stopped
+{2021/05/09 23:36:22} h264 search /var/www/picam/media/vi_0000_20210509_233622.mp4
+{2021/05/09 23:36:22} recommended video buffer size 65536
+{2021/05/09 23:36:22} h264 size set to 131072
+{2021/05/09 23:36:22} recommended video buffers 1
+{2021/05/09 23:36:22} h264 buffers set to recommended 1
+{2021/05/09 23:36:23} Set up internal detect width=82 height=61
+[2021/05/09 23:36:28] Logged in user:Air:
+[2021/05/09 23:36:28] UserLevel 6
+[2021/05/09 23:36:31] Logged in user:Air:
+[2021/05/09 23:36:31] UserLevel 6
+{2021/05/09 23:36:53} Change: motion_external = 1
+[2021/05/09 23:36:54] Logged in user:Air:
+[2021/05/09 23:36:54] UserLevel 6
+{2021/05/09 23:36:58} External motion detection started
+{2021/05/09 23:36:58} h264 search /var/www/picam/media/vi_0000_20210509_233658.mp4
+{2021/05/09 23:36:58} recommended video buffer size 65536
+{2021/05/09 23:36:58} h264 size set to 131072
+{2021/05/09 23:36:58} recommended video buffers 1
+{2021/05/09 23:36:58} h264 buffers set to recommended 1
+[2021/05/09 23:37:02] Start capture requested from Pipe
+[2021/05/09 23:37:02] Send ca 1
+{2021/05/09 23:37:02} Capturing started
+[2021/05/09 23:37:12] Stop capture requested
+[2021/05/09 23:37:12] Send ca 0
+{2021/05/09 23:37:12} Capturing stopped
+{2021/05/09 23:37:12} Add /var/www/picam/media/vi_0000_20210509_233702.mp4 to Box Queue at pos 1
+{2021/05/09 23:37:13} Start boxing /var/www/picam/media/vi_0000_20210509_233702.h264 to /var/www/picam/media/vi_0000_20210509_233702.mp4 Queue pos 1
+{2021/05/09 23:37:14} Finished boxing /var/www/picam/media/vi_0000_20210509_233702.mp4 from Box Queue at pos 1
+{2021/05/09 23:37:14} Removed item from Box Queue
+{2021/05/09 23:37:16} External motion detection stopped
+{2021/05/09 23:37:16} h264 search /var/www/picam/media/vi_0001_20210509_233716.mp4
+{2021/05/09 23:37:16} recommended video buffer size 65536
+{2021/05/09 23:37:16} h264 size set to 131072
+{2021/05/09 23:37:16} recommended video buffers 1
+{2021/05/09 23:37:16} h264 buffers set to recommended 1
+[2021/05/09 23:37:16] Stop capture request ignored, already stopped
+[2021/05/09 23:37:17] Stop capture request ignored, already stopped
+[2021/05/09 23:37:22] Logged in user:Air:
+[2021/05/09 23:37:22] UserLevel 6
+{2021/05/09 23:38:26} Change: motion_external = 2
+[2021/05/09 23:38:27] Logged in user:Air:
+[2021/05/09 23:38:27] UserLevel 6
+{2021/05/09 23:38:30} Internal motion detection started
+{2021/05/09 23:38:30} h264 search /var/www/picam/media/vi_0000_20210509_233830.mp4
+{2021/05/09 23:38:30} recommended video buffer size 65536
+{2021/05/09 23:38:30} h264 size set to 131072
+{2021/05/09 23:38:30} recommended video buffers 1
+{2021/05/09 23:38:30} h264 buffers set to recommended 1
+{2021/05/09 23:38:30} Set up internal detect width=82 height=61
+[2021/05/09 23:38:49] Logged in user:Air:
+[2021/05/09 23:38:49] UserLevel 6
+{2021/05/09 23:38:51} Internal motion detection stopped
+{2021/05/09 23:38:51} h264 search /var/www/picam/media/vi_0000_20210509_233851.mp4
+{2021/05/09 23:38:52} recommended video buffer size 65536
+{2021/05/09 23:38:52} h264 size set to 131072
+{2021/05/09 23:38:52} recommended video buffers 1
+{2021/05/09 23:38:52} h264 buffers set to recommended 1
+{2021/05/09 23:38:52} Set up internal detect width=82 height=61
+{2021/05/09 23:39:05} Change: motion_external = 1
+[2021/05/09 23:39:06] Logged in user:Air:
+[2021/05/09 23:39:06] UserLevel 6
+{2021/05/09 23:51:36} Stream halted
+{2021/05/09 23:51:47} SIGINT/SIGTERM received, stopping
+{2021/05/10 09:05:19} RaspiMJPEG Version 5.9.5
+{2021/05/10 09:05:19} h264 search /var/www/picam/media/vi_0000_20210510_090519.mp4
+{2021/05/10 09:05:19} recommended video buffer size 65536
+{2021/05/10 09:05:19} h264 size set to 131072
+{2021/05/10 09:05:19} recommended video buffers 1
+{2021/05/10 09:05:19} h264 buffers set to recommended 1
+{2021/05/10 09:05:19} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/10 09:05:19} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/10 09:05:19} MJPEG streaming, ready to receive commands
+{2021/05/10 09:05:19} send smd 9
+[2021/05/10 09:05:20] RaspiCam support started
+[2021/05/10 09:05:20] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/10 09:05:20] Scheduler loop is started
+{2021/05/10 09:05:20} Starting command loop
+[2021/05/10 09:05:20] Reload parameters command requested
+[2021/05/10 09:05:20] Scheduler loop is started
+[2021/05/10 09:05:21] New period detected 0
+[2021/05/10 09:05:21] Scheduled management tasks. Next at 1620612321
+[2021/05/10 09:05:40] Logged in user:Air:
+[2021/05/10 09:05:40] UserLevel 6
+[2021/05/10 09:06:27] Logged in user:Air:
+[2021/05/10 09:06:27] UserLevel 6
+[2021/05/10 09:09:22] Logged in user:Air:
+[2021/05/10 09:09:22] UserLevel 6
+{2021/05/10 09:18:13} Stream halted
+{2021/05/10 09:41:39} SIGINT/SIGTERM received, stopping
+[2021/05/10 11:08:00] Logged in user:Air:
+[2021/05/10 11:08:00] UserLevel 6
+[2021/05/10 11:08:00] Logged in user:Air:
+[2021/05/10 11:08:00] UserLevel 6
+[2021/05/10 11:08:01] Logged in user:Air:
+[2021/05/10 11:08:01] UserLevel 6
+[2021/05/10 11:08:09] Logged in user:Air:
+[2021/05/10 11:08:09] UserLevel 6
+[2021/05/10 11:10:48] Logged in user:Air:
+[2021/05/10 11:10:48] UserLevel 6
+[2021/05/10 11:11:04] Logged in user:Air:
+[2021/05/10 11:11:04] UserLevel 6
+[2021/05/10 11:11:04] Logged in user:Air:
+[2021/05/10 11:11:04] UserLevel 6
+[2021/05/10 11:11:05] Logged in user:Air:
+[2021/05/10 11:11:05] UserLevel 6
+[2021/05/10 11:11:06] Logged in user:Air:
+[2021/05/10 11:11:06] UserLevel 6
+[2021/05/10 16:35:47] Logged in user:Air:
+[2021/05/10 16:35:47] UserLevel 6
+[2021/05/10 16:39:46] Logged in user:Air:
+[2021/05/10 16:39:46] UserLevel 6
+[2021/05/10 16:47:10] Logged in user:Air:
+[2021/05/10 16:47:10] UserLevel 6
+[2021/05/10 16:47:23] Logged in user:Air:
+[2021/05/10 16:47:23] UserLevel 6
+{2021/05/10 16:47:55} RaspiMJPEG Version 5.9.5
+{2021/05/10 16:47:55} h264 search /var/www/picam/media/vi_0000_20210510_164755.mp4
+{2021/05/10 16:47:55} recommended video buffer size 65536
+{2021/05/10 16:47:55} h264 size set to 131072
+{2021/05/10 16:47:55} recommended video buffers 1
+{2021/05/10 16:47:55} h264 buffers set to recommended 1
+{2021/05/10 16:47:55} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/10 16:47:55} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/10 16:47:55} MJPEG streaming, ready to receive commands
+{2021/05/10 16:47:55} send smd 9
+[2021/05/10 16:47:56] RaspiCam support started
+[2021/05/10 16:47:56] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/10 16:47:56] Scheduler loop is started
+{2021/05/10 16:47:56} Starting command loop
+[2021/05/10 16:47:56] Reload parameters command requested
+[2021/05/10 16:47:56] Scheduler loop is started
+[2021/05/10 16:47:57] New period detected 0
+[2021/05/10 16:47:57] Scheduled management tasks. Next at 1620640077
+[2021/05/10 16:48:17] Logged in user:Air:
+[2021/05/10 16:48:17] UserLevel 6
+{2021/05/10 16:48:21} External motion detection started
+{2021/05/10 16:48:21} h264 search /var/www/picam/media/vi_0000_20210510_164821.mp4
+{2021/05/10 16:48:21} recommended video buffer size 65536
+{2021/05/10 16:48:21} h264 size set to 131072
+{2021/05/10 16:48:21} recommended video buffers 1
+{2021/05/10 16:48:21} h264 buffers set to recommended 1
+[2021/05/10 16:48:25] Start capture requested from Pipe
+[2021/05/10 16:48:25] Send ca 1
+{2021/05/10 16:48:25} Capturing started
+[2021/05/10 16:48:47] Stop capture requested
+[2021/05/10 16:48:47] Send ca 0
+{2021/05/10 16:48:47} Capturing stopped
+{2021/05/10 16:48:47} Add /var/www/picam/media/vi_0000_20210510_164825.mp4 to Box Queue at pos 0
+{2021/05/10 16:48:47} Start boxing /var/www/picam/media/vi_0000_20210510_164825.h264 to /var/www/picam/media/vi_0000_20210510_164825.mp4 Queue pos 0
+{2021/05/10 16:48:48} Finished boxing /var/www/picam/media/vi_0000_20210510_164825.mp4 from Box Queue at pos 0
+{2021/05/10 16:48:48} Removed item from Box Queue
+[2021/05/10 16:49:05] Start capture requested from Pipe
+[2021/05/10 16:49:05] Send ca 1
+{2021/05/10 16:49:05} Capturing started
+[2021/05/10 16:49:08] Stop capture requested
+[2021/05/10 16:49:08] Send ca 0
+{2021/05/10 16:49:08} Capturing stopped
+{2021/05/10 16:49:08} Add /var/www/picam/media/vi_0001_20210510_164905.mp4 to Box Queue at pos 1
+{2021/05/10 16:49:08} Start boxing /var/www/picam/media/vi_0001_20210510_164905.h264 to /var/www/picam/media/vi_0001_20210510_164905.mp4 Queue pos 1
+{2021/05/10 16:49:09} Finished boxing /var/www/picam/media/vi_0001_20210510_164905.mp4 from Box Queue at pos 1
+{2021/05/10 16:49:09} Removed item from Box Queue
+[2021/05/10 16:49:10] Start capture requested from Pipe
+[2021/05/10 16:49:10] Send ca 1
+{2021/05/10 16:49:10} Capturing started
+[2021/05/10 16:49:50] Stop capture requested
+[2021/05/10 16:49:50] Send ca 0
+{2021/05/10 16:49:50} Capturing stopped
+{2021/05/10 16:49:50} Add /var/www/picam/media/vi_0002_20210510_164910.mp4 to Box Queue at pos 2
+{2021/05/10 16:49:51} Start boxing /var/www/picam/media/vi_0002_20210510_164910.h264 to /var/www/picam/media/vi_0002_20210510_164910.mp4 Queue pos 2
+[2021/05/10 16:49:52] Start capture requested from Pipe
+[2021/05/10 16:49:52] Send ca 1
+{2021/05/10 16:49:52} Capturing started
+[2021/05/10 16:49:54] Stop capture requested
+[2021/05/10 16:49:54] Send ca 0
+{2021/05/10 16:49:54} Capturing stopped
+{2021/05/10 16:49:54} Add /var/www/picam/media/vi_0003_20210510_164952.mp4 to Box Queue at pos 3
+{2021/05/10 16:49:54} Finished boxing /var/www/picam/media/vi_0002_20210510_164910.mp4 from Box Queue at pos 2
+{2021/05/10 16:49:54} Start boxing /var/www/picam/media/vi_0003_20210510_164952.h264 to /var/www/picam/media/vi_0003_20210510_164952.mp4 Queue pos 3
+{2021/05/10 16:49:54} Removed item from Box Queue
+{2021/05/10 16:49:55} Finished boxing /var/www/picam/media/vi_0003_20210510_164952.mp4 from Box Queue at pos 3
+{2021/05/10 16:49:55} Removed item from Box Queue
+[2021/05/10 16:49:56] Start capture requested from Pipe
+[2021/05/10 16:49:56] Send ca 1
+{2021/05/10 16:49:56} Capturing started
+[2021/05/10 16:50:01] Stop capture requested
+[2021/05/10 16:50:01] Send ca 0
+{2021/05/10 16:50:01} Capturing stopped
+{2021/05/10 16:50:01} Add /var/www/picam/media/vi_0004_20210510_164956.mp4 to Box Queue at pos 4
+{2021/05/10 16:50:02} Start boxing /var/www/picam/media/vi_0004_20210510_164956.h264 to /var/www/picam/media/vi_0004_20210510_164956.mp4 Queue pos 4
+{2021/05/10 16:50:03} Finished boxing /var/www/picam/media/vi_0004_20210510_164956.mp4 from Box Queue at pos 4
+{2021/05/10 16:50:03} Removed item from Box Queue
+[2021/05/10 16:50:05] Start capture requested from Pipe
+[2021/05/10 16:50:05] Send ca 1
+{2021/05/10 16:50:05} Capturing started
+[2021/05/10 16:50:08] Stop capture requested
+[2021/05/10 16:50:08] Send ca 0
+{2021/05/10 16:50:08} Capturing stopped
+{2021/05/10 16:50:08} Add /var/www/picam/media/vi_0005_20210510_165005.mp4 to Box Queue at pos 5
+{2021/05/10 16:50:08} Start boxing /var/www/picam/media/vi_0005_20210510_165005.h264 to /var/www/picam/media/vi_0005_20210510_165005.mp4 Queue pos 5
+{2021/05/10 16:50:09} Finished boxing /var/www/picam/media/vi_0005_20210510_165005.mp4 from Box Queue at pos 5
+{2021/05/10 16:50:09} Removed item from Box Queue
+[2021/05/10 16:50:10] Start capture requested from Pipe
+[2021/05/10 16:50:10] Send ca 1
+{2021/05/10 16:50:10} Capturing started
+[2021/05/10 16:50:18] Stop capture requested
+[2021/05/10 16:50:18] Send ca 0
+{2021/05/10 16:50:18} Capturing stopped
+{2021/05/10 16:50:18} Add /var/www/picam/media/vi_0006_20210510_165010.mp4 to Box Queue at pos 6
+{2021/05/10 16:50:18} Start boxing /var/www/picam/media/vi_0006_20210510_165010.h264 to /var/www/picam/media/vi_0006_20210510_165010.mp4 Queue pos 6
+{2021/05/10 16:50:19} Finished boxing /var/www/picam/media/vi_0006_20210510_165010.mp4 from Box Queue at pos 6
+{2021/05/10 16:50:19} Removed item from Box Queue
+[2021/05/10 16:50:20] Start capture requested from Pipe
+[2021/05/10 16:50:20] Send ca 1
+{2021/05/10 16:50:20} Capturing started
+[2021/05/10 16:50:23] Logged in user:Air:
+[2021/05/10 16:50:23] UserLevel 6
+[2021/05/10 16:50:37] Stop capture requested
+[2021/05/10 16:50:37] Send ca 0
+{2021/05/10 16:50:37} Capturing stopped
+{2021/05/10 16:50:37} Add /var/www/picam/media/vi_0007_20210510_165020.mp4 to Box Queue at pos 7
+{2021/05/10 16:50:38} Start boxing /var/www/picam/media/vi_0007_20210510_165020.h264 to /var/www/picam/media/vi_0007_20210510_165020.mp4 Queue pos 7
+[2021/05/10 16:50:39] Start capture requested from Pipe
+[2021/05/10 16:50:39] Send ca 1
+{2021/05/10 16:50:39} Capturing started
+{2021/05/10 16:50:39} Finished boxing /var/www/picam/media/vi_0007_20210510_165020.mp4 from Box Queue at pos 7
+{2021/05/10 16:50:39} Removed item from Box Queue
+[2021/05/10 16:50:52] Stop capture requested
+[2021/05/10 16:50:52] Send ca 0
+{2021/05/10 16:50:52} Capturing stopped
+{2021/05/10 16:50:52} Add /var/www/picam/media/vi_0008_20210510_165039.mp4 to Box Queue at pos 8
+{2021/05/10 16:50:53} Start boxing /var/www/picam/media/vi_0008_20210510_165039.h264 to /var/www/picam/media/vi_0008_20210510_165039.mp4 Queue pos 8
+{2021/05/10 16:50:54} Finished boxing /var/www/picam/media/vi_0008_20210510_165039.mp4 from Box Queue at pos 8
+{2021/05/10 16:50:54} Removed item from Box Queue
+{2021/05/10 16:50:55} External motion detection stopped
+{2021/05/10 16:50:55} h264 search /var/www/picam/media/vi_0009_20210510_165055.mp4
+{2021/05/10 16:50:55} recommended video buffer size 65536
+{2021/05/10 16:50:55} h264 size set to 131072
+{2021/05/10 16:50:55} recommended video buffers 1
+{2021/05/10 16:50:55} h264 buffers set to recommended 1
+[2021/05/10 16:50:56] Start capture requested from Pipe
+[2021/05/10 16:50:56] Send ca 1
+{2021/05/10 16:50:56} Capturing started
+[2021/05/10 16:50:58] Stop capture requested
+[2021/05/10 16:50:58] Send ca 0
+{2021/05/10 16:50:58} Capturing stopped
+{2021/05/10 16:50:58} Add /var/www/picam/media/vi_0009_20210510_165056.mp4 to Box Queue at pos 9
+{2021/05/10 16:50:58} Start boxing /var/www/picam/media/vi_0009_20210510_165056.h264 to /var/www/picam/media/vi_0009_20210510_165056.mp4 Queue pos 9
+{2021/05/10 16:50:59} Finished boxing /var/www/picam/media/vi_0009_20210510_165056.mp4 from Box Queue at pos 9
+{2021/05/10 16:50:59} Removed item from Box Queue
+[2021/05/10 16:51:00] Stop capture request ignored, already stopped
+[2021/05/10 16:51:24] Logged in user:Air:
+[2021/05/10 16:51:24] UserLevel 6
+{2021/05/10 16:51:28} Stream halted
+{2021/05/10 16:52:13} SIGINT/SIGTERM received, stopping
+{2021/05/10 16:53:53} RaspiMJPEG Version 5.9.5
+{2021/05/10 16:53:53} h264 search /var/www/picam/media/vi_0000_20210510_165353.mp4
+{2021/05/10 16:53:53} recommended video buffer size 65536
+{2021/05/10 16:53:53} h264 size set to 131072
+{2021/05/10 16:53:53} recommended video buffers 1
+{2021/05/10 16:53:53} h264 buffers set to recommended 1
+{2021/05/10 16:53:53} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/10 16:53:53} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/10 16:53:53} MJPEG streaming, ready to receive commands
+{2021/05/10 16:53:53} send smd 9
+[2021/05/10 16:53:54] RaspiCam support started
+[2021/05/10 16:53:54] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/10 16:53:54] Scheduler loop is started
+{2021/05/10 16:53:54} Starting command loop
+[2021/05/10 16:53:54] Reload parameters command requested
+[2021/05/10 16:53:54] Scheduler loop is started
+[2021/05/10 16:53:55] New period detected 0
+[2021/05/10 16:53:55] Scheduled management tasks. Next at 1620640435
+{2021/05/10 16:54:02} Change: motion_external = 2
+[2021/05/10 16:54:03] Logged in user:Air:
+[2021/05/10 16:54:03] UserLevel 6
+{2021/05/10 16:54:07} Internal motion detection started
+{2021/05/10 16:54:07} h264 search /var/www/picam/media/vi_0000_20210510_165407.mp4
+{2021/05/10 16:54:08} recommended video buffer size 65536
+{2021/05/10 16:54:08} h264 size set to 131072
+{2021/05/10 16:54:08} recommended video buffers 1
+{2021/05/10 16:54:08} h264 buffers set to recommended 1
+{2021/05/10 16:54:08} Set up internal detect width=82 height=61
+{2021/05/10 16:54:40} Internal motion detection stopped
+{2021/05/10 16:54:40} h264 search /var/www/picam/media/vi_0000_20210510_165440.mp4
+{2021/05/10 16:54:40} recommended video buffer size 65536
+{2021/05/10 16:54:40} h264 size set to 131072
+{2021/05/10 16:54:40} recommended video buffers 1
+{2021/05/10 16:54:40} h264 buffers set to recommended 1
+{2021/05/10 16:54:40} Set up internal detect width=82 height=61
+[2021/05/10 16:54:49] Logged in user:Air:
+[2021/05/10 16:54:49] UserLevel 6
+{2021/05/10 16:54:54} Internal motion detection started
+{2021/05/10 16:54:54} h264 search /var/www/picam/media/vi_0000_20210510_165454.mp4
+{2021/05/10 16:54:54} recommended video buffer size 65536
+{2021/05/10 16:54:54} h264 size set to 131072
+{2021/05/10 16:54:54} recommended video buffers 1
+{2021/05/10 16:54:54} h264 buffers set to recommended 1
+{2021/05/10 16:54:55} Set up internal detect width=82 height=61
+{2021/05/10 16:55:15} Internal motion detection stopped
+{2021/05/10 16:55:15} h264 search /var/www/picam/media/vi_0000_20210510_165515.mp4
+{2021/05/10 16:55:15} recommended video buffer size 65536
+{2021/05/10 16:55:15} h264 size set to 131072
+{2021/05/10 16:55:15} recommended video buffers 1
+{2021/05/10 16:55:15} h264 buffers set to recommended 1
+{2021/05/10 16:55:15} Set up internal detect width=82 height=61
+{2021/05/10 16:55:19} Capturing image
+[2021/05/10 16:56:21] Logged in user:Air:
+[2021/05/10 16:56:21] UserLevel 6
+{2021/05/10 16:56:27} Change: motion_external = 1
+[2021/05/10 16:56:28] Logged in user:Air:
+[2021/05/10 16:56:28] UserLevel 6
+{2021/05/10 16:56:32} Stream halted
+{2021/05/10 16:56:37} SIGINT/SIGTERM received, stopping
+{2021/05/10 22:04:50} RaspiMJPEG Version 5.9.5
+{2021/05/10 22:04:50} h264 search /var/www/picam/media/vi_0000_20210510_220450.mp4
+{2021/05/10 22:04:50} recommended video buffer size 65536
+{2021/05/10 22:04:50} h264 size set to 131072
+{2021/05/10 22:04:50} recommended video buffers 1
+{2021/05/10 22:04:50} h264 buffers set to recommended 1
+{2021/05/10 22:04:50} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/10 22:04:50} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/10 22:04:50} MJPEG streaming, ready to receive commands
+{2021/05/10 22:04:50} send smd 9
+[2021/05/10 22:04:52] RaspiCam support started
+[2021/05/10 22:04:52] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/10 22:04:52] Scheduler loop is started
+{2021/05/10 22:04:52} Starting command loop
+[2021/05/10 22:04:52] Reload parameters command requested
+[2021/05/10 22:04:52] Scheduler loop is started
+[2021/05/10 22:04:53] New period detected 0
+[2021/05/10 22:04:53] Scheduled management tasks. Next at 1620659093
+[2021/05/11 10:32:42] Scheduled management tasks. Next at 1620703962
+[2021/05/11 10:32:55] Logged in user:Air:
+[2021/05/11 10:32:55] UserLevel 6
+[2021/05/11 10:35:27] Logged in user:Air:
+[2021/05/11 10:35:27] UserLevel 6
+[2021/05/11 10:38:10] Logged in user:Air:
+[2021/05/11 10:38:10] UserLevel 6
+{2021/05/11 10:38:22} External motion detection started
+{2021/05/11 10:38:22} h264 search /var/www/picam/media/vi_0000_20210511_103822.mp4
+{2021/05/11 10:38:22} recommended video buffer size 65536
+{2021/05/11 10:38:22} h264 size set to 131072
+{2021/05/11 10:38:22} recommended video buffers 1
+{2021/05/11 10:38:22} h264 buffers set to recommended 1
+[2021/05/11 10:38:56] Logged in user:Air:
+[2021/05/11 10:38:56] UserLevel 6
+{2021/05/11 10:38:59} External motion detection stopped
+{2021/05/11 10:38:59} h264 search /var/www/picam/media/vi_0000_20210511_103859.mp4
+{2021/05/11 10:38:59} recommended video buffer size 65536
+{2021/05/11 10:38:59} h264 size set to 131072
+{2021/05/11 10:38:59} recommended video buffers 1
+{2021/05/11 10:38:59} h264 buffers set to recommended 1
+[2021/05/11 10:38:59] Stop capture request ignored, already stopped
+[2021/05/11 10:39:00] Stop capture request ignored, already stopped
+[2021/05/11 10:46:27] Logged in user:Air:
+[2021/05/11 10:46:27] UserLevel 6
+{2021/05/11 11:01:30} External motion detection started
+{2021/05/11 11:01:30} h264 search /var/www/picam/media/vi_0000_20210511_110130.mp4
+{2021/05/11 11:01:30} recommended video buffer size 65536
+{2021/05/11 11:01:30} h264 size set to 131072
+{2021/05/11 11:01:30} recommended video buffers 1
+{2021/05/11 11:01:30} h264 buffers set to recommended 1
+[2021/05/11 11:01:45] Logged in user:Air:
+[2021/05/11 11:01:45] UserLevel 6
+[2021/05/11 11:03:38] Logged in user:Air:
+[2021/05/11 11:03:38] UserLevel 6
+{2021/05/11 11:04:10} RaspiMJPEG Version 5.9.5
+{2021/05/11 11:04:10} h264 search /var/www/picam/media/vi_0000_20210511_110410.mp4
+{2021/05/11 11:04:10} recommended video buffer size 65536
+{2021/05/11 11:04:10} h264 size set to 131072
+{2021/05/11 11:04:10} recommended video buffers 1
+{2021/05/11 11:04:10} h264 buffers set to recommended 1
+{2021/05/11 11:04:10} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/11 11:04:10} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/11 11:04:10} MJPEG streaming, ready to receive commands
+{2021/05/11 11:04:10} send smd 9
+[2021/05/11 11:04:11] RaspiCam support started
+[2021/05/11 11:04:11] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/11 11:04:11] Scheduler loop is started
+{2021/05/11 11:04:11} Starting command loop
+[2021/05/11 11:04:11] Reload parameters command requested
+[2021/05/11 11:04:11] Scheduler loop is started
+[2021/05/11 11:04:12] New period detected 0
+[2021/05/11 11:04:12] Scheduled management tasks. Next at 1620705852
+{2021/05/11 11:04:56} External motion detection started
+{2021/05/11 11:04:56} h264 search /var/www/picam/media/vi_0000_20210511_110456.mp4
+{2021/05/11 11:04:56} recommended video buffer size 65536
+{2021/05/11 11:04:56} h264 size set to 131072
+{2021/05/11 11:04:56} recommended video buffers 1
+{2021/05/11 11:04:56} h264 buffers set to recommended 1
+[2021/05/11 11:05:09] Logged in user:Air:
+[2021/05/11 11:05:09] UserLevel 6
+[2021/05/11 11:05:53] Saved schedule settings
+[2021/05/11 11:05:53] Send Schedule reset
+[2021/05/11 11:05:53] Reload parameters command requested
+[2021/05/11 11:05:53] Scheduler loop is started
+[2021/05/11 11:05:54] New period detected 7
+[2021/05/11 11:05:54] Scheduled management tasks. Next at 1620705954
+[2021/05/11 11:06:00] Logged in user:Air:
+[2021/05/11 11:06:00] UserLevel 6
+[2021/05/11 11:06:03] Start capture requested from Pipe
+[2021/05/11 11:06:33] Stop capture request ignored, already stopped
+[2021/05/11 11:06:44] Logged in user:Air:
+[2021/05/11 11:06:44] UserLevel 6
+[2021/05/11 11:07:14] Saved schedule settings
+[2021/05/11 11:07:14] Send Schedule reset
+[2021/05/11 11:07:14] Reload parameters command requested
+[2021/05/11 11:07:14] Scheduler loop is started
+[2021/05/11 11:07:15] New period detected 0
+[2021/05/11 11:07:15] Scheduled management tasks. Next at 1620706035
+[2021/05/11 11:07:20] Logged in user:Air:
+[2021/05/11 11:07:20] UserLevel 6
+[2021/05/11 11:07:36] Start capture requested from Pipe
+[2021/05/11 11:07:36] Send ca 1
+{2021/05/11 11:07:36} Capturing started
+[2021/05/11 11:07:47] Stop capture requested
+[2021/05/11 11:07:47] Send ca 0
+{2021/05/11 11:07:47} Capturing stopped
+{2021/05/11 11:07:47} Add /var/www/picam/media/vi_0000_20210511_110736.mp4 to Box Queue at pos 0
+{2021/05/11 11:07:48} Start boxing /var/www/picam/media/vi_0000_20210511_110736.h264 to /var/www/picam/media/vi_0000_20210511_110736.mp4 Queue pos 0
+{2021/05/11 11:07:49} Finished boxing /var/www/picam/media/vi_0000_20210511_110736.mp4 from Box Queue at pos 0
+{2021/05/11 11:07:49} Removed item from Box Queue
+[2021/05/11 11:07:50] Logged in user:Air:
+[2021/05/11 11:07:50] UserLevel 6
+{2021/05/11 11:07:54} External motion detection stopped
+{2021/05/11 11:07:54} h264 search /var/www/picam/media/vi_0001_20210511_110754.mp4
+{2021/05/11 11:07:54} recommended video buffer size 65536
+{2021/05/11 11:07:54} h264 size set to 131072
+{2021/05/11 11:07:54} recommended video buffers 1
+{2021/05/11 11:07:54} h264 buffers set to recommended 1
+[2021/05/11 11:07:54] Stop capture request ignored, already stopped
+[2021/05/11 11:07:54] Stop capture request ignored, already stopped
+[2021/05/11 11:08:05] Logged in user:Air:
+[2021/05/11 11:08:05] UserLevel 6
+[2021/05/11 11:08:23] Saved schedule settings
+[2021/05/11 11:08:23] Send Schedule reset
+[2021/05/11 11:08:23] Reload parameters command requested
+[2021/05/11 11:08:23] Scheduler loop is started
+[2021/05/11 11:08:24] New period detected 7
+[2021/05/11 11:08:24] Scheduled management tasks. Next at 1620706104
+[2021/05/11 11:08:29] Logged in user:Air:
+[2021/05/11 11:08:29] UserLevel 6
+{2021/05/11 11:08:31} External motion detection started
+{2021/05/11 11:08:31} h264 search /var/www/picam/media/vi_0000_20210511_110831.mp4
+{2021/05/11 11:08:31} recommended video buffer size 65536
+{2021/05/11 11:08:31} h264 size set to 131072
+{2021/05/11 11:08:31} recommended video buffers 1
+{2021/05/11 11:08:31} h264 buffers set to recommended 1
+[2021/05/11 11:08:43] Start capture requested from Pipe
+[2021/05/11 11:08:52] Stop capture request ignored, already stopped
+[2021/05/11 11:08:54] Logged in user:Air:
+[2021/05/11 11:08:54] UserLevel 6
+[2021/05/11 11:09:08] Start capture requested from Pipe
+[2021/05/11 11:09:23] Stop capture request ignored, already stopped
+[2021/05/11 11:09:29] Start capture requested from Pipe
+{2021/05/11 11:09:30} External motion detection stopped
+{2021/05/11 11:09:30} h264 search /var/www/picam/media/vi_0000_20210511_110930.mp4
+[2021/05/11 11:09:30] Stop capture request ignored, already stopped
+{2021/05/11 11:09:30} recommended video buffer size 65536
+{2021/05/11 11:09:30} h264 size set to 131072
+{2021/05/11 11:09:30} recommended video buffers 1
+{2021/05/11 11:09:30} h264 buffers set to recommended 1
+[2021/05/11 11:09:30] Stop capture request ignored, already stopped
+[2021/05/11 11:09:42] Logged in user:Air:
+[2021/05/11 11:09:42] UserLevel 6
+[2021/05/11 11:09:50] Saved schedule settings
+[2021/05/11 11:09:50] Send Schedule reset
+[2021/05/11 11:09:50] Reload parameters command requested
+[2021/05/11 11:09:50] Scheduler loop is started
+[2021/05/11 11:09:51] New period detected 0
+[2021/05/11 11:09:51] Scheduled management tasks. Next at 1620706191
+[2021/05/11 11:09:53] Logged in user:Air:
+[2021/05/11 11:09:53] UserLevel 6
+{2021/05/11 11:09:58} Change: motion_external = 2
+[2021/05/11 11:09:59] Logged in user:Air:
+[2021/05/11 11:09:59] UserLevel 6
+[2021/05/11 11:10:09] Logged in user:Air:
+[2021/05/11 11:10:09] UserLevel 6
+{2021/05/11 11:10:11} Internal motion detection started
+{2021/05/11 11:10:11} h264 search /var/www/picam/media/vi_0000_20210511_111011.mp4
+{2021/05/11 11:10:11} recommended video buffer size 65536
+{2021/05/11 11:10:11} h264 size set to 131072
+{2021/05/11 11:10:11} recommended video buffers 1
+{2021/05/11 11:10:11} h264 buffers set to recommended 1
+{2021/05/11 11:10:12} Set up internal detect width=82 height=61
+[2021/05/11 11:10:41] Logged in user:Air:
+[2021/05/11 11:10:41] UserLevel 6
+{2021/05/11 11:11:16} Internal motion detection stopped
+{2021/05/11 11:11:16} h264 search /var/www/picam/media/vi_0000_20210511_111116.mp4
+{2021/05/11 11:11:17} recommended video buffer size 65536
+{2021/05/11 11:11:17} h264 size set to 131072
+{2021/05/11 11:11:17} recommended video buffers 1
+{2021/05/11 11:11:17} h264 buffers set to recommended 1
+{2021/05/11 11:11:17} Set up internal detect width=82 height=61
+{2021/05/11 11:12:02} Stream halted
+{2021/05/11 11:51:07} h264 search /var/www/picam/media/vi_0000_20210511_111202.mp4
+{2021/05/11 11:51:08} recommended video buffer size 65536
+{2021/05/11 11:51:08} h264 size set to 131072
+{2021/05/11 11:51:08} recommended video buffers 1
+{2021/05/11 11:51:08} h264 buffers set to recommended 1
+{2021/05/11 11:51:08} Set up internal detect width=82 height=61
+{2021/05/11 11:51:08} Stream continued
+{2021/05/11 11:51:17} Capturing started
+{2021/05/11 11:51:21} Capturing stopped
+{2021/05/11 11:51:21} Add /var/www/picam/media/vi_0000_20210511_115117.mp4 to Box Queue at pos 1
+{2021/05/11 11:51:21} Reset motion state
+{2021/05/11 11:51:21} Start boxing /var/www/picam/media/vi_0000_20210511_115117.h264 to /var/www/picam/media/vi_0000_20210511_115117.mp4 Queue pos 1
+{2021/05/11 11:51:22} Finished boxing /var/www/picam/media/vi_0000_20210511_115117.mp4 from Box Queue at pos 1
+{2021/05/11 11:51:22} Removed item from Box Queue
+{2021/05/11 11:51:32} Watchdog detected problem. Stopping{2021/05/11 11:51:32} SIGINT/SIGTERM received, stopping
+[2021/05/11 11:51:34] Logged in user:Air:
+[2021/05/11 11:51:34] UserLevel 6
+{2021/05/11 11:51:37} RaspiMJPEG Version 5.9.5
+{2021/05/11 11:51:37} h264 search /var/www/picam/media/vi_0000_20210511_115137.mp4
+{2021/05/11 11:51:37} recommended video buffer size 65536
+{2021/05/11 11:51:37} h264 size set to 131072
+{2021/05/11 11:51:37} recommended video buffers 1
+{2021/05/11 11:51:37} h264 buffers set to recommended 1
+{2021/05/11 11:51:38} Set up internal detect width=82 height=61
+{2021/05/11 11:51:38} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/11 11:51:38} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/11 11:51:38} MJPEG streaming, ready to receive commands
+{2021/05/11 11:51:38} send smd 9
+{2021/05/11 11:51:38} Starting command loop
+[2021/05/11 11:51:38] Reload parameters command requested
+[2021/05/11 11:51:38] Scheduler loop is started
+[2021/05/11 11:51:39] New period detected 0
+[2021/05/11 11:51:39] Scheduled management tasks. Next at 1620708699
+{2021/05/11 12:00:02} SIGINT/SIGTERM received, stopping
+[2021/05/12 18:52:42] Logged in user:Air:
+[2021/05/12 18:52:42] UserLevel 6
+{2021/05/12 20:34:01} RaspiMJPEG Version 5.9.5
+{2021/05/12 20:34:01} h264 search /var/www/picam/media/vi_0000_20210512_203401.mp4
+{2021/05/12 20:34:01} recommended video buffer size 65536
+{2021/05/12 20:34:01} h264 size set to 131072
+{2021/05/12 20:34:01} recommended video buffers 1
+{2021/05/12 20:34:01} h264 buffers set to recommended 1
+{2021/05/12 20:34:01} Set up internal detect width=82 height=61
+{2021/05/12 20:34:01} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/12 20:34:01} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/12 20:34:01} MJPEG streaming, ready to receive commands
+{2021/05/12 20:34:01} send smd 9
+[2021/05/12 20:34:02] RaspiCam support started
+[2021/05/12 20:34:02] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/12 20:34:02] Scheduler loop is started
+{2021/05/12 20:34:02} Starting command loop
+[2021/05/12 20:34:02] Reload parameters command requested
+[2021/05/12 20:34:02] Scheduler loop is started
+[2021/05/12 20:34:03] New period detected 0
+[2021/05/12 20:34:03] Scheduled management tasks. Next at 1620826443
+[2021/05/12 20:34:25] Logged in user:Air:
+[2021/05/12 20:34:25] UserLevel 6
+{2021/05/12 20:34:44} Stream halted
+{2021/05/12 20:36:17} h264 search /var/www/picam/media/vi_0000_20210512_203444.mp4
+{2021/05/12 20:36:17} recommended video buffer size 65536
+{2021/05/12 20:36:17} h264 size set to 131072
+{2021/05/12 20:36:17} recommended video buffers 1
+{2021/05/12 20:36:17} h264 buffers set to recommended 1
+{2021/05/12 20:36:17} Set up internal detect width=82 height=61
+{2021/05/12 20:36:17} Stream continued
+{2021/05/12 20:37:20} Stream halted
+{2021/05/12 20:39:29} SIGINT/SIGTERM received, stopping
+[2021/05/12 20:41:54] Logged in user:Air:
+[2021/05/12 20:41:54] UserLevel 6
+[2021/05/12 21:58:19] Logged in user:Air:
+[2021/05/12 21:58:19] UserLevel 6
+[2021/05/12 21:58:20] Logged in user:Air:
+[2021/05/12 21:58:20] UserLevel 6
+[2021/05/12 21:58:21] Logged in user:Air:
+[2021/05/12 21:58:21] UserLevel 6
+[2021/05/12 21:58:22] Logged in user:Air:
+[2021/05/12 21:58:22] UserLevel 6
+[2021/05/12 21:58:33] Logged in user:Air:
+[2021/05/12 21:58:33] UserLevel 6
+[2021/05/12 21:58:35] Logged in user:Air:
+[2021/05/12 21:58:35] UserLevel 6
+[2021/05/12 21:58:37] Logged in user:Air:
+[2021/05/12 21:58:37] UserLevel 6
+[2021/05/12 22:07:30] Logged in user:Air:
+[2021/05/12 22:07:31] UserLevel 6
+[2021/05/12 22:09:21] Logged in user:Air:
+[2021/05/12 22:09:21] UserLevel 6
+[2021/05/12 22:12:18] Logged in user:Air:
+[2021/05/12 22:12:18] UserLevel 6
+[2021/05/12 22:12:23] Logged in user:Air:
+[2021/05/12 22:12:23] UserLevel 6
+[2021/05/12 22:12:26] Logged in user:Air:
+[2021/05/12 22:12:26] UserLevel 6
+[2021/05/12 22:12:27] Logged in user:Air:
+[2021/05/12 22:12:27] UserLevel 6
+[2021/05/12 22:12:34] Logged in user:Air:
+[2021/05/12 22:12:34] UserLevel 6
+[2021/05/12 22:12:50] Logged in user:Air:
+[2021/05/12 22:12:50] UserLevel 6
+[2021/05/12 22:12:52] Logged in user:Air:
+[2021/05/12 22:12:52] UserLevel 6
+[2021/05/12 22:16:06] Logged in user:Air:
+[2021/05/12 22:16:06] UserLevel 6
+[2021/05/12 22:16:07] Logged in user:Air:
+[2021/05/12 22:16:07] UserLevel 6
+[2021/05/12 22:16:09] Logged in user:Air:
+[2021/05/12 22:16:09] UserLevel 6
+[2021/05/12 22:16:10] Logged in user:Air:
+[2021/05/12 22:16:10] UserLevel 6
+[2021/05/12 22:16:11] Logged in user:Air:
+[2021/05/12 22:16:11] UserLevel 6
+[2021/05/12 22:16:12] Logged in user:Air:
+[2021/05/12 22:16:12] UserLevel 6
+[2021/05/12 22:16:13] Logged in user:Air:
+[2021/05/12 22:16:13] UserLevel 6
+[2021/05/12 22:17:05] Logged in user:Air:
+[2021/05/12 22:17:05] UserLevel 6
+[2021/05/12 22:18:00] Logged in user:Air:
+[2021/05/12 22:18:00] UserLevel 6
+[2021/05/12 22:18:01] Logged in user:Air:
+[2021/05/12 22:18:01] UserLevel 6
+[2021/05/12 22:21:21] Logged in user:Air:
+[2021/05/12 22:21:21] UserLevel 6
+[2021/05/12 22:21:24] Logged in user:Air:
+[2021/05/12 22:21:24] UserLevel 6
+[2021/05/12 22:28:11] Logged in user:Air:
+[2021/05/12 22:28:11] UserLevel 6
+[2021/05/12 22:28:22] Logged in user:Air:
+[2021/05/12 22:28:22] UserLevel 6
+[2021/05/12 22:28:23] Logged in user:Air:
+[2021/05/12 22:28:23] UserLevel 6
+[2021/05/12 22:31:57] Logged in user:Air:
+[2021/05/12 22:31:57] UserLevel 6
+[2021/05/12 22:31:58] Logged in user:Air:
+[2021/05/12 22:31:58] UserLevel 6
+[2021/05/12 22:46:18] Logged in user:Air:
+[2021/05/12 22:46:18] UserLevel 6
+[2021/05/12 22:46:19] Logged in user:Air:
+[2021/05/12 22:46:19] UserLevel 6
+[2021/05/12 22:46:34] Logged in user:Air:
+[2021/05/12 22:46:34] UserLevel 6
+[2021/05/12 22:50:14] Logged in user:Air:
+[2021/05/12 22:50:14] UserLevel 6
+[2021/05/12 22:51:21] Logged in user:Air:
+[2021/05/12 22:51:21] UserLevel 6
+[2021/05/12 22:51:29] Logged in user:Air:
+[2021/05/12 22:51:29] UserLevel 6
+[2021/05/12 22:52:48] Logged in user:Air:
+[2021/05/12 22:52:48] UserLevel 6
+[2021/05/12 22:55:49] Logged in user:Air:
+[2021/05/12 22:55:49] UserLevel 6
+[2021/05/12 22:56:16] Logged in user:Air:
+[2021/05/12 22:56:16] UserLevel 6
+[2021/05/12 23:04:03] Logged in user:Air:
+[2021/05/12 23:04:03] UserLevel 6
+[2021/05/12 23:04:48] Logged in user:Air:
+[2021/05/12 23:04:48] UserLevel 6
+[2021/05/12 23:11:14] Logged in user:Air:
+[2021/05/12 23:11:14] UserLevel 6
+[2021/05/12 23:12:37] Logged in user:Air:
+[2021/05/12 23:12:37] UserLevel 6
+[2021/05/12 23:12:42] Logged in user:Air:
+[2021/05/12 23:12:42] UserLevel 6
+[2021/05/12 23:12:43] Logged in user:Air:
+[2021/05/12 23:12:43] UserLevel 6
+[2021/05/12 23:12:45] Logged in user:Air:
+[2021/05/12 23:12:45] UserLevel 6
+[2021/05/12 23:12:49] Logged in user:Air:
+[2021/05/12 23:12:49] UserLevel 6
+[2021/05/12 23:12:50] Logged in user:Air:
+[2021/05/12 23:12:50] UserLevel 6
+[2021/05/12 23:12:51] Logged in user:Air:
+[2021/05/12 23:12:51] UserLevel 6
+{2021/05/13 08:23:06} RaspiMJPEG Version 5.9.5
+{2021/05/13 08:23:06} h264 search /var/www/picam/media/vi_0000_20210513_082306.mp4
+{2021/05/13 08:23:07} recommended video buffer size 65536
+{2021/05/13 08:23:07} h264 size set to 131072
+{2021/05/13 08:23:07} recommended video buffers 1
+{2021/05/13 08:23:07} h264 buffers set to recommended 1
+{2021/05/13 08:23:07} Set up internal detect width=82 height=61
+{2021/05/13 08:23:07} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/13 08:23:07} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/13 08:23:07} MJPEG streaming, ready to receive commands
+{2021/05/13 08:23:07} send smd 9
+[2021/05/13 08:23:08] RaspiCam support started
+[2021/05/13 08:23:08] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/13 08:23:08] Scheduler loop is started
+{2021/05/13 08:23:08} Starting command loop
+[2021/05/13 08:23:08] Reload parameters command requested
+[2021/05/13 08:23:08] Scheduler loop is started
+[2021/05/13 08:23:09] New period detected 0
+[2021/05/13 08:23:09] Scheduled management tasks. Next at 1620868989
+{2021/05/13 08:23:34} SIGINT/SIGTERM received, stopping
+[2021/05/13 10:08:58] Logged in user:Air:
+[2021/05/13 10:08:58] UserLevel 6
+[2021/05/13 10:38:13] Logged in user:Air:
+[2021/05/13 10:38:13] UserLevel 6
+[2021/05/13 11:11:09] Logged in user:Air:
+[2021/05/13 11:11:09] UserLevel 6
+[2021/05/13 11:52:37] Logged in user:Air:
+[2021/05/13 11:52:37] UserLevel 6
+[2021/05/13 11:54:55] Logged in user:Air:
+[2021/05/13 11:54:55] UserLevel 6
+[2021/05/13 11:54:56] Logged in user:Air:
+[2021/05/13 11:54:56] UserLevel 6
+[2021/05/13 11:55:00] Logged in user:Air:
+[2021/05/13 11:55:00] UserLevel 6
+[2021/05/13 12:01:41] Logged in user:Air:
+[2021/05/13 12:01:42] UserLevel 6
+[2021/05/13 12:02:36] Logged in user:Air:
+[2021/05/13 12:02:36] UserLevel 6
+[2021/05/13 12:08:37] Logged in user:Air:
+[2021/05/13 12:08:37] UserLevel 6
+{2021/05/13 12:09:38} RaspiMJPEG Version 5.9.5
+{2021/05/13 12:09:38} h264 search /var/www/picam/media/vi_0000_20210513_120938.mp4
+{2021/05/13 12:09:38} recommended video buffer size 65536
+{2021/05/13 12:09:38} h264 size set to 131072
+{2021/05/13 12:09:38} recommended video buffers 1
+{2021/05/13 12:09:38} h264 buffers set to recommended 1
+{2021/05/13 12:09:38} Set up internal detect width=82 height=61
+{2021/05/13 12:09:38} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/13 12:09:38} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/13 12:09:38} MJPEG streaming, ready to receive commands
+{2021/05/13 12:09:38} send smd 9
+[2021/05/13 12:09:39] RaspiCam support started
+[2021/05/13 12:09:39] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/13 12:09:39] Scheduler loop is started
+{2021/05/13 12:09:39} Starting command loop
+[2021/05/13 12:09:39] Reload parameters command requested
+[2021/05/13 12:09:39] Scheduler loop is started
+[2021/05/13 12:09:40] New period detected 0
+[2021/05/13 12:09:40] Scheduled management tasks. Next at 1620882580
+[2021/05/13 12:09:53] Logged in user:Air:
+[2021/05/13 12:09:53] UserLevel 6
+{2021/05/13 12:10:58} Stream halted
+{2021/05/13 12:12:00} h264 search /var/www/picam/media/vi_0000_20210513_121058.mp4
+{2021/05/13 12:12:00} recommended video buffer size 65536
+{2021/05/13 12:12:00} h264 size set to 131072
+{2021/05/13 12:12:00} recommended video buffers 1
+{2021/05/13 12:12:00} h264 buffers set to recommended 1
+{2021/05/13 12:12:00} Set up internal detect width=82 height=61
+{2021/05/13 12:12:00} Stream continued
+{2021/05/13 12:12:09} Stream halted
+{2021/05/13 12:12:51} h264 search /var/www/picam/media/vi_0000_20210513_121209.mp4
+{2021/05/13 12:12:51} Error: Could not enable camera
+{2021/05/13 12:12:51} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+{2021/05/13 12:12:56} RaspiMJPEG Version 5.9.5
+{2021/05/13 12:12:56} h264 search /var/www/picam/media/vi_0000_20210513_121256.mp4
+{2021/05/13 12:12:56} Error: Could not enable camera
+{2021/05/13 12:12:56} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+{2021/05/13 12:13:01} RaspiMJPEG Version 5.9.5
+{2021/05/13 12:13:01} h264 search /var/www/picam/media/vi_0000_20210513_121301.mp4
+{2021/05/13 12:13:01} Error: Could not enable camera
+{2021/05/13 12:13:01} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+{2021/05/13 12:13:06} RaspiMJPEG Version 5.9.5
+{2021/05/13 12:13:06} h264 search /var/www/picam/media/vi_0000_20210513_121306.mp4
+{2021/05/13 12:13:06} Error: Could not enable camera
+{2021/05/13 12:13:06} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+{2021/05/13 12:13:11} RaspiMJPEG Version 5.9.5
+{2021/05/13 12:13:11} h264 search /var/www/picam/media/vi_0000_20210513_121311.mp4
+{2021/05/13 12:13:11} Error: Could not enable camera
+{2021/05/13 12:13:11} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+{2021/05/13 12:13:16} RaspiMJPEG Version 5.9.5
+{2021/05/13 12:13:16} h264 search /var/www/picam/media/vi_0000_20210513_121316.mp4
+{2021/05/13 12:13:16} recommended video buffer size 65536
+{2021/05/13 12:13:16} h264 size set to 131072
+{2021/05/13 12:13:16} recommended video buffers 1
+{2021/05/13 12:13:16} h264 buffers set to recommended 1
+{2021/05/13 12:13:16} Set up internal detect width=82 height=61
+{2021/05/13 12:13:16} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/13 12:13:16} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/13 12:13:16} MJPEG streaming, ready to receive commands
+{2021/05/13 12:13:16} send smd 9
+{2021/05/13 12:13:16} Starting command loop
+[2021/05/13 12:13:16] Reload parameters command requested
+[2021/05/13 12:13:16] Scheduler loop is started
+[2021/05/13 12:13:17] New period detected 0
+[2021/05/13 12:13:17] Scheduled management tasks. Next at 1620882797
+[2021/05/13 12:13:23] Logged in user:Air:
+[2021/05/13 12:13:23] UserLevel 6
+{2021/05/13 12:14:20} Stream halted
+{2021/05/13 12:14:49} SIGINT/SIGTERM received, stopping
+[2021/05/13 19:36:14] Logged in user:Air:
+[2021/05/13 19:36:14] UserLevel 6
+[2021/05/13 19:37:53] Logged in user:Air:
+[2021/05/13 19:37:53] UserLevel 6
+[2021/05/13 19:38:26] Logged in user:Air:
+[2021/05/13 19:38:26] UserLevel 6
+{2021/05/13 20:11:31} RaspiMJPEG Version 5.9.5
+{2021/05/13 20:11:31} h264 search /var/www/picam/media/vi_0000_20210513_201131.mp4
+{2021/05/13 20:11:32} recommended video buffer size 65536
+{2021/05/13 20:11:32} h264 size set to 131072
+{2021/05/13 20:11:32} recommended video buffers 1
+{2021/05/13 20:11:32} h264 buffers set to recommended 1
+{2021/05/13 20:11:32} Set up internal detect width=82 height=61
+{2021/05/13 20:11:32} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/13 20:11:32} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/13 20:11:32} MJPEG streaming, ready to receive commands
+{2021/05/13 20:11:32} send smd 9
+[2021/05/13 20:11:33] RaspiCam support started
+[2021/05/13 20:11:33] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/13 20:11:33] Scheduler loop is started
+{2021/05/13 20:11:33} Starting command loop
+[2021/05/13 20:11:33] Reload parameters command requested
+[2021/05/13 20:11:33] Scheduler loop is started
+[2021/05/13 20:11:34] New period detected 0
+[2021/05/13 20:11:34] Scheduled management tasks. Next at 1620911494
+{2021/05/13 20:12:07} SIGINT/SIGTERM received, stopping
+[2021/05/13 20:32:20] Logged in user:Air:
+[2021/05/13 20:32:20] UserLevel 6
+{2021/05/13 20:50:48} RaspiMJPEG Version 5.9.5
+{2021/05/13 20:50:48} h264 search /var/www/picam/media/vi_0000_20210513_205048.mp4
+{2021/05/13 20:50:48} recommended video buffer size 65536
+{2021/05/13 20:50:48} h264 size set to 131072
+{2021/05/13 20:50:48} recommended video buffers 1
+{2021/05/13 20:50:48} h264 buffers set to recommended 1
+{2021/05/13 20:50:48} Set up internal detect width=82 height=61
+{2021/05/13 20:50:48} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/13 20:50:48} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/13 20:50:48} MJPEG streaming, ready to receive commands
+{2021/05/13 20:50:48} send smd 9
+[2021/05/13 20:50:50] RaspiCam support started
+[2021/05/13 20:50:50] Capture Pipe already exists /var/www/picam/FIFO1
+{2021/05/13 20:50:50} Starting command loop
+[2021/05/13 20:50:50] Scheduler loop is started
+[2021/05/13 20:50:50] Reload parameters command requested
+[2021/05/13 20:50:50] Scheduler loop is started
+[2021/05/13 20:50:51] New period detected 0
+[2021/05/13 20:50:51] Scheduled management tasks. Next at 1620913851
+[2021/05/13 20:51:03] Logged in user:Air:
+[2021/05/13 20:51:03] UserLevel 6
+{2021/05/13 20:53:28} Stream halted
+{2021/05/13 20:53:33} h264 search /var/www/picam/media/vi_0000_20210513_205328.mp4
+{2021/05/13 20:53:33} recommended video buffer size 65536
+{2021/05/13 20:53:33} h264 size set to 131072
+{2021/05/13 20:53:33} recommended video buffers 1
+{2021/05/13 20:53:33} h264 buffers set to recommended 1
+{2021/05/13 20:53:33} Set up internal detect width=82 height=61
+{2021/05/13 20:53:33} Stream continued
+[2021/05/13 20:54:29] Logged in user:Air:
+[2021/05/13 20:54:29] UserLevel 6
+[2021/05/13 20:54:45] Logged in user:Air:
+[2021/05/13 20:54:45] UserLevel 6
+[2021/05/13 20:58:22] Logged in user:Air:
+[2021/05/13 20:58:22] UserLevel 6
+[2021/05/13 20:59:56] Logged in user:Air:
+[2021/05/13 20:59:56] UserLevel 6
+{2021/05/13 21:01:47} SIGINT/SIGTERM received, stopping
+[2021/05/13 21:11:10] Logged in user:Air:
+[2021/05/13 21:11:10] UserLevel 6
+[2021/05/13 21:11:11] Logged in user:Air:
+[2021/05/13 21:11:11] UserLevel 6
+[2021/05/14 08:32:02] Logged in user:Air:
+[2021/05/14 08:32:02] UserLevel 6
+[2021/05/14 08:44:28] Logged in user:Air:
+[2021/05/14 08:44:28] UserLevel 6
+[2021/05/14 08:44:29] Logged in user:Air:
+[2021/05/14 08:44:29] UserLevel 6
+[2021/05/14 08:44:29] Logged in user:Air:
+[2021/05/14 08:44:29] UserLevel 6
+[2021/05/14 08:44:30] Logged in user:Air:
+[2021/05/14 08:44:30] UserLevel 6
+[2021/05/14 08:44:30] Logged in user:Air:
+[2021/05/14 08:44:30] UserLevel 6
+[2021/05/14 08:44:30] Logged in user:Air:
+[2021/05/14 08:44:30] UserLevel 6
+[2021/05/14 08:44:31] Logged in user:Air:
+[2021/05/14 08:44:31] UserLevel 6
+[2021/05/14 08:44:31] Logged in user:Air:
+[2021/05/14 08:44:31] UserLevel 6
+[2021/05/14 09:07:04] Logged in user:Air:
+[2021/05/14 09:07:04] UserLevel 6
+[2021/05/14 09:07:04] Logged in user:Air:
+[2021/05/14 09:07:04] UserLevel 6
+[2021/05/14 09:07:05] Logged in user:Air:
+[2021/05/14 09:07:05] UserLevel 6
+[2021/05/14 09:07:06] Logged in user:Air:
+[2021/05/14 09:07:06] UserLevel 6
+[2021/05/14 09:07:06] Logged in user:Air:
+[2021/05/14 09:07:06] UserLevel 6
+[2021/05/14 09:07:07] Logged in user:Air:
+[2021/05/14 09:07:07] UserLevel 6
+[2021/05/14 09:57:41] Logged in user:Air:
+[2021/05/14 09:57:41] UserLevel 6
+[2021/05/14 10:37:42] Logged in user:Air:
+[2021/05/14 10:37:42] UserLevel 6
+{2021/05/14 10:42:19} RaspiMJPEG Version 5.9.5
+{2021/05/14 10:42:19} h264 search /var/www/picam/media/vi_0000_20210514_104219.mp4
+{2021/05/14 10:42:19} recommended video buffer size 65536
+{2021/05/14 10:42:19} h264 size set to 131072
+{2021/05/14 10:42:19} recommended video buffers 1
+{2021/05/14 10:42:19} h264 buffers set to recommended 1
+{2021/05/14 10:42:19} Set up internal detect width=82 height=61
+{2021/05/14 10:42:19} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/14 10:42:19} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/14 10:42:19} MJPEG streaming, ready to receive commands
+{2021/05/14 10:42:19} send smd 9
+[2021/05/14 10:42:20] RaspiCam support started
+[2021/05/14 10:42:20] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 10:42:20] Scheduler loop is started
+{2021/05/14 10:42:20} Starting command loop
+[2021/05/14 10:42:20] Reload parameters command requested
+[2021/05/14 10:42:20] Scheduler loop is started
+[2021/05/14 10:42:21] New period detected 0
+[2021/05/14 10:42:21] Scheduled management tasks. Next at 1620963741
+[2021/05/14 10:42:28] Logged in user:Air:
+[2021/05/14 10:42:28] UserLevel 6
+{2021/05/14 10:42:42} Change: video_width = 1280
+{2021/05/14 10:42:42} Change: video_height = 0720
+{2021/05/14 10:42:42} Change: video_fps = 25
+{2021/05/14 10:42:42} Change: MP4Box_fps = 25
+{2021/05/14 10:42:42} Change: image_width = 2592
+{2021/05/14 10:42:42} Change: image_height = 1944
+{2021/05/14 10:42:42} Change: fps_divider = 1
+{2021/05/14 10:42:42} h264 search /var/www/picam/media/vi_0000_20210514_104242.mp4
+{2021/05/14 10:42:42} recommended video buffer size 65536
+{2021/05/14 10:42:42} h264 size set to 131072
+{2021/05/14 10:42:42} recommended video buffers 1
+{2021/05/14 10:42:42} h264 buffers set to recommended 1
+{2021/05/14 10:42:42} Set up internal detect width=81 height=45
+{2021/05/14 10:43:02} Change: video_width = 1296
+{2021/05/14 10:43:02} Change: video_height = 972
+{2021/05/14 10:43:02} Change: video_fps = 25
+{2021/05/14 10:43:02} Change: MP4Box_fps = 25
+{2021/05/14 10:43:02} Change: image_width = 2592
+{2021/05/14 10:43:02} Change: image_height = 1944
+{2021/05/14 10:43:02} Change: fps_divider = 1
+{2021/05/14 10:43:02} h264 search /var/www/picam/media/vi_0000_20210514_104302.mp4
+{2021/05/14 10:43:02} recommended video buffer size 65536
+{2021/05/14 10:43:02} h264 size set to 131072
+{2021/05/14 10:43:02} recommended video buffers 1
+{2021/05/14 10:43:02} h264 buffers set to recommended 1
+{2021/05/14 10:43:02} Set up internal detect width=82 height=61
+{2021/05/14 10:43:46} SIGINT/SIGTERM received, stopping
+{2021/05/14 10:58:53} RaspiMJPEG Version 5.9.5
+{2021/05/14 10:58:53} h264 search /var/www/picam/media/vi_0000_20210514_105853.mp4
+{2021/05/14 10:58:53} recommended video buffer size 65536
+{2021/05/14 10:58:53} h264 size set to 131072
+{2021/05/14 10:58:53} recommended video buffers 1
+{2021/05/14 10:58:53} h264 buffers set to recommended 1
+{2021/05/14 10:58:54} Set up internal detect width=82 height=61
+{2021/05/14 10:58:54} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/14 10:58:54} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/14 10:58:54} MJPEG streaming, ready to receive commands
+{2021/05/14 10:58:54} send smd 9
+[2021/05/14 10:58:55] RaspiCam support started
+[2021/05/14 10:58:55] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 10:58:55] Scheduler loop is started
+{2021/05/14 10:58:55} Starting command loop
+[2021/05/14 10:58:55] Reload parameters command requested
+[2021/05/14 10:58:55] Scheduler loop is started
+[2021/05/14 10:58:56] New period detected 0
+[2021/05/14 10:58:56] Scheduled management tasks. Next at 1620964736
+[2021/05/14 10:59:02] Logged in user:Air:
+[2021/05/14 10:59:02] UserLevel 6
+[2021/05/14 11:07:12] Logged in user:Air:
+[2021/05/14 11:07:12] UserLevel 6
+[2021/05/14 11:07:13] Logged in user:Air:
+[2021/05/14 11:07:13] UserLevel 6
+{2021/05/14 11:22:58} SIGINT/SIGTERM received, stopping
+[2021/05/14 11:23:28] Logged in user:Air:
+[2021/05/14 11:23:28] UserLevel 6
+{2021/05/14 11:23:50} RaspiMJPEG Version 5.9.5
+{2021/05/14 11:23:50} h264 search /var/www/picam/media/vi_0000_20210514_112350.mp4
+{2021/05/14 11:23:50} recommended video buffer size 65536
+{2021/05/14 11:23:50} h264 size set to 131072
+{2021/05/14 11:23:50} recommended video buffers 1
+{2021/05/14 11:23:50} h264 buffers set to recommended 1
+{2021/05/14 11:23:50} Set up internal detect width=82 height=61
+{2021/05/14 11:23:50} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/14 11:23:50} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/14 11:23:50} MJPEG streaming, ready to receive commands
+{2021/05/14 11:23:50} send smd 9
+[2021/05/14 11:23:51] RaspiCam support started
+[2021/05/14 11:23:51] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 11:23:51] Scheduler loop is started
+{2021/05/14 11:23:51} Starting command loop
+[2021/05/14 11:23:51] Reload parameters command requested
+[2021/05/14 11:23:51] Scheduler loop is started
+[2021/05/14 11:23:52] New period detected 0
+[2021/05/14 11:23:52] Scheduled management tasks. Next at 1620966232
+[2021/05/14 11:33:41] Logged in user:Air:
+[2021/05/14 11:33:41] UserLevel 6
+{2021/05/14 11:33:46} Stream halted
+{2021/05/14 11:33:51} h264 search /var/www/picam/media/vi_0000_20210514_113346.mp4
+{2021/05/14 11:33:51} recommended video buffer size 65536
+{2021/05/14 11:33:51} h264 size set to 131072
+{2021/05/14 11:33:51} recommended video buffers 1
+{2021/05/14 11:33:51} h264 buffers set to recommended 1
+{2021/05/14 11:33:51} Set up internal detect width=82 height=61
+{2021/05/14 11:33:51} Stream continued
+[2021/05/14 11:34:02] Logged in user:Air:
+[2021/05/14 11:34:02] UserLevel 6
+[2021/05/14 11:36:23] Logged in user:Air:
+[2021/05/14 11:36:23] UserLevel 6
+[2021/05/14 11:36:24] Logged in user:Air:
+[2021/05/14 11:36:24] UserLevel 6
+[2021/05/14 11:36:25] Logged in user:Air:
+[2021/05/14 11:36:25] UserLevel 6
+[2021/05/14 11:36:26] Logged in user:Air:
+[2021/05/14 11:36:26] UserLevel 6
+[2021/05/14 11:43:20] Logged in user:Air:
+[2021/05/14 11:43:20] UserLevel 6
+[2021/05/14 11:43:36] Logged in user:Air:
+[2021/05/14 11:43:36] UserLevel 6
+[2021/05/14 11:46:50] Logged in user:Air:
+[2021/05/14 11:46:50] UserLevel 6
+{2021/05/14 11:46:57} Capturing image
+[2021/05/14 11:47:09] Logged in user:Air:
+[2021/05/14 11:47:09] UserLevel 6
+[2021/05/14 11:57:13] Logged in user:Air:
+[2021/05/14 11:57:13] UserLevel 6
+{2021/05/14 11:57:15} Capturing started
+{2021/05/14 11:57:19} Capturing stopped
+{2021/05/14 11:57:19} Add /var/www/picam/media/vi_0000_20210514_115715.mp4 to Box Queue at pos 0
+{2021/05/14 11:57:20} Start boxing /var/www/picam/media/vi_0000_20210514_115715.h264 to /var/www/picam/media/vi_0000_20210514_115715.mp4 Queue pos 0
+{2021/05/14 11:57:21} Finished boxing /var/www/picam/media/vi_0000_20210514_115715.mp4 from Box Queue at pos 0
+{2021/05/14 11:57:21} Removed item from Box Queue
+{2021/05/14 11:57:22} Already stopped. Ignore 
+[2021/05/14 11:57:23] Logged in user:Air:
+[2021/05/14 11:57:23] UserLevel 6
+{2021/05/14 11:57:30} Watchdog detected problem. Stopping{2021/05/14 11:57:30} SIGINT/SIGTERM received, stopping
+{2021/05/14 11:57:35} RaspiMJPEG Version 5.9.5
+{2021/05/14 11:57:35} h264 search /var/www/picam/media/vi_0001_20210514_115735.mp4
+{2021/05/14 11:57:35} recommended video buffer size 65536
+{2021/05/14 11:57:35} h264 size set to 131072
+{2021/05/14 11:57:35} recommended video buffers 1
+{2021/05/14 11:57:35} h264 buffers set to recommended 1
+{2021/05/14 11:57:35} Set up internal detect width=82 height=61
+{2021/05/14 11:57:35} Opening FIFO 0 /var/www/picam/FIFO 7
+{2021/05/14 11:57:35} Opening FIFO 1 /var/www/picam/FIFO11 8
+{2021/05/14 11:57:35} MJPEG streaming, ready to receive commands
+{2021/05/14 11:57:35} send smd 9
+{2021/05/14 11:57:35} Starting command loop
+[2021/05/14 11:57:35] Reload parameters command requested
+[2021/05/14 11:57:35] Scheduler loop is started
+[2021/05/14 11:57:36] New period detected 0
+[2021/05/14 11:57:36] Scheduled management tasks. Next at 1620968256
+[2021/05/14 11:53:58] Logged in user:Air:
+[2021/05/14 11:53:58] UserLevel 6
+[2021/05/14 11:59:47] Logged in user:Air:
+[2021/05/14 11:59:47] UserLevel 6
+[2021/05/14 14:54:35] Logged in user:Air:
+[2021/05/14 14:54:35] UserLevel 6
+[2021/05/14 14:54:52] Logged in user:Air:
+[2021/05/14 14:54:52] UserLevel 6
+[2021/05/14 14:54:53] Logged in user:Air:
+[2021/05/14 14:54:53] UserLevel 6
+{2021/05/14 15:50:39} RaspiMJPEG Version 5.9.5
+{2021/05/14 15:50:39} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 15:50:39} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 15:50:39} MJPEG idle, ready to receive commands
+{2021/05/14 15:50:39} send smd 9
+[2021/05/14 15:50:40] RaspiCam support started
+[2021/05/14 15:50:40] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 15:50:40] Scheduler loop is started
+{2021/05/14 15:50:40} Starting command loop
+[2021/05/14 15:50:40] Reload parameters command requested
+[2021/05/14 15:50:40] Scheduler loop is started
+[2021/05/14 15:50:41] New period detected 0
+[2021/05/14 15:50:41] Scheduled management tasks. Next at 1620982241
+[2021/05/14 16:04:11] Logged in user:Air:
+[2021/05/14 16:04:11] UserLevel 6
+{2021/05/14 16:04:17} h264 search /var/www/picam/media/vi_0001_20210514_155040.mp4
+{2021/05/14 16:04:17} recommended video buffer size 65536
+{2021/05/14 16:04:17} h264 size set to 131072
+{2021/05/14 16:04:17} recommended video buffers 1
+{2021/05/14 16:04:17} h264 buffers set to recommended 1
+{2021/05/14 16:04:18} Set up internal detect width=82 height=61
+{2021/05/14 16:04:18} Stream continued
+[2021/05/14 16:04:54] Logged in user:Air:
+[2021/05/14 16:04:54] UserLevel 6
+[2021/05/14 16:05:18] Logged in user:Air:
+[2021/05/14 16:05:18] UserLevel 6
+{2021/05/14 16:05:22} Stream halted
+[2021/05/14 16:05:25] Logged in user:Air:
+[2021/05/14 16:05:25] UserLevel 6
+{2021/05/14 16:13:20} SIGINT/SIGTERM received, stopping
+[2021/05/14 16:15:31] Logged in user:Air:
+[2021/05/14 16:15:31] UserLevel 6
+[2021/05/14 16:15:34] Logged in user:Air:
+[2021/05/14 16:15:34] UserLevel 6
+[2021/05/14 16:15:35] Logged in user:Air:
+[2021/05/14 16:15:35] UserLevel 6
+[2021/05/14 16:15:40] Logged in user:Air:
+[2021/05/14 16:15:40] UserLevel 6
+[2021/05/14 16:15:47] Logged in user:Air:
+[2021/05/14 16:15:47] UserLevel 6
+[2021/05/14 16:16:05] Logged in user:Air:
+[2021/05/14 16:16:05] UserLevel 6
+[2021/05/14 16:16:06] Logged in user:Air:
+[2021/05/14 16:16:06] UserLevel 6
+[2021/05/14 16:19:54] Logged in user:Air:
+[2021/05/14 16:19:54] UserLevel 6
+[2021/05/14 16:19:58] Logged in user:Air:
+[2021/05/14 16:19:58] UserLevel 6
+[2021/05/14 16:20:00] Logged in user:Air:
+[2021/05/14 16:20:00] UserLevel 6
+[2021/05/14 16:20:01] Logged in user:Air:
+[2021/05/14 16:20:01] UserLevel 6
+[2021/05/14 16:20:39] Logged in user:Air:
+[2021/05/14 16:20:39] UserLevel 6
+[2021/05/14 16:45:57] Logged in user:Air:
+[2021/05/14 16:45:57] UserLevel 6
+[2021/05/14 16:45:59] Logged in user:Air:
+[2021/05/14 16:45:59] UserLevel 6
+[2021/05/14 16:46:00] Logged in user:Air:
+[2021/05/14 16:46:00] UserLevel 6
+[2021/05/14 16:46:01] Logged in user:Air:
+[2021/05/14 16:46:01] UserLevel 6
+[2021/05/14 16:46:02] Logged in user:Air:
+[2021/05/14 16:46:02] UserLevel 6
+[2021/05/14 16:46:04] Logged in user:Air:
+[2021/05/14 16:46:04] UserLevel 6
+[2021/05/14 16:46:05] Logged in user:Air:
+[2021/05/14 16:46:05] UserLevel 6
+[2021/05/14 16:46:09] Logged in user:Air:
+[2021/05/14 16:46:09] UserLevel 6
+[2021/05/14 16:46:09] Logged in user:Air:
+[2021/05/14 16:46:09] UserLevel 6
+[2021/05/14 16:55:31] Logged in user:Air:
+[2021/05/14 16:55:31] UserLevel 6
+[2021/05/14 17:03:07] Logged in user:Air:
+[2021/05/14 17:03:07] UserLevel 6
+{2021/05/14 17:09:03} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:09:03} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:09:03} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:09:03} MJPEG idle, ready to receive commands
+{2021/05/14 17:09:03} send smd 9
+[2021/05/14 17:09:05] RaspiCam support started
+[2021/05/14 17:09:05] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 17:09:05] Scheduler loop is started
+{2021/05/14 17:09:05} Starting command loop
+[2021/05/14 17:09:05] Reload parameters command requested
+[2021/05/14 17:09:05] Scheduler loop is started
+[2021/05/14 17:09:06] New period detected 0
+[2021/05/14 17:09:06] Scheduled management tasks. Next at 1620986946
+[2021/05/14 17:09:50] Logged in user:Air:
+[2021/05/14 17:09:50] UserLevel 6
+{2021/05/14 17:09:57} h264 search /var/www/picam/media/vi_0001_20210514_170905.mp4
+{2021/05/14 17:09:57} recommended video buffer size 65536
+{2021/05/14 17:09:57} h264 size set to 131072
+{2021/05/14 17:09:57} recommended video buffers 1
+{2021/05/14 17:09:57} h264 buffers set to recommended 1
+{2021/05/14 17:09:57} Set up internal detect width=82 height=61
+{2021/05/14 17:09:57} Stream continued
+[2021/05/14 17:10:25] Logged in user:Air:
+[2021/05/14 17:10:25] UserLevel 6
+{2021/05/14 17:11:22} Capturing image
+[2021/05/14 17:11:26] Logged in user:Air:
+[2021/05/14 17:11:27] UserLevel 6
+[2021/05/14 17:11:40] Logged in user:Air:
+[2021/05/14 17:11:40] UserLevel 6
+{2021/05/14 17:15:47} Stream halted
+{2021/05/14 17:16:20} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:16:20} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:16:20} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:16:20} MJPEG idle, ready to receive commands
+{2021/05/14 17:16:20} send smd 9
+[2021/05/14 17:16:22] RaspiCam support started
+[2021/05/14 17:16:22] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 17:16:22] Scheduler loop is started
+{2021/05/14 17:16:22} Starting command loop
+[2021/05/14 17:16:22] Reload parameters command requested
+[2021/05/14 17:16:22] Scheduler loop is started
+[2021/05/14 17:16:23] New period detected 0
+[2021/05/14 17:16:23] Scheduled management tasks. Next at 1620987383
+[2021/05/14 17:17:00] Logged in user:Air:
+[2021/05/14 17:17:00] UserLevel 6
+{2021/05/14 17:18:12} h264 search /var/www/picam/media/vi_0001_20210514_171622.mp4
+{2021/05/14 17:18:12} recommended video buffer size 65536
+{2021/05/14 17:18:12} h264 size set to 131072
+{2021/05/14 17:18:12} recommended video buffers 1
+{2021/05/14 17:18:12} h264 buffers set to recommended 1
+{2021/05/14 17:18:12} Set up internal detect width=82 height=61
+{2021/05/14 17:18:12} Stream continued
+{2021/05/14 17:18:15} h264 search /var/www/picam/media/vi_0001_20210514_171815.mp4
+{2021/05/14 17:18:15} Error: Could not enable camera
+{2021/05/14 17:18:15} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+[2021/05/14 17:18:16] Logged in user:Air:
+[2021/05/14 17:18:16] UserLevel 6
+{2021/05/14 17:18:20} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:18:20} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:18:20} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:18:20} MJPEG idle, ready to receive commands
+{2021/05/14 17:18:20} send smd 9
+{2021/05/14 17:18:20} Starting command loop
+[2021/05/14 17:18:20] Reload parameters command requested
+[2021/05/14 17:18:20] Scheduler loop is started
+[2021/05/14 17:18:21] New period detected 0
+[2021/05/14 17:18:21] Scheduled management tasks. Next at 1620987501
+[2021/05/14 17:18:26] Logged in user:Air:
+[2021/05/14 17:18:26] UserLevel 6
+[2021/05/14 17:18:28] Logged in user:Air:
+[2021/05/14 17:18:28] UserLevel 6
+[2021/05/14 17:20:51] Logged in user:Air:
+[2021/05/14 17:20:51] UserLevel 6
+[2021/05/14 17:20:51] Logged in user:Air:
+[2021/05/14 17:20:51] UserLevel 6
+[2021/05/14 17:20:52] Logged in user:Air:
+[2021/05/14 17:20:52] UserLevel 6
+[2021/05/14 17:20:53] Logged in user:Air:
+[2021/05/14 17:20:53] UserLevel 6
+[2021/05/14 17:20:54] Logged in user:Air:
+[2021/05/14 17:20:54] UserLevel 6
+[2021/05/14 17:20:55] Logged in user:Air:
+[2021/05/14 17:20:55] UserLevel 6
+[2021/05/14 17:21:01] Logged in user:Air:
+[2021/05/14 17:21:01] UserLevel 6
+[2021/05/14 17:21:25] Logged in user:Air:
+[2021/05/14 17:21:25] UserLevel 6
+[2021/05/14 17:21:27] Logged in user:Air:
+[2021/05/14 17:21:27] UserLevel 6
+[2021/05/14 17:21:28] Logged in user:Air:
+[2021/05/14 17:21:28] UserLevel 6
+[2021/05/14 17:21:29] Logged in user:Air:
+[2021/05/14 17:21:29] UserLevel 6
+[2021/05/14 17:21:29] Logged in user:Air:
+[2021/05/14 17:21:29] UserLevel 6
+[2021/05/14 17:21:30] Logged in user:Air:
+[2021/05/14 17:21:30] UserLevel 6
+[2021/05/14 17:21:30] Logged in user:Air:
+[2021/05/14 17:21:30] UserLevel 6
+[2021/05/14 17:21:30] Logged in user:Air:
+[2021/05/14 17:21:30] UserLevel 6
+[2021/05/14 17:21:31] Logged in user:Air:
+[2021/05/14 17:21:31] UserLevel 6
+[2021/05/14 17:21:31] Logged in user:Air:
+[2021/05/14 17:21:31] UserLevel 6
+[2021/05/14 17:21:31] Logged in user:Air:
+[2021/05/14 17:21:31] UserLevel 6
+[2021/05/14 17:21:31] Logged in user:Air:
+[2021/05/14 17:21:31] UserLevel 6
+[2021/05/14 17:21:34] Logged in user:Air:
+[2021/05/14 17:21:34] UserLevel 6
+[2021/05/14 17:21:34] Logged in user:Air:
+[2021/05/14 17:21:34] UserLevel 6
+[2021/05/14 17:21:34] Logged in user:Air:
+[2021/05/14 17:21:34] UserLevel 6
+[2021/05/14 17:21:35] Logged in user:Air:
+[2021/05/14 17:21:35] UserLevel 6
+{2021/05/14 17:25:53} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:25:53} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:25:53} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:25:53} MJPEG idle, ready to receive commands
+{2021/05/14 17:25:53} send smd 9
+[2021/05/14 17:25:54] RaspiCam support started
+[2021/05/14 17:25:54] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 17:25:54] Scheduler loop is started
+{2021/05/14 17:25:54} Starting command loop
+[2021/05/14 17:25:54] Reload parameters command requested
+[2021/05/14 17:25:54] Scheduler loop is started
+[2021/05/14 17:25:55] New period detected 0
+[2021/05/14 17:25:55] Scheduled management tasks. Next at 1620987955
+[2021/05/14 17:26:52] Logged in user:Air:
+[2021/05/14 17:26:52] UserLevel 6
+{2021/05/14 17:31:31} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:31:31} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:31:31} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:31:31} MJPEG idle, ready to receive commands
+{2021/05/14 17:31:31} send smd 9
+[2021/05/14 17:31:33] RaspiCam support started
+[2021/05/14 17:31:33] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 17:31:33] Scheduler loop is started
+{2021/05/14 17:31:33} Starting command loop
+[2021/05/14 17:31:33] Reload parameters command requested
+[2021/05/14 17:31:33] Scheduler loop is started
+[2021/05/14 17:31:34] New period detected 0
+[2021/05/14 17:31:34] Scheduled management tasks. Next at 1620988294
+[2021/05/14 17:32:27] Logged in user:Air:
+[2021/05/14 17:32:27] UserLevel 6
+{2021/05/14 17:33:17} h264 search /var/www/picam/media/vi_0001_20210514_173133.mp4
+{2021/05/14 17:33:18} recommended video buffer size 65536
+{2021/05/14 17:33:18} h264 size set to 131072
+{2021/05/14 17:33:18} recommended video buffers 1
+{2021/05/14 17:33:18} h264 buffers set to recommended 1
+{2021/05/14 17:33:18} Set up internal detect width=82 height=61
+{2021/05/14 17:33:18} Stream continued
+{2021/05/14 17:33:27} h264 search /var/www/picam/media/vi_0001_20210514_173327.mp4
+{2021/05/14 17:33:27} Error: Could not enable camera
+{2021/05/14 17:33:27} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+[2021/05/14 17:33:30] Logged in user:Air:
+[2021/05/14 17:33:30] UserLevel 6
+{2021/05/14 17:33:32} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:33:32} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:33:32} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:33:32} MJPEG idle, ready to receive commands
+{2021/05/14 17:33:32} send smd 9
+{2021/05/14 17:33:32} Starting command loop
+[2021/05/14 17:33:32] Reload parameters command requested
+[2021/05/14 17:33:32] Scheduler loop is started
+[2021/05/14 17:33:33] New period detected 0
+[2021/05/14 17:33:33] Scheduled management tasks. Next at 1620988413
+[2021/05/14 17:33:44] Logged in user:Air:
+[2021/05/14 17:33:44] UserLevel 6
+[2021/05/14 17:33:46] Logged in user:Air:
+[2021/05/14 17:33:46] UserLevel 6
+[2021/05/14 17:44:43] Logged in user:Air:
+[2021/05/14 17:44:43] UserLevel 6
+{2021/05/14 17:47:05} SIGINT/SIGTERM received, stopping
+{2021/05/14 17:47:18} RaspiMJPEG Version 5.9.5
+{2021/05/14 17:47:18} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/14 17:47:18} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/14 17:47:18} MJPEG idle, ready to receive commands
+{2021/05/14 17:47:18} send smd 9
+[2021/05/14 17:47:19] RaspiCam support started
+[2021/05/14 17:47:19] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/14 17:47:19] Scheduler loop is started
+{2021/05/14 17:47:19} Starting command loop
+[2021/05/14 17:47:19] Reload parameters command requested
+[2021/05/14 17:47:19] Scheduler loop is started
+[2021/05/14 17:47:20] New period detected 0
+[2021/05/14 17:47:20] Scheduled management tasks. Next at 1620989240
+[2021/05/20 19:31:00] Scheduled management tasks. Next at 1621513860
+[2021/05/20 20:31:01] Scheduled management tasks. Next at 1621517461
+[2021/05/20 21:31:02] Scheduled management tasks. Next at 1621521062
+[2021/05/20 22:31:03] Scheduled management tasks. Next at 1621524663
+[2021/05/20 23:12:43] Logged in user:Air:
+[2021/05/20 23:12:43] UserLevel 6
+{2021/05/20 23:13:21} RaspiMJPEG Version 5.9.5
+{2021/05/20 23:13:21} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/20 23:13:21} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/20 23:13:21} MJPEG idle, ready to receive commands
+{2021/05/20 23:13:21} send smd 9
+[2021/05/20 23:13:23] RaspiCam support started
+[2021/05/20 23:13:23] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/20 23:13:23] Scheduler loop is started
+{2021/05/20 23:13:23} Starting command loop
+[2021/05/20 23:13:23] Reload parameters command requested
+[2021/05/20 23:13:23] Scheduler loop is started
+[2021/05/20 23:13:24] New period detected 0
+[2021/05/20 23:13:24] Scheduled management tasks. Next at 1621527204
+[2021/05/22 08:34:01] Scheduled management tasks. Next at 1621647241
+[2021/05/22 09:34:02] Scheduled management tasks. Next at 1621650842
+[2021/05/22 10:01:38] Logged in user:Air:
+[2021/05/22 10:01:38] UserLevel 6
+[2021/05/22 10:34:03] Scheduled management tasks. Next at 1621654443
+[2021/05/22 11:34:04] Scheduled management tasks. Next at 1621658044
+[2021/05/22 11:41:39] Logged in user:Air:
+[2021/05/22 11:41:39] UserLevel 6
+{2021/05/22 12:09:53} RaspiMJPEG Version 5.9.5
+{2021/05/22 12:09:53} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/22 12:09:53} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/22 12:09:53} MJPEG idle, ready to receive commands
+{2021/05/22 12:09:53} send smd 9
+[2021/05/22 12:09:55] RaspiCam support started
+[2021/05/22 12:09:55] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/22 12:09:55] Scheduler loop is started
+{2021/05/22 12:09:55} Starting command loop
+[2021/05/22 12:09:55] Reload parameters command requested
+[2021/05/22 12:09:55] Scheduler loop is started
+[2021/05/22 12:09:56] New period detected 0
+[2021/05/22 12:09:56] Scheduled management tasks. Next at 1621660196
+[2021/05/22 15:26:26] Scheduled management tasks. Next at 1621671986
+[2021/05/22 16:26:27] Scheduled management tasks. Next at 1621675587
+[2021/05/22 17:26:28] Scheduled management tasks. Next at 1621679188
+[2021/05/22 18:26:29] Scheduled management tasks. Next at 1621682789
+[2021/05/22 19:26:30] Scheduled management tasks. Next at 1621686390
+[2021/05/22 20:26:31] Scheduled management tasks. Next at 1621689991
+[2021/05/22 21:12:44] Logged in user:Air:
+[2021/05/22 21:12:44] UserLevel 6
+{2021/05/22 21:20:52} h264 search /var/www/picam/media/vi_0001_20210522_120955.mp4
+{2021/05/22 21:20:52} recommended video buffer size 65536
+{2021/05/22 21:20:52} h264 size set to 131072
+{2021/05/22 21:20:52} recommended video buffers 1
+{2021/05/22 21:20:52} h264 buffers set to recommended 1
+{2021/05/22 21:20:52} Set up internal detect width=82 height=61
+{2021/05/22 21:20:52} Stream continued
+[2021/05/22 21:21:05] Logged in user:Air:
+[2021/05/22 21:21:05] UserLevel 6
+[2021/05/22 21:26:32] Scheduled management tasks. Next at 1621693592
+{2021/05/22 21:28:18} Capturing started
+{2021/05/22 21:28:24} Capturing stopped
+{2021/05/22 21:28:24} Add /var/www/picam/media/vi_0001_20210522_212818.mp4 to Box Queue at pos 0
+{2021/05/22 21:28:24} Start boxing /var/www/picam/media/vi_0001_20210522_212818.h264 to /var/www/picam/media/vi_0001_20210522_212818.mp4 Queue pos 0
+[2021/05/22 21:28:25] Logged in user:Air:
+[2021/05/22 21:28:25] UserLevel 6
+{2021/05/22 21:28:25} Finished boxing /var/www/picam/media/vi_0001_20210522_212818.mp4 from Box Queue at pos 0
+{2021/05/22 21:28:25} Removed item from Box Queue
+{2021/05/22 21:28:34} Watchdog detected problem. Stopping{2021/05/22 21:28:34} SIGINT/SIGTERM received, stopping
+{2021/05/22 21:28:39} RaspiMJPEG Version 5.9.5
+{2021/05/22 21:28:39} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/22 21:28:39} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/22 21:28:39} MJPEG idle, ready to receive commands
+{2021/05/22 21:28:39} send smd 9
+{2021/05/22 21:28:39} Starting command loop
+[2021/05/22 21:28:39] Reload parameters command requested
+[2021/05/22 21:28:39] Scheduler loop is started
+[2021/05/22 21:28:40] New period detected 0
+[2021/05/22 21:28:40] Scheduled management tasks. Next at 1621693720
+[2021/05/22 21:28:50] Logged in user:Air:
+[2021/05/22 21:28:50] UserLevel 6
+[2021/05/22 21:29:06] Logged in user:Air:
+[2021/05/22 21:29:06] UserLevel 6
+{2021/05/22 21:29:12} h264 search /var/www/picam/media/vi_0002_20210522_212839.mp4
+{2021/05/22 21:29:12} recommended video buffer size 65536
+{2021/05/22 21:29:12} h264 size set to 131072
+{2021/05/22 21:29:12} recommended video buffers 1
+{2021/05/22 21:29:12} h264 buffers set to recommended 1
+{2021/05/22 21:29:12} Set up internal detect width=82 height=61
+{2021/05/22 21:29:12} Stream continued
+[2021/05/22 21:29:18] Logged in user:Air:
+[2021/05/22 21:29:18] UserLevel 6
+{2021/05/22 21:29:27} Capturing started
+{2021/05/22 21:29:31} Capturing stopped
+{2021/05/22 21:29:31} Add /var/www/picam/media/vi_0002_20210522_212927.mp4 to Box Queue at pos 0
+{2021/05/22 21:29:31} Start boxing /var/www/picam/media/vi_0002_20210522_212927.h264 to /var/www/picam/media/vi_0002_20210522_212927.mp4 Queue pos 0
+{2021/05/22 21:29:32} Finished boxing /var/www/picam/media/vi_0002_20210522_212927.mp4 from Box Queue at pos 0
+{2021/05/22 21:29:32} Removed item from Box Queue
+[2021/05/22 21:29:33] Logged in user:Air:
+[2021/05/22 21:29:33] UserLevel 6
+[2021/05/22 21:29:41] Logged in user:Air:
+[2021/05/22 21:29:41] UserLevel 6
+{2021/05/22 21:29:41} Watchdog detected problem. Stopping{2021/05/22 21:29:42} SIGINT/SIGTERM received, stopping
+[2021/05/22 21:29:45] Logged in user:Air:
+[2021/05/22 21:29:45] UserLevel 6
+{2021/05/22 21:29:47} RaspiMJPEG Version 5.9.5
+{2021/05/22 21:29:47} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/22 21:29:47} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/22 21:29:47} MJPEG idle, ready to receive commands
+{2021/05/22 21:29:47} send smd 9
+{2021/05/22 21:29:47} Starting command loop
+[2021/05/22 21:29:47] Reload parameters command requested
+[2021/05/22 21:29:47] Scheduler loop is started
+[2021/05/22 21:29:48] New period detected 0
+[2021/05/22 21:29:48] Scheduled management tasks. Next at 1621693788
+[2021/05/22 21:29:51] Logged in user:Air:
+[2021/05/22 21:29:51] UserLevel 6
+[2021/05/22 21:30:03] Logged in user:Air:
+[2021/05/22 21:30:03] UserLevel 6
+{2021/05/22 21:30:05} h264 search /var/www/picam/media/vi_0002_20210522_212947.mp4
+{2021/05/22 21:30:05} recommended video buffer size 65536
+{2021/05/22 21:30:05} h264 size set to 131072
+{2021/05/22 21:30:05} recommended video buffers 1
+{2021/05/22 21:30:05} h264 buffers set to recommended 1
+{2021/05/22 21:30:06} Set up internal detect width=82 height=61
+{2021/05/22 21:30:06} Stream continued
+[2021/05/22 21:30:13] Logged in user:Air:
+[2021/05/22 21:30:13] UserLevel 6
+[2021/05/22 22:14:13] Logged in user:Air:
+[2021/05/22 22:14:13] UserLevel 6
+{2021/05/22 22:21:16} RaspiMJPEG Version 5.9.5
+{2021/05/22 22:21:16} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/22 22:21:16} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/22 22:21:16} MJPEG idle, ready to receive commands
+{2021/05/22 22:21:16} send smd 9
+[2021/05/22 22:21:17] RaspiCam support started
+[2021/05/22 22:21:17] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/22 22:21:17] Scheduler loop is started
+{2021/05/22 22:21:17} Starting command loop
+[2021/05/22 22:21:18] Reload parameters command requested
+[2021/05/22 22:21:18] Scheduler loop is started
+[2021/05/22 22:21:19] New period detected 0
+[2021/05/22 22:21:19] Scheduled management tasks. Next at 1621696879
+[2021/05/23 16:54:43] Scheduled management tasks. Next at 1621763683
+[2021/05/23 16:56:19] Logged in user:Air:
+[2021/05/23 16:56:19] UserLevel 6
+{2021/05/23 16:55:21} RaspiMJPEG Version 5.9.5
+{2021/05/23 16:55:21} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/23 16:55:21} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/23 16:55:21} MJPEG idle, ready to receive commands
+{2021/05/23 16:55:21} send smd 9
+[2021/05/23 16:55:23] RaspiCam support started
+[2021/05/23 16:55:23] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/23 16:55:23] Scheduler loop is started
+{2021/05/23 16:55:23} Starting command loop
+[2021/05/23 16:55:23] Reload parameters command requested
+[2021/05/23 16:55:23] Scheduler loop is started
+[2021/05/23 16:55:24] New period detected 0
+[2021/05/23 16:55:24] Scheduled management tasks. Next at 1621763724
+[2021/05/23 16:59:47] Logged in user:Air:
+[2021/05/23 16:59:47] UserLevel 6
+{2021/05/23 17:03:55} h264 search /var/www/picam/media/vi_0002_20210523_165523.mp4
+{2021/05/23 17:03:55} recommended video buffer size 65536
+{2021/05/23 17:03:55} h264 size set to 131072
+{2021/05/23 17:03:55} recommended video buffers 1
+{2021/05/23 17:03:55} h264 buffers set to recommended 1
+{2021/05/23 17:03:55} Set up internal detect width=82 height=61
+{2021/05/23 17:03:55} Stream continued
+[2021/05/23 17:04:33] Logged in user:Air:
+[2021/05/23 17:04:33] UserLevel 6
+{2021/05/23 17:04:49} Capturing image
+[2021/05/23 17:06:28] Logged in user:Air:
+[2021/05/23 17:06:28] UserLevel 6
+{2021/05/23 17:06:37} Capturing started
+[2021/05/23 17:06:43] Logged in user:Air:
+[2021/05/23 17:06:43] UserLevel 6
+{2021/05/23 17:06:45} Capturing stopped
+{2021/05/23 17:06:45} Add /var/www/picam/media/vi_0002_20210523_170637.mp4 to Box Queue at pos 0
+{2021/05/23 17:06:45} Start boxing /var/www/picam/media/vi_0002_20210523_170637.h264 to /var/www/picam/media/vi_0002_20210523_170637.mp4 Queue pos 0
+{2021/05/23 17:06:46} Finished boxing /var/www/picam/media/vi_0002_20210523_170637.mp4 from Box Queue at pos 0
+{2021/05/23 17:06:46} Removed item from Box Queue
+[2021/05/23 17:06:51] Logged in user:Air:
+[2021/05/23 17:06:51] UserLevel 6
+{2021/05/23 17:06:54} Watchdog detected problem. Stopping{2021/05/23 17:06:55} SIGINT/SIGTERM received, stopping
+{2021/05/23 17:07:00} RaspiMJPEG Version 5.9.5
+{2021/05/23 17:07:00} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/23 17:07:00} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/23 17:07:00} MJPEG idle, ready to receive commands
+{2021/05/23 17:07:00} send smd 9
+{2021/05/23 17:07:00} Starting command loop
+[2021/05/23 17:07:00] Reload parameters command requested
+[2021/05/23 17:07:00] Scheduler loop is started
+[2021/05/23 17:07:01] New period detected 0
+[2021/05/23 17:07:01] Scheduled management tasks. Next at 1621764421
+[2021/05/23 17:08:32] Logged in user:Air:
+[2021/05/23 17:08:32] UserLevel 6
+{2021/05/23 17:08:37} h264 search /var/www/picam/media/vi_0003_20210523_170700.mp4
+{2021/05/23 17:08:37} recommended video buffer size 65536
+{2021/05/23 17:08:37} h264 size set to 131072
+{2021/05/23 17:08:37} recommended video buffers 1
+{2021/05/23 17:08:37} h264 buffers set to recommended 1
+{2021/05/23 17:08:37} Set up internal detect width=82 height=61
+{2021/05/23 17:08:37} Stream continued
+[2021/05/23 17:12:29] Logged in user:Air:
+[2021/05/23 17:12:29] UserLevel 6
+{2021/05/23 17:30:06} Stream halted
+[2021/05/23 18:07:02] Scheduled management tasks. Next at 1621768022
+[2021/05/23 19:07:03] Scheduled management tasks. Next at 1621771623
+[2021/05/23 20:07:04] Scheduled management tasks. Next at 1621775224
+[2021/05/23 21:07:05] Scheduled management tasks. Next at 1621778825
+[2021/05/23 22:07:06] Scheduled management tasks. Next at 1621782426
+{2021/05/23 22:07:57} RaspiMJPEG Version 5.9.5
+{2021/05/23 22:07:57} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/23 22:07:57} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/23 22:07:57} MJPEG idle, ready to receive commands
+{2021/05/23 22:07:57} send smd 9
+[2021/05/23 22:07:59] RaspiCam support started
+[2021/05/23 22:08:00] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/23 22:08:00] Scheduler loop is started
+{2021/05/23 22:08:00} Starting command loop
+[2021/05/23 22:08:00] Reload parameters command requested
+[2021/05/23 22:08:00] Scheduler loop is started
+[2021/05/23 22:08:01] New period detected 0
+[2021/05/23 22:08:01] Scheduled management tasks. Next at 1621782481
+[2021/05/26 20:07:26] Scheduled management tasks. Next at 1622034446
+[2021/05/26 20:12:54] Logged in user:Air:
+[2021/05/26 20:12:54] UserLevel 6
+[2021/05/26 20:28:49] Logged in user:Air:
+[2021/05/26 20:28:49] UserLevel 6
+{2021/05/26 20:29:52} h264 search /var/www/picam/media/vi_0003_20210523_220800.mp4
+{2021/05/26 20:29:52} recommended video buffer size 65536
+{2021/05/26 20:29:52} h264 size set to 131072
+{2021/05/26 20:29:52} recommended video buffers 1
+{2021/05/26 20:29:52} h264 buffers set to recommended 1
+{2021/05/26 20:29:52} Set up internal detect width=82 height=61
+{2021/05/26 20:29:52} Stream continued
+[2021/05/26 20:30:02] Logged in user:Air:
+[2021/05/26 20:30:02] UserLevel 6
+{2021/05/26 20:30:55} Stream halted
+[2021/05/26 20:30:59] Logged in user:Air:
+[2021/05/26 20:30:59] UserLevel 6
+{2021/05/26 20:31:32} h264 search /var/www/picam/media/vi_0003_20210526_203055.mp4
+{2021/05/26 20:31:32} recommended video buffer size 65536
+{2021/05/26 20:31:32} h264 size set to 131072
+{2021/05/26 20:31:32} recommended video buffers 1
+{2021/05/26 20:31:32} h264 buffers set to recommended 1
+{2021/05/26 20:31:32} Set up internal detect width=82 height=61
+{2021/05/26 20:31:32} Stream continued
+[2021/05/26 20:31:34] Logged in user:Air:
+[2021/05/26 20:31:34] UserLevel 6
+{2021/05/26 20:31:47} Capturing image
+[2021/05/26 20:31:54] Logged in user:Air:
+[2021/05/26 20:31:54] UserLevel 6
+[2021/05/26 20:33:30] Logged in user:Air:
+[2021/05/26 20:33:30] UserLevel 6
+{2021/05/26 20:33:35} Capturing started
+[2021/05/26 20:33:38] Logged in user:Air:
+[2021/05/26 20:33:38] UserLevel 6
+{2021/05/26 20:33:48} Capturing stopped
+{2021/05/26 20:33:48} Add /var/www/picam/media/vi_0003_20210526_203335.mp4 to Box Queue at pos 0
+{2021/05/26 20:33:49} Start boxing /var/www/picam/media/vi_0003_20210526_203335.h264 to /var/www/picam/media/vi_0003_20210526_203335.mp4 Queue pos 0
+[2021/05/26 20:33:49] Logged in user:Air:
+[2021/05/26 20:33:49] UserLevel 6
+{2021/05/26 20:33:50} Finished boxing /var/www/picam/media/vi_0003_20210526_203335.mp4 from Box Queue at pos 0
+{2021/05/26 20:33:50} Removed item from Box Queue
+[2021/05/26 20:33:53] Logged in user:Air:
+[2021/05/26 20:33:53] UserLevel 6
+{2021/05/26 20:34:00} Watchdog detected problem. Stopping{2021/05/26 20:34:01} SIGINT/SIGTERM received, stopping
+{2021/05/26 20:34:06} RaspiMJPEG Version 5.9.5
+{2021/05/26 20:34:06} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/26 20:34:06} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/26 20:34:06} MJPEG idle, ready to receive commands
+{2021/05/26 20:34:06} send smd 9
+{2021/05/26 20:34:06} Starting command loop
+[2021/05/26 20:34:06] Reload parameters command requested
+[2021/05/26 20:34:06] Scheduler loop is started
+[2021/05/26 20:34:07] New period detected 0
+[2021/05/26 20:34:07] Scheduled management tasks. Next at 1622036047
+{2021/05/26 20:35:04} h264 search /var/www/picam/media/vi_0004_20210526_203406.mp4
+{2021/05/26 20:35:04} recommended video buffer size 65536
+{2021/05/26 20:35:04} h264 size set to 131072
+{2021/05/26 20:35:04} recommended video buffers 1
+{2021/05/26 20:35:04} h264 buffers set to recommended 1
+{2021/05/26 20:35:04} Set up internal detect width=82 height=61
+{2021/05/26 20:35:04} Stream continued
+[2021/05/26 20:35:08] Logged in user:Air:
+[2021/05/26 20:35:08] UserLevel 6
+[2021/05/26 20:38:42] Generating ZIP using command: zip -0 -q - media/im_0003_20210523_170449.jpg (1275237 bytes)
+[2021/05/26 20:54:28] Logged in user:Air:
+[2021/05/26 20:54:28] UserLevel 6
+[2021/05/26 20:55:20] Logged in user:Air:
+[2021/05/26 20:55:20] UserLevel 6
+[2021/05/26 20:56:06] Logged in user:Air:
+[2021/05/26 20:56:06] UserLevel 6
+[2021/05/26 20:56:59] Logged in user:Air:
+[2021/05/26 20:56:59] UserLevel 6
+{2021/05/26 20:50:18} RaspiMJPEG Version 5.9.5
+{2021/05/26 20:50:18} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/26 20:50:18} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/26 20:50:18} MJPEG idle, ready to receive commands
+{2021/05/26 20:50:18} send smd 9
+[2021/05/26 20:50:19] RaspiCam support started
+[2021/05/26 20:50:20] Capture Pipe already exists /var/www/picam/FIFO1
+{2021/05/26 20:50:20} Starting command loop
+[2021/05/26 20:50:20] Scheduler loop is started
+[2021/05/26 20:50:20] Reload parameters command requested
+[2021/05/26 20:50:20] Scheduler loop is started
+[2021/05/26 20:50:21] New period detected 0
+[2021/05/26 20:50:21] Scheduled management tasks. Next at 1622037021
+[2021/05/26 21:05:14] Logged in user:Air:
+[2021/05/26 21:05:14] UserLevel 6
+{2021/05/26 21:05:20} h264 search /var/www/picam/media/vi_0004_20210526_205020.mp4
+{2021/05/26 21:05:20} recommended video buffer size 65536
+{2021/05/26 21:05:20} h264 size set to 131072
+{2021/05/26 21:05:20} recommended video buffers 1
+{2021/05/26 21:05:20} h264 buffers set to recommended 1
+{2021/05/26 21:05:20} Set up internal detect width=82 height=61
+{2021/05/26 21:05:20} Stream continued
+{2021/05/26 21:05:36} RaspiMJPEG Version 5.9.5
+{2021/05/26 21:05:36} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/26 21:05:36} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/26 21:05:36} MJPEG idle, ready to receive commands
+{2021/05/26 21:05:36} send smd 9
+[2021/05/26 21:05:38] RaspiCam support started
+[2021/05/26 21:05:38] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/26 21:05:38] Scheduler loop is started
+{2021/05/26 21:05:38} Starting command loop
+[2021/05/26 21:05:38] Reload parameters command requested
+[2021/05/26 21:05:38] Scheduler loop is started
+[2021/05/26 21:05:39] New period detected 0
+[2021/05/26 21:05:39] Scheduled management tasks. Next at 1622037939
+{2021/05/26 21:17:30} RaspiMJPEG Version 5.9.5
+{2021/05/26 21:17:30} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/26 21:17:30} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/26 21:17:30} MJPEG idle, ready to receive commands
+{2021/05/26 21:17:30} send smd 9
+[2021/05/26 21:17:32] RaspiCam support started
+[2021/05/26 21:17:32] Capture Pipe already exists /var/www/picam/FIFO1
+{2021/05/26 21:17:32} Starting command loop
+[2021/05/26 21:17:32] Scheduler loop is started
+[2021/05/26 21:17:32] Reload parameters command requested
+[2021/05/26 21:17:32] Scheduler loop is started
+[2021/05/26 21:17:33] New period detected 0
+[2021/05/26 21:17:33] Scheduled management tasks. Next at 1622038653
+{2021/05/26 21:21:11} RaspiMJPEG Version 5.9.5
+{2021/05/26 21:21:11} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/26 21:21:11} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/26 21:21:11} MJPEG idle, ready to receive commands
+{2021/05/26 21:21:11} send smd 9
+[2021/05/26 21:21:12] RaspiCam support started
+[2021/05/26 21:21:13] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/26 21:21:13] Scheduler loop is started
+{2021/05/26 21:21:13} Starting command loop
+[2021/05/26 21:21:13] Reload parameters command requested
+[2021/05/26 21:21:13] Scheduler loop is started
+[2021/05/26 21:21:14] New period detected 0
+[2021/05/26 21:21:14] Scheduled management tasks. Next at 1622038874
+[2021/05/26 22:21:15] Scheduled management tasks. Next at 1622042475
+[2021/05/26 22:26:50] Logged in user:Air:
+[2021/05/26 22:26:50] UserLevel 6
+{2021/05/26 23:08:17} RaspiMJPEG Version 5.9.5
+{2021/05/26 23:08:17} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/26 23:08:17} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/26 23:08:17} MJPEG idle, ready to receive commands
+{2021/05/26 23:08:17} send smd 9
+[2021/05/26 23:08:19] RaspiCam support started
+[2021/05/26 23:08:19] Capture Pipe already exists /var/www/picam/FIFO1
+{2021/05/26 23:08:19} Starting command loop
+[2021/05/26 23:08:19] Scheduler loop is started
+[2021/05/26 23:08:19] Reload parameters command requested
+[2021/05/26 23:08:19] Scheduler loop is started
+[2021/05/26 23:08:20] New period detected 0
+[2021/05/26 23:08:20] Scheduled management tasks. Next at 1622045300
+[2021/05/29 14:40:48] Scheduled management tasks. Next at 1622274048
+[2021/05/29 15:40:49] Scheduled management tasks. Next at 1622277649
+[2021/05/29 16:40:50] Scheduled management tasks. Next at 1622281250
+[2021/05/29 17:40:51] Scheduled management tasks. Next at 1622284851
+[2021/05/29 18:40:52] Scheduled management tasks. Next at 1622288452
+[2021/05/29 19:40:53] Scheduled management tasks. Next at 1622292053
+[2021/05/29 20:40:54] Scheduled management tasks. Next at 1622295654
+[2021/05/29 20:48:46] Logged in user:Air:
+[2021/05/29 20:48:46] UserLevel 6
+{2021/05/29 20:48:55} h264 search /var/www/picam/media/vi_0004_20210526_230819.mp4
+{2021/05/29 20:48:55} recommended video buffer size 65536
+{2021/05/29 20:48:55} h264 size set to 131072
+{2021/05/29 20:48:55} recommended video buffers 1
+{2021/05/29 20:48:55} h264 buffers set to recommended 1
+{2021/05/29 20:48:55} Set up internal detect width=82 height=61
+{2021/05/29 20:48:55} Stream continued
+[2021/05/29 20:49:04] Logged in user:Air:
+[2021/05/29 20:49:04] UserLevel 6
+[2021/05/29 21:40:55] Scheduled management tasks. Next at 1622299255
+[2021/05/29 22:40:56] Scheduled management tasks. Next at 1622302856
+[2021/05/29 22:41:00] Logged in user:Air:
+[2021/05/29 22:41:00] UserLevel 6
+{2021/05/29 22:41:02} Stream halted
+[2021/05/29 23:40:57] Scheduled management tasks. Next at 1622306457
+{2021/05/29 23:55:38} RaspiMJPEG Version 5.9.5
+{2021/05/29 23:55:38} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/29 23:55:38} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/29 23:55:38} MJPEG idle, ready to receive commands
+{2021/05/29 23:55:38} send smd 9
+[2021/05/29 23:55:39] RaspiCam support started
+[2021/05/29 23:55:39] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/29 23:55:39] Scheduler loop is started
+{2021/05/29 23:55:39} Starting command loop
+[2021/05/29 23:55:39] Reload parameters command requested
+[2021/05/29 23:55:39] Scheduler loop is started
+[2021/05/29 23:55:40] New period detected 0
+[2021/05/29 23:55:40] Scheduled management tasks. Next at 1622307340
+[2021/05/30 10:42:30] Scheduled management tasks. Next at 1622346150
+[2021/05/30 11:42:31] Scheduled management tasks. Next at 1622349751
+[2021/05/30 12:12:55] Logged in user:Air:
+[2021/05/30 12:12:55] UserLevel 6
+{2021/05/30 11:50:21} RaspiMJPEG Version 5.9.5
+{2021/05/30 11:50:21} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/30 11:50:21} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/30 11:50:21} MJPEG idle, ready to receive commands
+{2021/05/30 11:50:21} send smd 9
+[2021/05/30 11:50:23] RaspiCam support started
+[2021/05/30 11:50:23] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/30 11:50:23] Scheduler loop is started
+{2021/05/30 11:50:23} Starting command loop
+[2021/05/30 11:50:23] Reload parameters command requested
+[2021/05/30 11:50:23] Scheduler loop is started
+[2021/05/30 11:50:24] New period detected 0
+[2021/05/30 11:50:24] Scheduled management tasks. Next at 1622350224
+[2021/05/30 14:29:33] Scheduled management tasks. Next at 1622359773
+[2021/05/30 14:32:52] Logged in user:Air:
+[2021/05/30 14:32:52] UserLevel 6
+[2021/05/30 15:29:34] Scheduled management tasks. Next at 1622363374
+[2021/05/30 16:29:35] Scheduled management tasks. Next at 1622366975
+[2021/05/30 17:29:36] Scheduled management tasks. Next at 1622370576
+[2021/05/30 18:29:37] Scheduled management tasks. Next at 1622374177
+[2021/05/30 19:29:38] Scheduled management tasks. Next at 1622377778
+[2021/05/30 20:29:39] Scheduled management tasks. Next at 1622381379
+[2021/05/30 21:29:40] Scheduled management tasks. Next at 1622384980
+{2021/05/30 22:11:15} RaspiMJPEG Version 5.9.5
+{2021/05/30 22:11:15} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/05/30 22:11:15} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/05/30 22:11:15} MJPEG idle, ready to receive commands
+{2021/05/30 22:11:15} send smd 9
+[2021/05/30 22:11:17] RaspiCam support started
+[2021/05/30 22:11:17] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/05/30 22:11:17] Scheduler loop is started
+{2021/05/30 22:11:17} Starting command loop
+[2021/05/30 22:11:17] Reload parameters command requested
+[2021/05/30 22:11:17] Scheduler loop is started
+[2021/05/30 22:11:18] New period detected 0
+[2021/05/30 22:11:18] Scheduled management tasks. Next at 1622387478
+[2021/06/04 16:30:33] Scheduled management tasks. Next at 1622799033
+[2021/06/04 17:10:51] Logged in user:Air:
+[2021/06/04 17:10:51] UserLevel 6
+{2021/06/04 17:13:41} h264 search /var/www/picam/media/vi_0004_20210530_221117.mp4
+{2021/06/04 17:13:41} recommended video buffer size 65536
+{2021/06/04 17:13:41} h264 size set to 131072
+{2021/06/04 17:13:41} recommended video buffers 1
+{2021/06/04 17:13:41} h264 buffers set to recommended 1
+{2021/06/04 17:13:41} Set up internal detect width=82 height=61
+{2021/06/04 17:13:41} Stream continued
+[2021/06/04 17:14:05] Logged in user:Air:
+[2021/06/04 17:14:05] UserLevel 6
+{2021/06/04 17:14:06} Stream halted
+[2021/06/04 17:14:09] Logged in user:Air:
+[2021/06/04 17:14:09] UserLevel 6
+[2021/06/04 17:22:26] Logged in user:Air:
+[2021/06/04 17:22:26] UserLevel 6
+{2021/06/04 17:22:35} h264 search /var/www/picam/media/vi_0004_20210604_171406.mp4
+{2021/06/04 17:22:36} recommended video buffer size 65536
+{2021/06/04 17:22:36} h264 size set to 131072
+{2021/06/04 17:22:36} recommended video buffers 1
+{2021/06/04 17:22:36} h264 buffers set to recommended 1
+{2021/06/04 17:22:36} Set up internal detect width=82 height=61
+{2021/06/04 17:22:36} Stream continued
+[2021/06/04 17:29:32] Logged in user:Air:
+[2021/06/04 17:29:32] UserLevel 6
+[2021/06/04 17:30:34] Scheduled management tasks. Next at 1622802634
+[2021/06/04 17:42:04] Logged in user:Air:
+[2021/06/04 17:42:04] UserLevel 6
+{2021/06/04 17:42:06} Stream halted
+[2021/06/04 17:42:10] Logged in user:Air:
+[2021/06/04 17:42:10] UserLevel 6
+{2021/06/04 17:53:07} h264 search /var/www/picam/media/vi_0004_20210604_174206.mp4
+{2021/06/04 17:53:07} recommended video buffer size 65536
+{2021/06/04 17:53:07} h264 size set to 131072
+{2021/06/04 17:53:07} recommended video buffers 1
+{2021/06/04 17:53:07} h264 buffers set to recommended 1
+{2021/06/04 17:53:07} Set up internal detect width=82 height=61
+{2021/06/04 17:53:07} Stream continued
+[2021/06/04 17:53:08] Logged in user:Air:
+[2021/06/04 17:53:08] UserLevel 6
+[2021/06/04 17:53:21] Logged in user:Air:
+[2021/06/04 17:53:21] UserLevel 6
+[2021/06/04 17:53:26] Logged in user:Air:
+[2021/06/04 17:53:26] UserLevel 6
+{2021/06/04 17:55:15} Stream halted
+{2021/06/04 18:07:40} RaspiMJPEG Version 5.9.5
+{2021/06/04 18:07:40} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/06/04 18:07:40} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/06/04 18:07:40} MJPEG idle, ready to receive commands
+{2021/06/04 18:07:40} send smd 9
+[2021/06/04 18:07:42] RaspiCam support started
+[2021/06/04 18:07:42] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/06/04 18:07:42] Scheduler loop is started
+{2021/06/04 18:07:42} Starting command loop
+[2021/06/04 18:07:42] Reload parameters command requested
+[2021/06/04 18:07:42] Scheduler loop is started
+[2021/06/04 18:07:43] New period detected 0
+[2021/06/04 18:07:43] Scheduled management tasks. Next at 1622804863
+[2021/06/06 22:00:45] Scheduled management tasks. Next at 1622991645
+[2021/06/06 22:01:22] Logged in user:Air:
+[2021/06/06 22:01:22] UserLevel 6
+{2021/06/06 22:01:39} h264 search /var/www/picam/media/vi_0004_20210604_180742.mp4
+{2021/06/06 22:01:40} recommended video buffer size 65536
+{2021/06/06 22:01:40} h264 size set to 131072
+{2021/06/06 22:01:40} recommended video buffers 1
+{2021/06/06 22:01:40} h264 buffers set to recommended 1
+{2021/06/06 22:01:40} Set up internal detect width=82 height=61
+{2021/06/06 22:01:40} Stream continued
+[2021/06/06 22:01:54] Logged in user:Air:
+[2021/06/06 22:01:54] UserLevel 6
+{2021/06/06 22:04:22} Stream halted
+[2021/06/06 22:15:56] Logged in user:Air:
+[2021/06/06 22:15:56] UserLevel 6
+{2021/06/06 22:16:05} h264 search /var/www/picam/media/vi_0004_20210606_220422.mp4
+{2021/06/06 22:16:05} recommended video buffer size 65536
+{2021/06/06 22:16:05} h264 size set to 131072
+{2021/06/06 22:16:05} recommended video buffers 1
+{2021/06/06 22:16:05} h264 buffers set to recommended 1
+{2021/06/06 22:16:05} Set up internal detect width=82 height=61
+{2021/06/06 22:16:05} Stream continued
+[2021/06/06 22:16:17] Logged in user:Air:
+[2021/06/06 22:16:17] UserLevel 6
+{2021/06/06 22:16:57} Capturing started
+[2021/06/06 22:17:03] Logged in user:Air:
+[2021/06/06 22:17:03] UserLevel 6
+{2021/06/06 22:17:06} Capturing stopped
+{2021/06/06 22:17:06} Add /var/www/picam/media/vi_0004_20210606_221657.mp4 to Box Queue at pos 0
+{2021/06/06 22:17:07} Start boxing /var/www/picam/media/vi_0004_20210606_221657.h264 to /var/www/picam/media/vi_0004_20210606_221657.mp4 Queue pos 0
+{2021/06/06 22:17:11} Capturing image
+{2021/06/06 22:17:12} Finished boxing /var/www/picam/media/vi_0004_20210606_221657.mp4 from Box Queue at pos 0
+{2021/06/06 22:17:12} Removed item from Box Queue
+{2021/06/06 22:17:17} Watchdog detected problem. Stopping{2021/06/06 22:17:17} SIGINT/SIGTERM received, stopping
+{2021/06/06 22:17:22} RaspiMJPEG Version 5.9.5
+{2021/06/06 22:17:22} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/06/06 22:17:22} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/06/06 22:17:22} MJPEG idle, ready to receive commands
+{2021/06/06 22:17:22} send smd 9
+{2021/06/06 22:17:22} Starting command loop
+[2021/06/06 22:17:22] Reload parameters command requested
+[2021/06/06 22:17:22] Scheduler loop is started
+[2021/06/06 22:17:23] New period detected 0
+[2021/06/06 22:17:23] Scheduled management tasks. Next at 1622992643
+[2021/06/06 22:18:02] Generating ZIP using command: zip -0 -q - media/vi_0004_20210606_221657.mp4 (12907312 bytes)
+[2021/06/06 22:18:46] Logged in user:Air:
+[2021/06/06 22:18:46] UserLevel 6
+[2021/06/06 22:18:59] Logged in user:Air:
+[2021/06/06 22:18:59] UserLevel 6
+[2021/06/06 22:39:18] Logged in user:Air:
+[2021/06/06 22:39:18] UserLevel 6
+[2021/06/06 22:39:33] Logged in user:Air:
+[2021/06/06 22:39:33] UserLevel 6
+{2021/06/06 22:39:37} h264 search /var/www/picam/media/vi_0005_20210606_221722.mp4
+{2021/06/06 22:39:37} recommended video buffer size 65536
+{2021/06/06 22:39:37} h264 size set to 131072
+{2021/06/06 22:39:37} recommended video buffers 1
+{2021/06/06 22:39:37} h264 buffers set to recommended 1
+{2021/06/06 22:39:37} Set up internal detect width=82 height=61
+{2021/06/06 22:39:37} Stream continued
+[2021/06/06 22:40:19] Logged in user:Air:
+[2021/06/06 22:40:19] UserLevel 6
+{2021/06/06 22:40:39} Stream halted
+[2021/06/06 22:40:50] Logged in user:Air:
+[2021/06/06 22:40:50] UserLevel 6
+[2021/06/06 22:40:52] Logged in user:Air:
+[2021/06/06 22:40:52] UserLevel 6
+{2021/06/06 22:42:34} RaspiMJPEG Version 5.9.5
+{2021/06/06 22:42:34} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/06/06 22:42:34} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/06/06 22:42:34} MJPEG idle, ready to receive commands
+{2021/06/06 22:42:34} send smd 9
+[2021/06/06 22:42:35] RaspiCam support started
+[2021/06/06 22:42:36] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/06/06 22:42:36] Scheduler loop is started
+{2021/06/06 22:42:36} Starting command loop
+[2021/06/06 22:42:36] Reload parameters command requested
+[2021/06/06 22:42:36] Scheduler loop is started
+[2021/06/06 22:42:37] New period detected 0
+[2021/06/06 22:42:37] Scheduled management tasks. Next at 1622994157
+[2021/06/07 22:26:22] Scheduled management tasks. Next at 1623079582
+[2021/06/07 22:27:33] Logged in user:Air:
+[2021/06/07 22:27:33] UserLevel 6
+{2021/06/07 22:27:40} h264 search /var/www/picam/media/vi_0005_20210606_224236.mp4
+{2021/06/07 22:27:40} recommended video buffer size 65536
+{2021/06/07 22:27:40} h264 size set to 131072
+{2021/06/07 22:27:40} recommended video buffers 1
+{2021/06/07 22:27:40} h264 buffers set to recommended 1
+{2021/06/07 22:27:40} Set up internal detect width=82 height=61
+{2021/06/07 22:27:40} Stream continued
+[2021/06/07 22:27:47] Logged in user:Air:
+[2021/06/07 22:27:47] UserLevel 6
+[2021/06/07 22:29:23] Logged in user:Air:
+[2021/06/07 22:29:23] UserLevel 6
+{2021/06/07 22:36:02} Stream halted
+[2021/06/07 23:26:23] Scheduled management tasks. Next at 1623083183
+[2021/06/08 00:26:24] Scheduled management tasks. Next at 1623086784
+{2021/06/08 00:45:12} RaspiMJPEG Version 5.9.5
+{2021/06/08 00:45:12} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/06/08 00:45:12} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/06/08 00:45:12} MJPEG idle, ready to receive commands
+{2021/06/08 00:45:12} send smd 9
+[2021/06/08 00:45:14] RaspiCam support started
+[2021/06/08 00:45:14] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/06/08 00:45:14] Scheduler loop is started
+{2021/06/08 00:45:14} Starting command loop
+[2021/06/08 00:45:14] Reload parameters command requested
+[2021/06/08 00:45:14] Scheduler loop is started
+[2021/06/08 00:45:15] New period detected 0
+[2021/06/08 00:45:15] Scheduled management tasks. Next at 1623087915
+[2021/06/08 13:56:50] Scheduled management tasks. Next at 1623135410
+[2021/06/08 14:36:58] Logged in user:Air:
+[2021/06/08 14:36:58] UserLevel 6
+{2021/06/08 14:37:02} h264 search /var/www/picam/media/vi_0005_20210608_004514.mp4
+{2021/06/08 14:37:02} recommended video buffer size 65536
+{2021/06/08 14:37:02} h264 size set to 131072
+{2021/06/08 14:37:02} recommended video buffers 1
+{2021/06/08 14:37:02} h264 buffers set to recommended 1
+{2021/06/08 14:37:03} Set up internal detect width=82 height=61
+{2021/06/08 14:37:03} Stream continued
+{2021/06/08 14:37:28} h264 search /var/www/picam/media/vi_0005_20210608_143728.mp4
+{2021/06/08 14:37:28} Error: Could not enable camera
+{2021/06/08 14:37:28} Executing macro /var/www/picam/macros/error_hard.sh "Could not enable camera"  
+[2021/06/08 14:37:32] Logged in user:Air:
+[2021/06/08 14:37:32] UserLevel 6
+{2021/06/08 14:37:33} RaspiMJPEG Version 5.9.5
+{2021/06/08 14:37:33} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/06/08 14:37:33} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/06/08 14:37:33} MJPEG idle, ready to receive commands
+{2021/06/08 14:37:33} send smd 9
+{2021/06/08 14:37:33} Starting command loop
+[2021/06/08 14:37:33] Reload parameters command requested
+[2021/06/08 14:37:33] Scheduler loop is started
+[2021/06/08 14:37:34] New period detected 0
+[2021/06/08 14:37:34] Scheduled management tasks. Next at 1623137854
+{2021/06/08 14:37:36} h264 search /var/www/picam/media/vi_0005_20210608_143733.mp4
+{2021/06/08 14:37:36} recommended video buffer size 65536
+{2021/06/08 14:37:36} h264 size set to 131072
+{2021/06/08 14:37:36} recommended video buffers 1
+{2021/06/08 14:37:36} h264 buffers set to recommended 1
+{2021/06/08 14:37:36} Set up internal detect width=82 height=61
+{2021/06/08 14:37:36} Stream continued
+[2021/06/08 14:37:41] Logged in user:Air:
+[2021/06/08 14:37:41] UserLevel 6
+{2021/06/08 14:38:40} Capturing image
+[2021/06/08 14:38:53] Logged in user:Air:
+[2021/06/08 14:38:53] UserLevel 6
+{2021/06/08 14:56:01} Stream halted
+{2021/06/08 14:33:45} RaspiMJPEG Version 5.9.5
+{2021/06/08 14:33:45} Opening FIFO 0 /var/www/picam/FIFO 6
+{2021/06/08 14:33:45} Opening FIFO 1 /var/www/picam/FIFO11 7
+{2021/06/08 14:33:45} MJPEG idle, ready to receive commands
+{2021/06/08 14:33:45} send smd 9
+[2021/06/08 14:33:46] RaspiCam support started
+[2021/06/08 14:33:47] Capture Pipe already exists /var/www/picam/FIFO1
+[2021/06/08 14:33:47] Scheduler loop is started
+{2021/06/08 14:33:47} Starting command loop
+[2021/06/08 14:33:47] Reload parameters command requested
+[2021/06/08 14:33:47] Scheduler loop is started
+[2021/06/08 14:33:48] New period detected 0
+[2021/06/08 14:33:48] Scheduled management tasks. Next at 1623137628
+[2021/06/10 10:32:37] Scheduled management tasks. Next at 1623295957
