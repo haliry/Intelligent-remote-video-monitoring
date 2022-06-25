@@ -8,15 +8,6 @@
 
 主要是环境配置和内网穿透，网上查阅资料配置即可，原先的文件个人信息比较多就不展示了，这里很感谢同济子豪兄的树莓派帖子。代码详情见运动检测模式和云台监控模式两个文件夹，程序已经部署好了，注意的是两种模式均可开启摄像头，在某一种模式下开启摄像头后，要想开启另一种模式的摄像头，要先关闭之前模式的摄像头否则会冲突，页面会弹出报错信息，系统程序没有崩，用户体验不佳而已，重新刷新下页面，再开启摄像头即可，当时因为毕设时间不足和能力有限，暂时没有想到处理冲突的办法，刷新一下即可。
 
-![image](https://user-images.githubusercontent.com/40397845/175769585-2e6643b0-f176-4eb7-aebf-24b1176063a6.png)
-
-![image](https://user-images.githubusercontent.com/40397845/175769607-ee7b269f-66e2-4314-94b4-a1e1e9a30cf8.png)
-
-![image](https://user-images.githubusercontent.com/40397845/175769622-66d94f55-0c1c-4180-8387-dab228b133b6.png)
-
-![image](https://user-images.githubusercontent.com/40397845/175769670-d561bddc-0e63-4895-a171-9b4ef1c5bc81.png)
-
-
 ------
 **成品图：**
 
