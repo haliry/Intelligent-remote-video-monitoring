@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>树莓派智能监控系统</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="application/x-javascript"> 
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        } 
+    </script>
+    <!--字体-->
+    <link href='http://fonts.useso.com/css?family=PT+Sans:400,700,400italic,700italic|Oswald:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.useso.com/css?family=Exo+2' rel='stylesheet' type='text/css'>
+    <!--//js-->
+    <script src="http://ajax.useso.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <style>
+      .btn{
+          width:80px;
+          margin:20px;
+          font-size:16px;
+          padding:5px;
+          border-radius:10px;
+          background:lightgreen;
+          border-color:lightgreen;
+      }
+      .navbar-inverse{
+          background-color:#222;
+          border-color:#080808;
+          top:0;
+          border-width:0 0 1px;
+          position:fixed;
+          right:0;
+          left:0;
+          z-index:1030;
+          min-height:50px;
+          margin-bottom:20px;
+          border:1px solid transparent;
+      }
+      .container{
+          margin-right:auto;
+          margin-left:11%;
+          padding-left:15px;
+          padding-right:15px;
+          height:50px;
+      }
+      .navbar-brand{
+          float:left;
+          padding:15px 15px;
+          font-size:18px;
+          line-height:20px;
+          color:#777;
+          text-decoration:none;
+      }
+    </style>
+</head>
+<body>
+    <div class="navbar-inverse" role="navigation" >
+     <div class="container">
+       <a class="navbar-brand" href="#">基于树莓派的远程流媒体传输系统</a>
+     </div>
+    </div>
+    <div style="margin:auto;margin-top:70px;text-align:center;">
+    <!--SIGN UP-->
+        <div class="login-form">
+            <form method="post" action="{{ url_for("index") }}">
+                <input type="text" style="width:200px;margin:20px;padding:5px;font-size:16px;border-radius:10px;" class="text" name="username" value="Username" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Username';}">
+                <div class="key">
+                    <input type="password" style="width:200px;margin:20px;padding:5px;font-size:16px;border-radius:10px;" name="password" value="Passowrd" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}">
+                </div>
+                <div class="signin">
+                    <input type="submit" style="width:80px;margin:20px;padding:5px;font-size:16px;border-radius:10px;background:lightgreen;border-color:lightgreen;" value="登录">
+                    {% if errmsg %} {# 判断是否有错误信息 #}
+                        <div class="error_tip" style="display: block;color: red">{{ errmsg }}</div>
+                    {% endif %}
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

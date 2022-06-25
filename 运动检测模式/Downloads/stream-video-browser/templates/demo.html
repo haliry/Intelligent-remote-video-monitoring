@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>树莓派智能监控系统</title>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript">
+      $(function(){
+        $("button").click(function(){
+          if(this.id=="open"){
+            $.post("/open",this.id,function(data,status){
+              if(status)
+                  alert("正在开启监控，请稍等...")
+                  $("#hi").css("display","block")
+              });
+          }
+          if(this.id=="close"){
+            $.post("/close",this.id,function(data,status){
+              if(status)
+                  alert("正在关闭监控，请稍等...")
+                  $("#hi").css("display","none")
+              });
+          }
+        });
+        $("#jk").click(function(){
+          window.open('http://pt.huanglvlin.top:9000/picam/')
+        });
+      });
+    </script>
+    <style>
+      .btn{
+          width:80px;
+          margin:20px;
+          font-size:16px;
+          padding:5px;
+          border-radius:10px;
+          background:lightgreen;
+          border-color:lightgreen;
+      }
+      .navbar-inverse{
+          background-color:#222;
+          border-color:#080808;
+          top:0;
+          border-width:0 0 1px;
+          position:fixed;
+          right:0;
+          left:0;
+          z-index:1030;
+          min-height:50px;
+          margin-bottom:20px;
+          border:1px solid transparent;
+      }
+      .container{
+          margin-right:auto;
+          margin-left:11%;
+          padding-left:15px;
+          padding-right:15px;
+          height:50px;
+      }
+      .navbar-brand{
+          float:left;
+          padding:15px 15px;
+          font-size:18px;
+          line-height:20px;
+          color:#777;
+          text-decoration:none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar-inverse" role="navigation" >
+     <div class="container">
+       <a class="navbar-brand" href="#">运动检测监控</a>
+     </div>
+    </div>
+    <div style="text-align:center;margin:auto;margin-top:60px;">
+      <button id="open" class="btn">开启</button>
+      <button id="close" class="btn">关闭</button>
+      <input id="jk" type="button" class="btn" style="width:100px;" value="云台监控" />
+      <img id="hi" src="{{ url_for('video_feed') }}" style="width:60%;height:40%;display:block;margin:auto;">
+    </div>
+  </body>
+</html>
+
