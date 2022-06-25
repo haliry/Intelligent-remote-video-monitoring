@@ -5,9 +5,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
-_user = "airgakki@qq.com"
-_pwd = "bzndbiqwunhjbaee"
-_to = "airhaliry@qq.com"
+_user = "xxx@qq.com"
+_pwd = "xxx"
+_to = "xxx@qq.com"
 
 def send():
     msg = MIMEMultipart('related')
